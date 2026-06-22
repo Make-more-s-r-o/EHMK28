@@ -3,7 +3,18 @@
 > Sdílená paměť týmu. Sem zapisujte rozhodnutí a aktuální stav, ať to oba vidí. Aktualizujte
 > po každém větším kroku. (Detaily podmínek = `../ZAPIS-VYZVA.md`, úkoly = `../UKOLY.md`.)
 
-**Poslední aktualizace:** 22. 6. 2026 (založení projektu)
+**Poslední aktualizace:** 22. 6. 2026 (konec session — workspace + audit hotové, vše na GitHubu)
+
+## ▶ Kde pokračovat (příští session)
+- **Workspace je hotový a celý na GitHubu** (branch `main`, synced). Nic nerozpracovaného.
+- **Blokuje lidská rozhodnutí, ne dokumentace:** (1) velikost projektu malý/velký,
+  (2) žadatel + jeho sídlo vs Jihočeský kraj, (3) **zahraniční partner + Letter of Intent**
+  (kritická cesta — sehnat trvá nejdéle). Termín **10. 7. 2026**.
+- **Ondřej** zatím nezačal: přijmout pozvánku na GitHub → naklonovat repo → přečíst
+  `ONBOARDING.md`.
+- **Plaud MCP** nainstalován globálně (user config `~/.claude.json`), ✔ Connected, ale
+  **ještě nepřihlášen** → po restartu session napsat „Log me into Plaud" (OAuth v prohlížeči).
+  Pak lze tahat přepisy nahrávek → zápisy do `UKOLY.md` / sem.
 
 ## Základní fakta
 - **Výzva:** (Perma)kulturní Open Call 2026, 2. výzva — EHMK České Budějovice 2028.
@@ -32,3 +43,5 @@
 - 22. 6. 2026 — Proběhl compliance audit (5 agentů, Opus) → `strategie/compliance-audit.md`.
   1 blocker + 4 warnings + 7 info, vše zapracováno. **Otevřená věc:** výklad capu na přípravu
   2027 (celý rozpočet vs. jen podíl ČB28) — držet pod limitem obojí.
+- 22. 6. 2026 — Konec session: vše commitnuto a pushnuto (`main` synced). Nainstalován Plaud
+  MCP do globálního configu (čeká na OAuth login po restartu). Dan restartuje session.
