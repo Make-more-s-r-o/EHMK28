@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editor / dočasné soubory
+*~
+*.tmp
+*.swp
+
+# Konflikt kopie z cloud sync (kdyby někdo přidal Drive/Dropbox)
+*conflicted copy*
+* (1).*
+
+# Lokální poznámky, co nemají jít do sdíleného repa
+local/
+*.local.md
