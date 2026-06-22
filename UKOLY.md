@@ -3,18 +3,26 @@
 Stav k 22. 6. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývá ~18 dní.
 Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatní.
 
+## ⏰ JVTP / pop-up FabLab — hoří (ze schůzky 22. 6.)
+| # | Úkol | Vlastník | Doporučený agent | Termín | Stav |
+|---|---|---|---|---|---|
+| A | **One Pager pro JVTP** — handout ke schůzce s ředitelem JVTP (jdou/nejdou do toho s námi) | Ondřej (text) + Dan (rozpočet) | vedouci-projektu | **23. 6. dopo** | 🟡 |
+| B | **Rozpočtová + kapacitní modelace** pop-up FabLabu (Danova čísla z HW labu) → sekce 6 One Pageru | Dan | grantovy-specialista | 23. 6. | 🟡 |
+| C | **Koncept aktivit** — popis (třídy dopo / veřejnost odpo–večer, repair), 1. vs 2. rok, dlouhodobý potenciál | Ondřej | grantovy-specialista | 23. 6. | ⬜ |
+| D | Ověřit **krytí kofinancování z jiného projektu EHMK** (info od Vojty / „KM") | Dan | vedouci-projektu | do 26. 6. | ⬜ |
+
 ## 🔴 Nejdřív rozhodnout (blokuje vše ostatní)
 | # | Úkol | Vlastník | Doporučený agent | Termín | Stav |
 |---|---|---|---|---|---|
-| 1 | **Velikost projektu** — malý (max 1,5 M, 70 %) vs velký (max 4 M, 50 %) | Dan + Ondřej | vedouci-projektu | do 26. 6. | ⬜ |
-| 2 | **Žadatel** — která právnická osoba podává? Ověřit sídlo/pobočku v Jihočeském kraji | Dan | vedouci-projektu | do 26. 6. | ⬜ |
+| 1 | **Velikost projektu** — směřuje k DVOJÍMU podání (malý Maker Faire + velký FabLab/JVTP); potvrdit | Dan + Ondřej | vedouci-projektu | do 26. 6. | 🟡 |
+| 2 | **Žadatel velkého projektu** — JVTP vs Make more jako hlavní žadatel (vyjasní schůzka s ředitelem JVTP) | Dan | vedouci-projektu | do 26. 6. | 🟡 |
 | 3 | **Koncept projektu** — téma + žánr (ideálně preferovaný), jak naplní (Perma)kulturu | Dan + Ondřej | grantovy-specialista | do 28. 6. | ⬜ |
 
 ## 🤝 Partneři (tvrdá podmínka — řešit hned, trvá to)
 | # | Úkol | Vlastník | Doporučený agent | Termín | Stav |
 |---|---|---|---|---|---|
 | 4 | **Zahraniční partner** — najít a domluvit, získat **Letter of Intent** (povinná příloha) | ? | vedouci-projektu | do 5. 7. | 🔴 |
-| 5 | **Jihočeský partner** — jen pokud žadatel není z JčK (dle #2) | ? | vedouci-projektu | do 5. 7. | ⬜ |
+| 5 | **Jihočeský partner** — ✅ pokrývá JVTP (Jihočeský vědeckotechnologický park) u velkého projektu | Dan | vedouci-projektu | do 5. 7. | 🟢 |
 
 ## ✍️ Obsah žádosti (složka `zadost/`)
 | # | Úkol | Vlastník | Doporučený agent | Termín | Stav |

@@ -3,18 +3,19 @@
 > Sdílená paměť týmu. Sem zapisujte rozhodnutí a aktuální stav, ať to oba vidí. Aktualizujte
 > po každém větším kroku. (Detaily podmínek = `../ZAPIS-VYZVA.md`, úkoly = `../UKOLY.md`.)
 
-**Poslední aktualizace:** 22. 6. 2026 (konec session — workspace + audit hotové, vše na GitHubu)
+**Poslední aktualizace:** 22. 6. 2026 (schůzka s Ondřejem — směr JVTP / pop-up FabLab, dvojí podání)
 
 ## ▶ Kde pokračovat (příští session)
-- **Workspace je hotový a celý na GitHubu** (branch `main`, synced). Nic nerozpracovaného.
-- **Blokuje lidská rozhodnutí, ne dokumentace:** (1) velikost projektu malý/velký,
-  (2) žadatel + jeho sídlo vs Jihočeský kraj, (3) **zahraniční partner + Letter of Intent**
-  (kritická cesta — sehnat trvá nejdéle). Termín **10. 7. 2026**.
-- **Ondřej** zatím nezačal: přijmout pozvánku na GitHub → naklonovat repo → přečíst
-  `ONBOARDING.md`.
-- **Plaud MCP** nainstalován globálně (user config `~/.claude.json`), ✔ Connected, ale
-  **ještě nepřihlášen** → po restartu session napsat „Log me into Plaud" (OAuth v prohlížeči).
-  Pak lze tahat přepisy nahrávek → zápisy do `UKOLY.md` / sem.
+- **HOŘÍ — One Pager pro JVTP (handout ke schůzce s ředitelem JVTP).** Termín **23. 6. dopo**.
+  Kostra: `../strategie/one-pager-jvtp.md`. Chybí: vložit doporučený rozpočet (3 mil. blok
+  z `../strategie/rozpocet-3M-co-odbavime.md`, sekce 7 dokumentu) do sekce 6 + Ondřejův text
+  (sekce 1–3, 5). Viz úkoly A–C v `../UKOLY.md`.
+- **Rozhodnout sestavu FabLabu:** doporučeno **ŠKOLNÍ ROK** (294k/měs, 10,2 měs, ~5 100 dětí)
+  vs STŘEDNÍ. Pak lze pustit iteraci 3 modelace. Otevřené: mix večerů, vlastní výnos
+  100–200/dítě, **in-kind příslib nájmu + vybavení od JVTP** (bez něj se pilot zkrátí).
+- **Trvá blocker:** zahraniční partner + Letter of Intent (síť JVTP nestačí). Termín 10. 7.
+- **Plaud login** drží jen v rámci session — v nové session případně znovu „Log me into Plaud".
+  Transkripty děláme lokálně (mlx-whisper) a porovnáváme s Plaud (viz user memory).
 
 ## Základní fakta
 - **Výzva:** (Perma)kulturní Open Call 2026, 2. výzva — EHMK České Budějovice 2028.
@@ -24,11 +25,11 @@
 ## Rozhodnutí (zatím otevřená)
 | Otázka | Stav | Pozn. |
 |---|---|---|
-| Velikost projektu (malý/velký) | ❓ nerozhodnuto | viz `../strategie/rozhodnuti-maly-vs-velky.md` |
-| Žadatel (právnická osoba) | ❓ neurčen | nutno ověřit sídlo vs Jihočeský kraj |
-| Zahraniční partner | 🔴 nezajištěn | povinný + Letter of Intent |
-| Jihočeský partner | ❓ závisí na žadateli | povinný, pokud žadatel není z JčK |
-| Koncept / téma / žánr | ❓ | ideálně preferovaný žánr, rámec (Perma)kultury |
+| Velikost projektu (malý/velký) | 🟡 směřuje k DVOJÍMU podání | malý (Maker Faire ČB, MM hlavní) **+** velký (pop-up FabLab s JVTP); priorita velký |
+| Žadatel (právnická osoba) | ❓ neurčen | u velkého projektu hlavní žadatel JVTP vs Make more **nerozhodnuto** (vyjasní schůzka s ředitelem JVTP) |
+| Zahraniční partner | 🔴 nezajištěn | povinný + Letter of Intent. ⚠️ napojení na mezinárodní síť JVTP **NEstačí** — blocker trvá |
+| Jihočeský partner | 🟢 JVTP | Jihočeský vědeckotechnologický park = jihočeský partner velkého projektu |
+| Koncept / téma / žánr | 🟡 pop-up FabLab | zkušební provoz dílny (dopo třídy / odpo–večer veřejnost, repair); ref. HW Lab Praha |
 
 ## Pravidla práce (připomínka)
 - Obsah česky, git commit messages anglicky.
@@ -45,3 +46,16 @@
   2027 (celý rozpočet vs. jen podíl ČB28) — držet pod limitem obojí.
 - 22. 6. 2026 — Konec session: vše commitnuto a pushnuto (`main` synced). Nainstalován Plaud
   MCP do globálního configu (čeká na OAuth login po restartu). Dan restartuje session.
+- 22. 6. 2026 — **Schůzka Dan + Ondřej** (zápis: `../schuzky/2026-06-22-ondra-zapis.md`).
+  Směr: **dvojí podání** — malý (Maker Faire ČB, Make more hlavní) + velký (**pop-up FabLab**
+  s partnerem **JVTP**). Velký projekt ~8 mil., grant max 4 mil. (50 %), kofinancování 4 mil.
+  (MM ~3 mil. + JVTP ~1 mil., ideál víc od JVTP). Hlavní žadatel velkého projektu (JVTP vs MM)
+  **nerozhodnuto** — vyjasní schůzka s ředitelem JVTP. **Úkol do 23. 6. dopo: One Pager pro JVTP**
+  (handout ke schůzce). Reference provozu: HW Lab Praha. ⚠️ Zahraniční partner + LoI stále
+  nevyřešen (síť JVTP nestačí).
+- 22. 6. 2026 — **Rozpočtová/kapacitní modelace FabLabu** (2 ultracode iterace, Opus):
+  `../strategie/rozpocet-model-fablab.md` (plný model) + `../strategie/rozpocet-3M-co-odbavime.md`
+  (strop 3 mil. cash). Doporučená sestava **ŠKOLNÍ ROK**: ~294k/měs → 10,2 měs provozu,
+  ~5 100 unikátních dětí, 530 oprav. ⚠️ Celoročnost závisí na **in-kind nájmu + vybavení od
+  JVTP** (bez písemného příslibu se pilot zkrátí na ~7–8 měs). K rozhodnutí: sestava, mix
+  večerů, vlastní výnos 100–200/dítě.
