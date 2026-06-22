@@ -1,52 +1,39 @@
-# Grant — společné psaní
+# Grant: (Perma)kulturní Open Call 2026 — EHMK České Budějovice 2028
 
-Tohle repo slouží k tomu, abychom grant psali **ve dvou, každý ve svém Claude Code**.
-Sdílíme jednu složku přes GitHub. Nemusíš umět git — všechno za tebe udělá tvůj Claude,
-stačí mu říct lidsky, co chceš.
+Společná příprava grantové žádosti do otevřené výzvy Evropského hlavního města kultury
+České Budějovice 2028. Píšeme ji **Dan a Ondřej** společně přes tento GitHub repozitář,
+každý ve svém Claude Code.
 
-## Jak začít (jednorázově)
+> 🆕 **Začínáš poprvé (Ondřeji)?** Přečti si [ONBOARDING.md](./ONBOARDING.md). Stačí 5 minut.
 
-Řekni svému Claude Code:
+## ⏰ Termín
+**Uzávěrka: 10. 7. 2026, 23:59 CET.** Kompletní podmínky → [ZAPIS-VYZVA.md](./ZAPIS-VYZVA.md).
 
-> „Naklonuj mi tohle repo do složky na disku: `<URL_REPA>` a od teď v něm budeme psát grant."
+## Rychlý start
+1. **Naklonuj repo** (řekni svému Claude Code): *„Naklonuj `git@github.com:Make-more-s-r-o/EHMK28.git`
+   do složky na disku a přečti AGENTS.md."* (Když SSH nejede, použij
+   `https://github.com/Make-more-s-r-o/EHMK28.git`.)
+2. **Před prací:** *„stáhni nejnovější verzi."*
+3. **Po práci:** *„nahraj moje změny."*
 
-(URL repa ti pošlu — vypadá jako `https://github.com/<ucet>/<repo>.git`.)
+Claude se o git (pull/commit/push) postará sám.
 
-## Každodenní práce
+## Co je v repu
+| Soubor / složka | K čemu |
+|---|---|
+| [ZAPIS-VYZVA.md](./ZAPIS-VYZVA.md) | Kompletní rešerše výzvy — co se odevzdává, termíny, rozpočet, hodnocení |
+| [UKOLY.md](./UKOLY.md) | Co je potřeba udělat — vlastník, doporučený agent, termín |
+| [AGENTS.md](./AGENTS.md) | Pravidla projektu pro Claude Code (čte se automaticky) |
+| [ONBOARDING.md](./ONBOARDING.md) | Návod pro prvního uživatele Claude Code |
+| `zadost/` | Draft odpovědí formuláře (zrcadlí reálný XLSX) |
+| `strategie/` | Rozhodnutí (malý vs velký projekt), partneři |
+| `podklady/` | Originální PDF výzvy + XLSX formulář |
+| `memory/PROJEKT-STAV.md` | Živá paměť projektu — rozhodnutí a stav |
+| `.claude/agents/` | Dva specializovaní AI agenti (grant + vedení projektu) |
 
-**Než začneš psát**, řekni Claudovi:
+## Dva pomocníci (AI agenti)
+- **grantovy-specialista** — píše a ladí žádost na maximum bodů, hlídá rozpočet a pravidla výzvy.
+- **vedouci-projektu** — harmonogram, milníky, partneři, rozdělení práce, rizika.
 
-> „Stáhni nejnovější verzi grantu." *(Claude udělá `git pull`)*
-
-**Když dopíšeš** svoji část:
-
-> „Nahraj moje změny, ať je vidí kolega." *(Claude udělá `git add` + `commit` + `push`)*
-
-To je celé. Claude se postará o commit zprávy i případné slučování.
-
-## Pravidlo proti konfliktům
-
-Grant je **rozsekaný na samostatné soubory podle kapitol** (viz níže). Abychom si
-navzájem nepřepisovali text:
-
-- **Domluvme se, kdo dělá kterou kapitolu**, a needitujme stejný soubor naráz.
-- Když přesto potřebuješ sáhnout do „cizí" kapitoly, nejdřív si stáhni nejnovější verzi
-  a kolegovi to řekni.
-
-## Struktura
-
-| Soubor | Obsah |
-|--------|-------|
-| `00-prehled.md` | Základní info o žádosti (program, výzva, termíny, žadatel) |
-| `01-cile.md` | Cíle projektu, co chceme dokázat |
-| `02-zduvodneni.md` | Zdůvodnění / motivace — proč je projekt potřeba |
-| `03-reseni.md` | Náš přístup, metodika, jak to uděláme |
-| `04-harmonogram.md` | Harmonogram, milníky, fáze |
-| `05-rozpocet.md` | Rozpočet a jeho zdůvodnění |
-| `06-tym.md` | Tým, role, kompetence |
-| `07-dopady.md` | Očekávané výstupy, dopady, udržitelnost |
-| `08-rizika.md` | Rizika a jejich ošetření |
-| `09-prilohy.md` | Přílohy, reference, odkazy |
-
-> Strukturu klidně upravíme podle konkrétní výzvy (TAČR, OP JAK, Horizon Europe, …) —
-> každý program má vlastní povinné kapitoly.
+Claude ti je sám nabídne, když se hodí. Můžeš si je vyžádat i sám: *„zapoj grantového
+specialistu na rozpočet."*
