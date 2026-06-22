@@ -38,7 +38,8 @@
 - **Celkový rozpočet projektu (2027+2028):**
 - **Finanční podíl ČB28 (požadovaná podpora):** *(malý ≤1,5 M/70 %, velký ≤4 M/50 %)*
 - **Rozpočet na jednotlivé roky:** 2027: … | 2028: …
-- **Podíl ČB28 na jednotlivé roky:** 2027 (cap 400k/800k): … | 2028: …
+- **Podíl ČB28 na jednotlivé roky:** 2027: … | 2028: … *(rozpočet přípravy 2027 je limitován
+  na max 400k/800k — drž pod limitem celkem i podíl ČB28; viz `04-rozpocet-2027.md`)*
 - **Zdroje spolufinancování:** 1: … | 2: … | 3: …
 - **Soukromé financování / vstupné celkem:**
 - **EU zdroje financování** *(doporučeno — boduje se v rozpočtu):*

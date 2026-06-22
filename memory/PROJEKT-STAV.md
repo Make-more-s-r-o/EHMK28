@@ -29,3 +29,6 @@
 - 22. 6. 2026 — Založen repozitář, rešerše výzvy (ZAPIS-VYZVA.md), struktura žádosti,
   onboarding pro Ondřeje, dva agenti. Velikost projektu zatím nerozhodnuta (připraveny obě
   varianty). Zdrojové soubory v `podklady/`.
+- 22. 6. 2026 — Proběhl compliance audit (5 agentů, Opus) → `strategie/compliance-audit.md`.
+  1 blocker + 4 warnings + 7 info, vše zapracováno. **Otevřená věc:** výklad capu na přípravu
+  2027 (celý rozpočet vs. jen podíl ČB28) — držet pod limitem obojí.

@@ -4,11 +4,14 @@
 > Limity → `../ZAPIS-VYZVA.md`. Zapoj **grantovy-specialista**.
 
 ## ⚠️ Limity, které musí sedět
-- Podíl ČB28 na rok 2027: **max 400 000 Kč (malý)** / **max 800 000 Kč (velký)**.
+- **Rozpočet přípravy 2027 — limit: max 400 000 Kč (malý) / 800 000 Kč (velký).** Výzva
+  (kap. 7) kapuje *částku vyčleněnou na přípravu 2027*; výklad „celý rozpočet přípravy" vs.
+  „jen podíl ČB28" není v textu jednoznačný → **bezpečné je držet pod limitem obojí**
+  (sloupec Celkem 2027 i Z toho ČB28). Výklad před finálním rozpočtem ověřit u organizátora.
 - **Mzdy/platy/OON (kat. 1) jsou NEUZNATELNÉ** — mohou jen do spolufinancování (sloupec
   „Další zdroje"), ne do podílu ČB28.
-- Nepřímé náklady max **20 % podpory**. Drobný majetek jen **<80 000 Kč**. Catering/
-  občerstvení **neuznatelné**. Jen **neinvestiční** náklady.
+- Nepřímé náklady max **20 % z celkové podpory (2027+2028 dohromady)**. Drobný majetek jen
+  **<80 000 Kč**. Catering/občerstvení **neuznatelné**. Jen **neinvestiční** náklady.
 
 ## Tabulka
 > Sloupce dle formuláře: jednotka | počet | jednotková cena vč. DPH | Celkem | povinný
@@ -30,4 +33,4 @@
 | 6.x | | | | | | | |
 | **7. Propagace** (práce, grafika, tisk, reklamní prostor, foto, video) | | | | | | | |
 | 7.x | | | | | | | |
-| **CELKEM 2027** | | | | | *(≤400k/800k)* | | |
+| **CELKEM 2027** | | | | **≤ 400k/800k** | drž pod limitem | | |

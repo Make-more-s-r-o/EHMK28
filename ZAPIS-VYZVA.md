@@ -7,9 +7,9 @@
 ## ⏰ Nejdůležitější: termín
 - **Uzávěrka podání: 10. 7. 2026, 23:59 CET.** Rozhodný je čas doručení do e-mailové
   schránky organizátora. Přihlášky po termínu jsou automaticky vyřazeny.
-- Pozn.: web v jednu chvíli zobrazoval 18. 5. 2026, ale to je v rozporu s oficiálním PDF
-  i harmonogramem (workshop k vyplnění 28. 5., hodnocení 11. 7.–9. 10.). **Platí pozdější
-  termín — 10. 7. 2026.**
+- Pozn.: web krátce zobrazoval dřívější termín (18. 5.), který se v oficiálním PDF
+  nevyskytuje a odporuje harmonogramu (workshop k vyplnění 28. 5., hodnocení 11. 7.–9. 10.).
+  **Platí pozdější, oficiální termín z PDF — 10. 7. 2026, 23:59 CET.**
 - Po formální kontrole může organizátor vyzvat k doplnění; lhůta na doplnění je **7
   pracovních dní**, jinak vyřazení.
 
@@ -30,10 +30,13 @@ partnerem ČB28, projde Projektovou posilovnou a realizuje hlavní výstup v roc
 ## 🔴 Tvrdé podmínky (bez nich projekt nelze podat)
 1. **Zahraniční partner — povinný.** Aktivně se podílí na vývoji a realizaci (ne dodavatel,
    ne jednotlivý umělec). Doklad = **Letter of Intent** ≥1 zahraničního partnera (povinná příloha).
-2. **Jihočeský partner — povinný, pokud žadatel nemá sídlo ani pobočku v Jihočeském kraji.**
-   Musí mít sídlo/pobočku v JčK. → **Nutno ověřit sídlo našeho žadatele.**
+2. **Jihočeský partner** — pokud žadatel nemá sídlo/pobočku v Jihočeském kraji, musí mít
+   sídlo/pobočku v JčK jeho **HLAVNÍ partner** (kap. 4 výzvy) — nestačí libovolný vedlejší
+   jihočeský partner. → **Nutno ověřit sídlo našeho žadatele.**
 3. **Hlavní výstup realizovat v roce 2028.** Místo: velké projekty = České Budějovice; malé
    projekty = ČB i Jihočeský kraj.
+4. **Podání je úplné jen s odeslaným registračním formulářem** — musí dorazit e-mail
+   s přílohami **i** registrační formulář (kap. 9 + povinná příloha č. 5).
 
 ## Téma: (Perma)kultura jako rámec (ne estetika)
 Projekt má s tématem pracovat vědomě v jedné či více rovinách:
@@ -111,20 +114,25 @@ nepíšeme; podání řešíme až na konci, ručně Dan.*
 ## Co následuje po podpoře
 Memorandum o spolupráci → Smlouva na přípravu 2027 → **Projektová posilovna ČB28**
 (~64 h, 2–5/2027) → příprava 1–12/2027 → realizace hlavních výstupů 1–12/2028.
-Reporting 1× ročně (2027, 2028 vůči MK ČR). Podstatné změny (rozsah, místo, partneři)
-jen s předchozím písemným souhlasem organizátora. Publicita: loga ČB28, města, kraje,
-MK ČR a EU na všech materiálech.
+Reporting 1× ročně (2027, 2028 vůči MK ČR). **Financování 2028:** buď přímo organizátor,
+nebo přes MK ČR — formální žádost se podává v **listopadu**, prostředky převedeny
+v **lednu/únoru** následujícího roku; rozpočet 2028 se dopracovává v polovině 2027.
+Podstatné změny (rozsah, místo, partneři) jen s předchozím písemným souhlasem organizátora.
+Publicita: loga ČB28, města, kraje, MK ČR a EU na všech materiálech.
 
 ## Harmonogram výzvy
 | Fáze | Termín |
 |---|---|
 | Vyhlášení | 13. 3. 2026 |
+| Online seminář: O EHMK 2028 a náležitosti přihlášky | 26. 3. 2026 |
+| Online seminář: Q&A pro mezinárodní žadatele | 17. 4. 2026 |
+| Matchmaking (tabulka kontaktů do 30. 4.) | přelom V/VI 2026 |
 | Workshop k vyplnění přihlášky | 28. 5. 2026 (proběhl) |
 | **Uzávěrka** | **10. 7. 2026, 23:59 CET** |
 | Formální + odborné hodnocení | 11. 7. – 9. 10. 2026 |
 | Vyhlášení výsledků | do 9. 10. 2026 |
 | Uzavření smluv | do 1/2027 |
-| Projektová posilovna | 2–5/2027 |
+| Projektová posilovna | ~64 h; 2–5/2027 (text PDF uvádí únor–duben — před plánováním ověřit) |
 | Příprava projektů | 1–12/2027 |
 | Realizace hlavních výstupů | 1–12/2028 |
 

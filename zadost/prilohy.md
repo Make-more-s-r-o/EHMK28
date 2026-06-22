@@ -8,7 +8,7 @@
 | 2 | **Letter of Intent** ≥1 zahraničního partnera | vedouci-projektu | 🔴 | tvrdá podmínka, řešit hned |
 | 3 | **Zakládací listina / stanovy** žadatele + **výpis skutečných majitelů** | Dan | ⬜ | |
 | 4 | **Plná moc** statutárního zástupce | Dan | ⬜ | jen je-li relevantní |
-| 5 | **Odeslaný registrační formulář** | Dan | ⬜ | samostatný online formulář |
+| 5 | **Odeslaný registrační formulář** | Dan | ⬜ | výzva neuvádí kanál/odkaz — dohledat na budejovice2028.eu/open-call |
 
 ## Podání (finální krok — teď nic neposíláme)
 - E-mailem na **opencall@budejovice2028.cz**, předmět **„(Perma)kulturní Opencall 2026 +

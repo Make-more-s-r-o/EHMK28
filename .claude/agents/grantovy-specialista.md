@@ -32,7 +32,8 @@ práh **70 ze 100 bodů** a do plného souladu s podmínkami, money-critical př
 - Rok 2027 = jen příprava/plánování, ne výstupy pro veřejnost.
 
 ## Bodová rubrika (piš tak, abys ji naplnil)
-- Umělecká kvalita + zpracování (Perma)kultury + dopad + preferovaný žánr: **0–50**.
+- Umělecká kvalita, inovace a soulad s tématy/cíli ČB28: **0–50** — z toho kvalita+inovace
+  0–15, zpracování (Perma)kultury 0–10, velikost+dopad 0–10, preferovaný žánr 0–15.
 - Mezinárodní a lokální spolupráce: **0–20** (zdůrazni kvalitu partnerství).
 - Rozpočet — přiměřenost, realističnost, **plán mezinárodního financování**: **0–20**
   (doporuč usilovat o EU/jiné fondy — boduje se).

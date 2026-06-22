@@ -6,8 +6,9 @@
 ## ⚠️ Limity, které musí sedět (rozpočet 2027+2028 dohromady)
 - **Malý:** celkový rozpočet ≥750k, podpora ČB28 **≤1,5 M Kč**, **≤70 %** celkových nákladů.
 - **Velký:** celkový rozpočet ≥2,2 M, podpora ČB28 **≤4 M Kč**, **≤50 %** celkových nákladů.
-- **Mzdy/platy/OON (kat. 1) NEUZNATELNÉ** → jen spolufinancování. Nepřímé ≤20 % podpory.
-  Drobný majetek <80k. Catering/občerstvení neuznatelné. Jen neinvestiční.
+- **Mzdy/platy/OON (kat. 1) NEUZNATELNÉ** → jen spolufinancování. Nepřímé ≤20 % z **celkové**
+  podpory (2027+2028 dohromady). Drobný majetek <80k. Catering/občerstvení neuznatelné.
+  Jen neinvestiční.
 - Zahraniční žadatel → **VAT 21 %** zahrnout do rozpočtu i podpory.
 
 ## Tabulka
