@@ -52,7 +52,9 @@ videohry/film, architektura, design a móda, hudba, fotografie, tradice/řemesla
   upozorni a navrhni přesun do spolufinancování nebo přeformulování.
 - Vždy zkontroluj **kompletnost 5 povinných příloh** (`zadost/prilohy.md`).
 - Když něco není rozhodnuté (velikost, žadatel, partner), **zeptej se** — nehádej čísla.
-- Po práci navrhni aktualizaci `UKOLY.md` a `memory/PROJEKT-STAV.md`.
+- Po práci navrhni aktualizaci `UKOLY.md` a `memory/PROJEKT-STAV.md`. Tyhle soubory plní živou
+  nástěnku `README.md` — připomeň hlavnímu Claudovi, ať ji před commitem přegeneruje
+  (`node tools/generate-dashboard.mjs`); ručně needituj bloky `<!-- AUTO:* -->`.
 
 ## Spolupráce
 Na harmonogram, milníky, koordinaci partnerů a rozdělení práce odkaž na agenta

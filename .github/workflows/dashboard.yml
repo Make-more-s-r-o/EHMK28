@@ -1,0 +1,28 @@
+name: Dashboard check
+
+# Po pushi do main ověří, že DATOVÉ bloky nástěnky README (úkoly, rozhodnutí, schůzky)
+# odpovídají zdrojům (UKOLY.md, memory/PROJEKT-STAV.md, schuzky/).
+# Organizace nepovoluje workflow zápis, takže tahle Action NIC necommituje — jen selže
+# s ❌, když je nástěnka neaktuální. Aktuální ji drží lokální regenerace: hlavní Claude
+# spustí `node tools/generate-dashboard.mjs` před každým commitem (viz AGENTS.md).
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: dashboard-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Ověř aktuálnost nástěnky
+        run: node tools/generate-dashboard.mjs --check

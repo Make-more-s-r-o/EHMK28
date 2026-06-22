@@ -43,7 +43,18 @@ V repu jsou dva specializovaní AI agenti. Claude ti je sám nabídne, ale můž
 - Kam psát obsah žádosti: složka `zadost/`
 - Pravidla projektu pro Clauda: [AGENTS.md](./AGENTS.md)
 
-## 7. Když něco nejde
+## 7. Nástěnka projektu (README se aktualizuje sám)
+Hlavní [README.md](./README.md) je **živá nástěnka** — odpočet do uzávěrky, schůzky, úkoly
+a poslední změny se v něm generují samy. Co stačí vědět:
+- **Needituj části mezi značkami `<!-- AUTO:* -->`** — přepíše je generátor. Ostatní text uprav klidně.
+- **Claude přegeneruje nástěnku před každým commitem**, takže je vždy aktuální — ty nemusíš nic
+  dělat. (Na GitHubu navíc běží kontrola; kdyby někdo zapomněl přegenerovat, ukáže ❌. Tebe se to
+  netýká.) Pravidlo **„před prací stáhni nejnovější verzi"** platí dál — ty i Dan pushujete do main.
+- **Nová schůzka:** ulož zápis do `schuzky/` jako `RRRR-MM-DD-tema-zapis.md` (např.
+  `2026-07-01-jvtp-zapis.md`); použij [šablonu](./schuzky/_SABLONA-zapis.md). Objeví se sám.
+- **Konflikt v README?** Nevadí — řekni Claudovi *„vezmi kteroukoli verzi a přegeneruj nástěnku"*.
+
+## 8. Když něco nejde
 - Claude hlásí konflikt v gitu → řekni mu „vyřeš ten konflikt a vysvětli mi, co se stalo."
 - Nevíš, kde začít → řekni „jsem tu poprvé, co mám podle UKOLY.md dělat jako první?"
 - Cokoli nejasného kolem výzvy → „shrň mi z UKOLY.md, co teď nejvíc hoří."

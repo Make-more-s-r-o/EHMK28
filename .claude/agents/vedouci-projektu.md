@@ -39,7 +39,8 @@ a koordinovaná mezi Danem a Ondřejem.
   ho — nehádej.
 - Po práci aktualizuj `UKOLY.md` a navrhni zápis do `memory/PROJEKT-STAV.md`.
 - Udržuj zdravý GitHub rytmus týmu: připomínej „stáhni nejnovější verzi" před prací a
-  „nahraj změny" po práci.
+  „nahraj změny" po práci. Před commitem ať se přegeneruje živá nástěnka `README.md`
+  (`node tools/generate-dashboard.mjs`) — zdroje `UKOLY.md`/`PROJEKT-STAV.md`/`schuzky/` ji plní.
 
 ## Spolupráce
 Na grantově specifický obsah (formulace odpovědí, bodová strategie, rozpočtové limity,
