@@ -4,6 +4,12 @@ Vítej! Tenhle návod tě provede tím, jak s Danem psát grant přes tenhle rep
 Nemusíš umět git ani programovat — Claude Code za tebe udělá technickou část, ty mu jen
 říkáš lidsky, co chceš.
 
+> [!CAUTION]
+> **Pozor — rozpočtová čísla jsou zatím DRAFT.** Vše v `strategie/` (rozpočtové modely, One
+> Pager) a čísla okolo pop-up FabLabu Dan zatím **nepročetl ani neschválil**. Čti je pro
+> pochopení, ale **nepracuj s nimi jako s finálními** a nedávej je do žádosti bez Danova
+> potvrzení. Aktuální předání práce: [`HANDOFF.md`](./HANDOFF.md).
+
 ## 1. Jednorázové nastavení
 1. **Přijmi pozvánku** do repozitáře (přišla ti na GitHub / e-mail; nebo na
    `https://github.com/Make-more-s-r-o/EHMK28/invitations`).

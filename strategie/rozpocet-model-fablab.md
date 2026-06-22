@@ -1,5 +1,9 @@
 # Rozpočtová a kapacitní modelace pop-up FabLabu
 
+> [!CAUTION]
+> **NESCHVÁLENÝ DRAFT — Dan tato čísla zatím nepročetl ani neschválil (22. 6. 2026).** Slouží
+> k diskusi a plánování; **nepoužívat v grantové žádosti bez explicitního schválení.** Viz `../HANDOFF.md`.
+
 > **Poznámka:** Jde o **VOLNOU modelaci**, ne o finální grantový rozpočet. Čísla vycházejí z Danových odhadů a reference HW Lab Praha, slouží k diskusi a rozhodování o velikosti, době trvání a rozdělení financování. Grantová pravidla (uznatelnost, neinvestiční charakter, stropy) zatím **nejsou naroubována na tvrdo** — jen jsou explicitně flagována. Před podáním vše ověřit s grantovým specialistou proti `ZAPIS-VYZVA.md`.
 
 ---

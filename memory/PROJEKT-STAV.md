@@ -3,6 +3,12 @@
 > Sdílená paměť týmu. Sem zapisujte rozhodnutí a aktuální stav, ať to oba vidí. Aktualizujte
 > po každém větším kroku. (Detaily podmínek = `../ZAPIS-VYZVA.md`, úkoly = `../UKOLY.md`.)
 
+> [!CAUTION]
+> **ROZPOČTOVÁ ČÍSLA A MODELACE = NESCHVÁLENÝ DRAFT.** Dan je k 22. 6. 2026 nepročetl ani
+> neschválil. Vše v `../strategie/rozpocet-*.md`, `../strategie/one-pager-jvtp.md` a rozpočtová
+> čísla níže jsou nástřely k diskusi — **nepoužívat v grantové žádosti bez explicitního
+> schválení.** Předání práce a další kroky viz `../HANDOFF.md`.
+
 **Poslední aktualizace:** 22. 6. 2026 (schůzka s Ondřejem — směr JVTP / pop-up FabLab, dvojí podání)
 
 ## ▶ Kde pokračovat (příští session)

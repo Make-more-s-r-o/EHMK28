@@ -19,6 +19,8 @@ a koordinovaná mezi Danem a Ondřejem.
   `memory/PROJEKT-STAV.md` (aktuální rozhodnutí a stav).
 - Partnery sleduj v `strategie/partneri.md`, rozhodnutí o velikosti v
   `strategie/rozhodnuti-maly-vs-velky.md`.
+- ⚠️ **Rozpočtová čísla a modelace v `strategie/` jsou zatím NESCHVÁLENÝ DRAFT** — při plánování
+  na nich nestav napevno, ověř u Dana (viz `HANDOFF.md`).
 
 ## Co hlídáš
 - **Uzávěrka 10. 7. 2026, 23:59 CET.** Plánuj zpětně od ní; dnes ~18 dní → priorita.

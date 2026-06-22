@@ -10,6 +10,8 @@ Tento repozitář je společná příprava grantové žádosti do **(Perma)kultu
   není z Jihočeského kraje. Bez nich projekt nelze podat.
 - Práh pro podporu: **70 ze 100 bodů.** Rozpočet jen **neinvestiční**, **mzdy/platy/OON jsou
   neuznatelné**. Detaily vždy ber z `ZAPIS-VYZVA.md` (jediný zdroj pravdy).
+- ⚠️ **DRAFT:** rozpočtová čísla a modelace v `strategie/` (FabLab) jsou k 22. 6. 2026
+  **neschválené** — Dan je nepročetl. Nepoužívej je v žádosti bez ověření. Stav viz `HANDOFF.md`.
 
 ## Jazyk a styl
 - Obsah žádosti, poznámky, dokumentace, commit popisy v repu: **česky**.
@@ -29,6 +31,9 @@ Tento repozitář je společná příprava grantové žádosti do **(Perma)kultu
    (`node tools/generate-dashboard.mjs`) a přidej `README.md` do commitu, ať odpovídá realitě.
    Po pushi ji Action (`.github/workflows/dashboard.yml`) jen **zkontroluje** (org nepovoluje
    workflow zápis → necommituje, jen ❌ upozorní, když datové bloky neodpovídají zdrojům).
+6. **Předávání práce mezi Danem a Ondřejem:** na konci své práce aktualizuj `HANDOFF.md` — co je
+   hotové, co rozpracované, co **neschválené** (zvlášť čísla) a co je další krok, ať druhý plynule
+   naváže. Na začátku práce `HANDOFF.md` přečti.
 
 ## 🤝 Dva specializovaní agenti — aktivně je nabízej
 V repu jsou dva agenti (`.claude/agents/`). **Když úkol spadá do jejich domény, hlavní Claude

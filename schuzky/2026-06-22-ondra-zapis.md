@@ -5,6 +5,7 @@
 - **Téma:** EHMK Open Call — strategie podání, One Pager pro JVTP, rozpočet, pop-up FabLab / Maker Faire; v druhé půlce onboarding Ondřeje do GitHubu + Claude Code
 - **Zdroj:** přepis Plaud AI (čitelnější, se speaker labely a outline), čísla ověřena proti lokálnímu mlx-whisper přepisu
 - **Pozn.:** přepisy jsou chybové, formulace níže jsou interpretace; sporné body viz „Otevřené otázky".
+- **⚠️ DRAFT:** všechna čísla a částky v zápise jsou diskuzní nástřely, **neschválené** (viz `../HANDOFF.md`).
 
 ---
 

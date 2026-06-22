@@ -12,6 +12,11 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 > **Uzávěrka: 10. 7. 2026, 23:59 CET.** Podání e-mailem (přepis draftů do XLSX). Kompletní
 > podmínky a finanční rámec → [ZAPIS-VYZVA.md](./ZAPIS-VYZVA.md).
 
+> [!CAUTION]
+> **Rozpočtová čísla = NESCHVÁLENÝ DRAFT (k 22. 6. 2026).** Modely v `strategie/` a čísla
+> pop-up FabLabu Dan zatím nepročetl/neschválil — **nepoužívat v žádosti bez schválení.**
+> Předání práce → [HANDOFF.md](./HANDOFF.md).
+
 > 🆕 **Začínáš poprvé (Ondřeji)?** Přečti [ONBOARDING.md](./ONBOARDING.md). Stačí 5 minut.
 
 ---
@@ -94,11 +99,11 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `f31edca` 2026-06-22 — Add auto-updating dashboard to README
 - `9a7a5d1` 2026-06-22 — Add 2026-06-22 meeting notes + FabLab/JVTP budget modeling
 - `e2e7c94` 2026-06-22 — Update project state memory: end-of-session status and next steps
 - `51ded01` 2026-06-22 — Add compliance audit report and apply its findings
 - `2c9b2fa` 2026-06-22 — Set up grant workspace for (Perma)kulturni Open Call 2026
-- `6a35fe8` 2026-06-22 — Initial grant skeleton: chapter files + collaboration README
 <!-- AUTO:aktivita:end -->
 
 ---

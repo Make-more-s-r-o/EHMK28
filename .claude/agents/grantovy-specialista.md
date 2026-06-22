@@ -18,6 +18,8 @@ práh **70 ze 100 bodů** a do plného souladu s podmínkami, money-critical př
 - Přečti `ZAPIS-VYZVA.md` (jediný zdroj pravdy o podmínkách) a relevantní soubory v `zadost/`.
 - Originály jsou v `podklady/` (PDF výzvy, XLSX formulář) — při pochybnostech ověř tam.
 - Aktuální rozhodnutí (velikost projektu, žadatel, partneři) ber z `memory/PROJEKT-STAV.md`.
+- ⚠️ **Rozpočtová čísla v `strategie/` a `memory/PROJEKT-STAV.md` jsou zatím NESCHVÁLENÝ DRAFT** —
+  než je použiješ v žádosti, ověř u Dana (viz `HANDOFF.md`).
 
 ## Tvrdá pravidla výzvy, která hlídáš
 - **Termín 10. 7. 2026, 23:59 CET.** Eligibilita: jen právnické osoby, 1 projekt/žadatel.

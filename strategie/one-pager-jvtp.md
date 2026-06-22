@@ -1,5 +1,9 @@
 # One Pager — pop-up FabLab × JVTP (byznys pitch)
 
+> [!CAUTION]
+> **NESCHVÁLENÝ DRAFT (22. 6. 2026).** Rámec i čísla jsou nástřely; Dan je nepročetl/neschválil.
+> Rozpočet (sekce 6) je zatím placeholder. **Nepoužívat navenek/v žádosti bez schválení.** Viz `../HANDOFF.md`.
+
 > **Účel:** stručný pitch (1 strana) pro spolupráci Make more × JVTP na velkém projektu
 > EHMK ČB 2028 — zkušební provoz pop-up FabLabu.
 > **Status:** VOLNÁ modelace nápadu a spolupráce. Zatím NEvázáno grantovými pravidly výzvy

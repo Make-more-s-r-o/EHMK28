@@ -1,5 +1,9 @@
 # Co odbavíme za 3 mil. Kč — pop-up FabLab
 
+> [!CAUTION]
+> **NESCHVÁLENÝ DRAFT — Dan tato čísla zatím nepročetl ani neschválil (22. 6. 2026).** Slouží
+> k diskusi a plánování; **nepoužívat v grantové žádosti bez explicitního schválení.** Viz `../HANDOFF.md`.
+
 ## 1. Shrnutí + doporučení
 
 Za **3 000 000 Kč reálné cash** (jen personál, materiál a 15 % režie — viz předpoklad níže) dokáže pop-up FabLab odbavit jeden plnohodnotný školní rok provozu pro děti i veřejnost. Modelovali jsme **4 sestavy** od nejintenzivnější (PLNÝ rozsah, 5,1 měsíce) po nejdelší (LEAN, 13,2 měsíce).
