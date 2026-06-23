@@ -28,20 +28,32 @@
 - **Uzávěrka:** 10. 7. 2026, 23:59 CET.
 - **Tým:** Dan, Ondřej (spolupráce přes GitHub `Make-more-s-r-o/EHMK28`).
 
-## Rozhodnutí (zatím otevřená)
+## Rozhodnutí
 | Otázka | Stav | Pozn. |
 |---|---|---|
-| Velikost projektu (malý/velký) | 🟡 směřuje k DVOJÍMU podání | malý (Maker Faire ČB, MM hlavní) **+** velký (pop-up FabLab s JVTP); priorita velký |
-| Žadatel (právnická osoba) | ❓ neurčen | u velkého projektu hlavní žadatel JVTP vs Make more **nerozhodnuto** (vyjasní schůzka s ředitelem JVTP) |
-| Zahraniční partner | 🔴 nezajištěn | povinný + Letter of Intent. ⚠️ napojení na mezinárodní síť JVTP **NEstačí** — blocker trvá |
-| Jihočeský partner | 🟢 JVTP | Jihočeský vědeckotechnologický park = jihočeský partner velkého projektu |
-| Koncept / téma / žánr | 🟡 pop-up FabLab | zkušební provoz dílny (dopo třídy / odpo–večer veřejnost, repair); ref. HW Lab Praha |
+| Velikost projektu | ✅ **VELKÝ** | grant max 4 mil. Kč, celkový rozpočet 8 mil., spolufinancování 50 % |
+| Žadatel | ✅ **Make More** | nově zřízená provozovna v Českých Budějovicích splňuje podmínku sídla v JčK |
+| Jihočeský partner | ✅ **JVTP** | Jihočeský vědeckotechnologický park; Jana Moravcová kontakt; ředitel potvrdil ochotu |
+| Zahraniční partner | 🔴 **nezajištěn** | povinný + Letter of Intent — největší blocker, termín 5. 7. |
+| Koncept | ✅ **pop-up Makerspace + výstava designu** | Make More = provoz Makerspaceu; JVTP = výstava design jako proces; průnik v roce 2028 ČB |
+| Kofinancování | 🟡 řeší se s JVTP | JVTP může vložit úvazky z jiných projektů (cíl: 50 % vlastních zdrojů) |
 
 ## Pravidla práce (připomínka)
 - Obsah česky, git commit messages anglicky.
 - Před prací „stáhni nejnovější verzi", po práci „nahraj moje změny".
 - Před multi-agent/ultracode workflow se zeptat na model (Ondřej šetří → Sonnet).
 - Agenti: `grantovy-specialista` (obsah+rozpočet+pravidla), `vedouci-projektu` (plán+partneři).
+
+## Kontext a příběh projektu (z nahrávek Ondřeje)
+- Make More má zakladatele z JčK, 2 se přistěhovali do ČB. Region je strategická priorita.
+- Stávající aktivity: Makerfest, Make Edu (vzdělávání dětí, tábory), Make Designers (poradenství pro dílny).
+- Projekt musí dávat smysl pro růstovou strategii MM — budovat nový produkt/službu, ne jen grant.
+- Reference: Makerspace Plzeň 2015 (Depo 2015) — poučení: příliš úzké zaměření snižuje kritickou masu.
+- Definice Makera: každý, kdo tvoří a sdílí → záměrně široký záběr (vzdělávání, řemeslo, tech, design).
+- Klíčové kontakty EHMK: Kateřina Rachačová (ředitelka), Petr Pežinka (strategie a rozvoj).
+- Možná budoucí lokace: Stará pošta (vedle nádraží ČB) — příslib do budoucna.
+- Make More tým: Patrick Sidle (HW Lab / Makers Institut), Make Edu lektoři, Make Designers, Make Media, Make Events.
+- JVTP je „dlouhodobý velmi prověřený partner."
 
 ## Log rozhodnutí
 - 22. 6. 2026 — Založen repozitář, rešerše výzvy (ZAPIS-VYZVA.md), struktura žádosti,
