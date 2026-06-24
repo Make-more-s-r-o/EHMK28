@@ -11,7 +11,14 @@
 
 **Poslední aktualizace:** 22. 6. 2026 (schůzka s Ondřejem — směr JVTP / pop-up FabLab, dvojí podání)
 
-## ▶ Kde pokračovat (příští session)
+## ▶ Kde pokračovat (příští session — po callu s Janou 24. 6.)
+
+- **Příští schůzka s Janou: úterý ~29. 6., 14:00.** Jana pošle link na Google Drive (složka + formuláře + Word).
+- **Ondřej do 27. 6.:** oslovit Grand Garáž Linz + ověřit Ars Electronica Center + potvrdit s EHMK kofinancování osobními náklady.
+- **Ondřej do 29. 6.:** sepsat MM aktivity + hrubý odhad rozpočtu (materiál, nájmy, honoráře, cestovné).
+- **Stále blocker:** kdo je hlavní žadatel (MM vs JVTP) — závisí na ověření pravidel financování v výzvě.
+
+## ▶ Kde pokračovat (původní)
 - **HOŘÍ — One Pager pro JVTP (handout ke schůzce s ředitelem JVTP).** Termín **23. 6. dopo**.
   Kostra: `../strategie/one-pager-jvtp.md`. Chybí: vložit doporučený rozpočet (3 mil. blok
   z `../strategie/rozpocet-3M-co-odbavime.md`, sekce 7 dokumentu) do sekce 6 + Ondřejův text

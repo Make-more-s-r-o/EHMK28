@@ -1,45 +1,76 @@
 # Úkoly — backlog projektu
 
-Stav k 22. 6. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývá ~18 dní.
+Stav k 24. 6. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývá ~16 dní.
 Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatní.
 
-## ⏰ JVTP / pop-up FabLab — hoří (ze schůzky 22. 6.)
-| # | Úkol | Vlastník | Doporučený agent | Termín | Stav |
-|---|---|---|---|---|---|
-| A | **One Pager pro JVTP** — handout ke schůzce s ředitelem JVTP (jdou/nejdou do toho s námi) | Ondřej (text) + Dan (rozpočet) | vedouci-projektu | **23. 6. dopo** | 🟡 |
-| B | **Rozpočtová + kapacitní modelace** pop-up FabLabu (Danova čísla z HW labu) → sekce 6 One Pageru | Dan | grantovy-specialista | 23. 6. | 🟡 |
-| C | **Koncept aktivit** — popis (třídy dopo / veřejnost odpo–večer, repair), 1. vs 2. rok, dlouhodobý potenciál | Ondřej | grantovy-specialista | 23. 6. | ⬜ |
-| D | Ověřit **krytí kofinancování z jiného projektu EHMK** (info od Vojty / „KM") | Dan | vedouci-projektu | do 26. 6. | ⬜ |
+## 🔴 Urgentní — ověřit do příští schůzky s Janou (úterý ~29. 6., 14:00)
 
-## 🔴 Nejdřív rozhodnout (blokuje vše ostatní)
-| # | Úkol | Vlastník | Doporučený agent | Termín | Stav |
-|---|---|---|---|---|---|
-| 1 | **Velikost projektu** — směřuje k DVOJÍMU podání (malý Maker Faire + velký FabLab/JVTP); potvrdit | Dan + Ondřej | vedouci-projektu | do 26. 6. | 🟡 |
-| 2 | **Žadatel velkého projektu** — JVTP vs Make more jako hlavní žadatel (vyjasní schůzka s ředitelem JVTP) | Dan | vedouci-projektu | do 26. 6. | 🟡 |
-| 3 | **Koncept projektu** — téma + žánr (ideálně preferovaný), jak naplní (Perma)kulturu | Dan + Ondřej | grantovy-specialista | do 28. 6. | ⬜ |
+| # | Úkol | Vlastník | Termín | Stav |
+|---|---|---|---|---|
+| V1 | **Kdo je hlavní žadatel?** — ověřit v pravidlech výzvy: může JVTP podat a MM být partner? Jak fungují finance (může MM fakturovat JVTP, nebo jde přes výběrka)? | Ondřej / Dan | do 29. 6. | 🔴 |
+| V2 | **Kofinancování osobními náklady z jiných projektů** — potvrdit s EHMK (Karolína nebo Petr Pežinka). Jana říká ano, ale nutné ověřit. | Ondřej | do 27. 6. | 🔴 |
+| V3 | **Zahraniční partner — první oslovení** Grand Garáž Linz a/nebo Ars Electronica Center (ověřit jestli nejsou v EHMK jinde). Jana oslovuje Kunst Uni Linz. | Ondřej | do 27. 6. | 🔴 |
+| V4 | **Aktivity + hrubý rozpočet** — každý sepíše své aktivity a k nim odhad nákladů z dotace (materiál, nájmy, honoráře, cestovné). Podklad pro příští schůzku. | Ondřej (MM aktivity) + Jana (JVTP aktivity) | do 29. 6. | 🔴 |
 
-## 🤝 Partneři (tvrdá podmínka — řešit hned, trvá to)
-| # | Úkol | Vlastník | Doporučený agent | Termín | Stav |
-|---|---|---|---|---|---|
-| 4 | **Zahraniční partner** — najít a domluvit, získat **Letter of Intent** (povinná příloha) | ? | vedouci-projektu | do 5. 7. | 🔴 |
-| 5 | **Jihočeský partner** — ✅ pokrývá JVTP (Jihočeský vědeckotechnologický park) u velkého projektu | Dan | vedouci-projektu | do 5. 7. | 🟢 |
+## ✅ Rozhodnuto / hotovo
 
-## ✍️ Obsah žádosti (složka `zadost/`)
-| # | Úkol | Vlastník | Doporučený agent | Termín | Stav |
+| # | Co | Kdy |
+|---|---|---|
+| ✅ | Velikost projektu: **VELKÝ** (4 mil. Kč grant, 8 mil. celkem) | 22. 6. |
+| ✅ | Žadatel: **Make More** má pobočku v ČB (zapsáno v rejstříku 23. 6.) | 23. 6. |
+| ✅ | Jihočeský partner: **JVTP** — ředitel potvrdil zájem | 22. 6. |
+| ✅ | Koncept: **pop-up Makerspace** (MM) + **Design lab / výstava** (JVTP), tematické laby podle partnerů | 24. 6. |
+| ✅ | One Pager pro JVTP — text sekcí 1–3, 5, 7 | 23. 6. |
+
+## 🤝 Partneři — zahraniční (tvrdá podmínka, termín 5. 7.)
+
+| # | Úkol | Vlastník | Termín | Stav |
+|---|---|---|---|---|
+| P1 | **Grand Garáž Linz** — oslovit, vyžádat Letter of Intent | Ondřej | do 27. 6. | 🟡 |
+| P2 | **Ars Electronica Center** — ověřit zapojení v EHMK, případně oslovit Andrease | Ondřej | do 27. 6. | 🟡 |
+| P3 | **Kunst Universität Linz** — Jana oslovuje přes Software Park Hagenberg | Jana | do 29. 6. | 🟡 Jana |
+| P4 | Podepsané **Letter of Intent** ≥1 zahraničního partnera | Ondřej / Jana | **5. 7.** | 🔴 |
+
+## ✍️ Obsah žádosti — psaní (po ověření V1–V4)
+
+| # | Úkol | Vlastník | Agent | Termín | Stav |
 |---|---|---|---|---|---|
-| 6 | Základní informace + představení žadatele a partnerů (`00-zakladni-info.md`) | ? | grantovy-specialista | do 3. 7. | ⬜ |
-| 7 | Podrobný popis projektu (~3600 zn.) + SMART cíle + aktivity + výstupy (`01-popis-projektu.md`) | ? | grantovy-specialista | do 5. 7. | ⬜ |
-| 8 | Průřezové hodnoty (přístupnost, udržitelnost) + marketing + cílové skupiny (`02-prurezove-marketing.md`) | ? | grantovy-specialista | do 6. 7. | ⬜ |
-| 9 | Projektový plán — časová osa 2027–2028 (`03-projektovy-plan.md`) | ? | vedouci-projektu | do 6. 7. | ⬜ |
-| 10 | **Rozpočet 2027 + 2028** v limitech (mzdy neuznatelné, nepřímé ≤20 %, cap 2027) | ? | grantovy-specialista | do 7. 7. | ⬜ |
+| 6 | Základní informace + žadatel + partneři (`00-zakladni-info.md`) | Ondřej | grantovy-specialista | do 3. 7. | ⬜ |
+| 7 | Popis projektu (~3600 zn.) + SMART cíle + aktivity + výstupy (`01-popis-projektu.md`) | Ondřej | grantovy-specialista | do 5. 7. | ⬜ |
+| 8 | Průřezové hodnoty + marketing + cílové skupiny + umělci/vystupující (`02-prurezove-marketing.md`) | Ondřej | grantovy-specialista | do 6. 7. | ⬜ |
+| 9 | Projektový plán — časová osa 2027–2028 (`03-projektovy-plan.md`) | Ondřej | vedouci-projektu | do 6. 7. | ⬜ |
+| 10 | **Rozpočet 2027 + 2028** — neinvestiční, mzdy neuznatelné, nepřímé ≤20 % | Dan | grantovy-specialista | do 7. 7. | ⬜ |
 
 ## 📎 Přílohy a podání
-| # | Úkol | Vlastník | Doporučený agent | Termín | Stav |
-|---|---|---|---|---|---|
-| 11 | Posbírat povinné přílohy: zakládací listina/stanovy + výpis skutečných majitelů, plná moc | Dan | vedouci-projektu | do 8. 7. | ⬜ |
-| 12 | Vyplnit a odeslat **registrační formulář** | Dan | vedouci-projektu | do 9. 7. | ⬜ |
-| 13 | **Finální compliance kontrola** — 70+ bodů, limity rozpočtu, kompletní přílohy | Dan + Ondřej | grantovy-specialista | 9. 7. | ⬜ |
-| 14 | **Podání** e-mailem do 10. 7. 23:59 CET (přepis draftů do XLSX formuláře) | Dan | — | 10. 7. | ⬜ |
 
-> Doplň vlastníky `?` podle domluvy Dan/Ondřej (úkol #1 v AGENTS.md: needitovat stejný
-> soubor naráz). Jak něco rozhodnete, zapište do `memory/PROJEKT-STAV.md`.
+| # | Úkol | Vlastník | Termín | Stav |
+|---|---|---|---|---|
+| 11 | Zakládací listina/stanovy + výpis skutečných majitelů, plná moc | Dan / Jana (dle žadatele) | do 8. 7. | ⬜ |
+| 12 | Odeslat **registrační formulář** | Dan | do 9. 7. | ⬜ |
+| 13 | **Finální compliance kontrola** — 70+ bodů, limity rozpočtu, kompletní přílohy | Dan + Ondřej | 9. 7. | ⬜ |
+| 14 | **Podání** e-mailem + XLSX formulář | Dan | **10. 7. 23:59** | ⬜ |
+
+## 🗒️ Obsahové poznámky pro psaní žádosti (ze schůzky s Janou 24. 6.)
+
+**Programové linky:**
+- **Linka školy** (MM) — dopolední programy pro třídy; hlavní objem návštěvníků + čísla
+- **Linka design lab** (JVTP) — výstava design jako proces + design sprinty se startupy (participativní, obnažený proces tvorby); cílí i odbornou veřejnost
+- **Linka komunita/veřejnost** (MM) — večerní přednášky, workshopy, víkendové akce
+- **Generativní linka** — v průběhu roku vznikají výstupy (návrhy, prototypy), které vrcholí výstavou/prezentací
+
+**Umělci a vystupující** (kolonka v žádosti — nutno vyplnit):
+- Maker influenceři (Ondřej má kontakty z Makerfairu)
+- Designéři (Jan Čtvrtník, Michal Trpák, David Síla — Jana navrhla)
+- Gaming / herní vývojáři — v JčK chybí, příležitost (kontakt přes Game Access / Brno Creative Days)
+- Ondřej: Jiří Velev (navrhoval vesmírnou stanici na Mars)
+- Architektura — Jana: přednáška o organické architektuře
+
+**Rok 2027 (příprava — omezený budget):**
+- Participativní sběr zadání z veřejnosti (co chybí městu)
+- Design sprinty — pilotní ověření konceptu
+- Networkingové akce, capacity building komunity
+
+**Otevřené obsahové otázky:**
+- Zapojení gamingu do programu (reagovat na chybějící scénu v JčK)?
+- Přesný model zapojení JVTP startupů (mentor/školitel vs. dodavatel řešení)?
+- Jak konkrétně popsat participaci veřejnosti (nebýt příliš ambiciózní)
