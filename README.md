@@ -47,6 +47,17 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ---
 
+## 🧑‍🤝‍🧑 Tým&nbsp;⟳
+<!-- AUTO:tym:start -->
+| | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
+|:-:|---|:-:|:-:|:-:|---|
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 8 | 2026-06-24 | A One Pager pro JVTP · B Rozpočtová + kapacitní… · 1 Velikost projektu · 2 Žadatel velkého… |
+| ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 1 | 2026-06-23 | A One Pager pro JVTP · 1 Velikost projektu |
+| ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
+<!-- AUTO:tym:end -->
+
+---
+
 ## 🧭 Navigace
 
 | | Soubor / složka | K čemu |
@@ -98,19 +109,9 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ---
 
-## 🧑‍🤝‍🧑 Tým&nbsp;⟳
-<!-- AUTO:tym:start -->
-| | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
-|:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub>@makerfaireczech</sub> | 🔑 Admin | 7 | 2026-06-22 | A One Pager pro JVTP · B Rozpočtová + kapacitní… · 1 Velikost projektu · 2 Žadatel velkého… |
-| ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub>@ondrej-kasparek-mm</sub> | ✍️ Write | 1 | 2026-06-23 | A One Pager pro JVTP · 1 Velikost projektu |
-| ![](https://github.com/stratilabs.png?size=32) | @stratilabs | 👁️ Read | — | — | — |
-<!-- AUTO:tym:end -->
-
----
-
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `0932d51` 2026-06-24 · Dan Jirotka — Add team section and richer commit log to dashboard
 - `cac31a1` 2026-06-23 · Ondřej Kašpárek — Add concept text to one-pager and update project status
 - `c7b08e0` 2026-06-22 · Dan Jirotka — Mark budget numbers as unapproved DRAFT + add work handoff
 - `f31edca` 2026-06-22 · Dan Jirotka — Add auto-updating dashboard to README
@@ -118,7 +119,6 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 - `e2e7c94` 2026-06-22 · Dan Jirotka — Update project state memory: end-of-session status and next steps
 - `51ded01` 2026-06-22 · Dan Jirotka — Add compliance audit report and apply its findings
 - `2c9b2fa` 2026-06-22 · Dan Jirotka — Set up grant workspace for (Perma)kulturni Open Call 2026
-- `6a35fe8` 2026-06-22 · Dan Jirotka — Initial grant skeleton: chapter files + collaboration README
 <!-- AUTO:aktivita:end -->
 
 ---

@@ -295,7 +295,8 @@ function buildTeam() {
       ? tasks.filter((t) => t.status.includes('🟡') && p.match.test(t.owner)).map((t) => `${t.id} ${cap(t.title, 22)}`)
       : [];
     const avatar = `![](https://github.com/${p.login}.png?size=32)`;
-    const who = p.name ? `**${p.name}**<br><sub>@${p.login}</sub>` : `@${p.login}`;
+    const handle = `<a href="https://github.com/${p.login}">@${p.login}</a>`;
+    const who = p.name ? `**${p.name}**<br><sub>${handle}</sub>` : handle;
     out.push(`| ${avatar} | ${who} | ${ROLE_CHIP[p.role] || p.role} | ${commits || '—'} | ${last || '—'} | ${doing.join(' · ') || '—'} |`);
   }
   for (const [name, st] of authors) {
