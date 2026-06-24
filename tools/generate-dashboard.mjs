@@ -15,8 +15,17 @@ import { fileURLToPath } from 'node:url';
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const README = resolve(ROOT, 'README.md');
 const UZAVERKA = [2026, 6, 10]; // den uzávěrky 10. 7. 2026 (měsíc 0-based: 6 = červenec)
-const N_COMMITS = 5;
+const N_COMMITS = 8;
 const DEN = 86400000;
+
+// Tým = lidé s přístupem do repa. Zdroj pravdy pro jména/role; aktualizuj při změně
+// collaborators na GitHubu. `match` napojuje git autory a vlastníky úkolů (null = jen přístup).
+const TEAM = [
+  { name: 'Dan Jirotka',     login: 'makerfaireczech',    role: 'Admin', match: /dan/i },
+  { name: 'Ondřej Kašpárek', login: 'ondrej-kasparek-mm', role: 'Write', match: /ond[rř]ej|ondra|ka[šs]par/i },
+  { name: '',                login: 'stratilabs',         role: 'Read',  match: null },
+];
+const ROLE_CHIP = { Admin: '🔑 Admin', Write: '✍️ Write', Read: '👁️ Read' };
 
 const read = (p) => (existsSync(p) ? readFileSync(p, 'utf8') : '');
 
@@ -224,19 +233,91 @@ function buildTasks() {
   ].join('\n');
 }
 
+// --- tým & aktivita (git + UKOLY) ---
+
+// commity a poslední datum per git autor (z git log; NE `git shortlog` — bez argumentu čte stdin)
+function gitAuthors() {
+  try {
+    const out = execFileSync('git', ['log', '--date=format:%Y-%m-%d', '--pretty=format:%an%x09%ad'], { cwd: ROOT, encoding: 'utf8' });
+    const m = new Map();
+    for (const ln of out.split('\n').filter(Boolean)) {
+      const [name, date] = ln.split('\t');
+      if (!m.has(name)) m.set(name, { commits: 0, last: date }); // první výskyt = nejnovější
+      m.get(name).commits++;
+    }
+    return m;
+  } catch {
+    return new Map();
+  }
+}
+
+// git jméno → jméno z TEAM (jinak ponech původní)
+function person(name) {
+  return TEAM.find((p) => p.match && p.match.test(name))?.name || name;
+}
+
+// řádky úkolů z UKOLY.md: { id, title, owner, status } (owner = buňka Vlastník, status = poslední)
+function parseTaskRows() {
+  const rows = [];
+  for (const ln of read(resolve(ROOT, 'UKOLY.md')).split('\n')) {
+    if (!ln.trim().startsWith('|')) continue;
+    const cells = ln.split('|').slice(1, -1).map((c) => c.trim());
+    if (cells.length < 3 || !/^[0-9A-Za-z]+$/.test(cells[0])) continue; // přeskoč hlavičku/oddělovač
+    rows.push({
+      id: cells[0],
+      title: (cells[1].match(/\*\*(.+?)\*\*/)?.[1] || cells[1]).trim(),
+      owner: cells[2] || '',
+      status: cells[cells.length - 1] || '',
+    });
+  }
+  return rows;
+}
+
+// Notion-like tabulka týmu: avatar · jméno/login · role · commity · poslední · rozpracované 🟡
+function buildTeam() {
+  const authors = gitAuthors();
+  const tasks = parseTaskRows();
+  const used = new Set();
+  const out = [
+    '| | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |',
+    '|:-:|---|:-:|:-:|:-:|---|',
+  ];
+  for (const p of TEAM) {
+    let commits = 0, last = '';
+    for (const [name, st] of authors) {
+      if (p.match && p.match.test(name)) {
+        commits += st.commits;
+        if (st.last > last) last = st.last;
+        used.add(name);
+      }
+    }
+    const doing = p.match
+      ? tasks.filter((t) => t.status.includes('🟡') && p.match.test(t.owner)).map((t) => `${t.id} ${cap(t.title, 22)}`)
+      : [];
+    const avatar = `![](https://github.com/${p.login}.png?size=32)`;
+    const who = p.name ? `**${p.name}**<br><sub>@${p.login}</sub>` : `@${p.login}`;
+    out.push(`| ${avatar} | ${who} | ${ROLE_CHIP[p.role] || p.role} | ${commits || '—'} | ${last || '—'} | ${doing.join(' · ') || '—'} |`);
+  }
+  for (const [name, st] of authors) {
+    // git autoři mimo TEAM (budoucí přispěvatelé) — neztratit je
+    if (!used.has(name)) out.push(`| | ${name} | — | ${st.commits} | ${st.last} | — |`);
+  }
+  return out.join('\n');
+}
+
 function buildActivity() {
   try {
     const out = execFileSync(
       'git',
-      ['log', `-n${N_COMMITS}`, '--date=format:%Y-%m-%d', '--pretty=format:%h%x09%ad%x09%s'],
+      ['log', `-n${N_COMMITS}`, '--date=format:%Y-%m-%d', '--pretty=format:%h%x09%ad%x09%an%x09%s'],
       { cwd: ROOT, encoding: 'utf8' }
     );
     const lines = out
       .split('\n')
       .filter(Boolean)
       .map((l) => {
-        const [h, d, ...rest] = l.split('\t');
-        return `- \`${h}\` ${d} — ${rest.join('\t')}`;
+        const [h, d, an, ...rest] = l.split('\t');
+        return `- \`${h}\` ${d} · ${person(an)} — ${rest.join('\t')}`;
       });
     return lines.length ? lines.join('\n') : '_Žádná aktivita._';
   } catch {
@@ -290,6 +371,7 @@ out = replaceBlock(out, 'dashboard', buildDashboard());
 out = replaceBlock(out, 'rozhodnuti', buildDecisions());
 out = replaceBlock(out, 'schuzky', buildMeetings());
 out = replaceBlock(out, 'ukoly', buildTasks());
+out = replaceBlock(out, 'tym', buildTeam());
 out = replaceBlock(out, 'aktivita', buildActivity());
 out = replaceBlock(out, 'generated', buildFooter());
 

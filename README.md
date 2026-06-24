@@ -25,7 +25,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:dashboard:start -->
 | ⏳ Do uzávěrky | 🧩 Otevřená rozhodnutí | ✅ Úkoly | 📅 Poslední schůzka |
 |:-:|:-:|:-:|:-:|
-| **18 dní** | **4** (1 blokuje 🔴) | 1 ✅ · 4 🟡 · 12 ⬜ · 1 🔴 | 2026-06-22 |
+| **16 dní** | **2** (1 blokuje 🔴) | 1 ✅ · 4 🟡 · 12 ⬜ · 1 🔴 | 2026-06-22 |
 <!-- AUTO:dashboard:end -->
 
 ### 🔴 Co blokuje / čeká na rozhodnutí&nbsp;⟳
@@ -35,11 +35,12 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 | Otázka | Stav | Pozn. |
 |---|---|---|
-| Velikost projektu (malý/velký) | 🟡 směřuje k DVOJÍMU podání | malý (Maker Faire ČB, MM hlavní) **+** velký (pop-up FabLab s JVTP); priorita velký |
-| Žadatel (právnická osoba) | ❓ neurčen | u velkého projektu hlavní žadatel JVTP vs Make more **nerozhodnuto** (vyjasní schůzka s ředitelem JVTP) |
-| Zahraniční partner | 🔴 nezajištěn | povinný + Letter of Intent. ⚠️ napojení na mezinárodní síť JVTP **NEstačí** — blocker trvá |
-| Jihočeský partner | 🟢 JVTP | Jihočeský vědeckotechnologický park = jihočeský partner velkého projektu |
-| Koncept / téma / žánr | 🟡 pop-up FabLab | zkušební provoz dílny (dopo třídy / odpo–večer veřejnost, repair); ref. HW Lab Praha |
+| Velikost projektu | ✅ **VELKÝ** | grant max 4 mil. Kč, celkový rozpočet 8 mil., spolufinancování 50 % |
+| Žadatel | ✅ **Make More** | nově zřízená provozovna v Českých Budějovicích splňuje podmínku sídla v JčK |
+| Jihočeský partner | ✅ **JVTP** | Jihočeský vědeckotechnologický park; Jana Moravcová kontakt; ředitel potvrdil ochotu |
+| Zahraniční partner | 🔴 **nezajištěn** | povinný + Letter of Intent — největší blocker, termín 5. 7. |
+| Koncept | ✅ **pop-up Makerspace + výstava designu** | Make More = provoz Makerspaceu; JVTP = výstava design jako proces; průnik v roce 2028 ČB |
+| Kofinancování | 🟡 řeší se s JVTP | JVTP může vložit úvazky z jiných projektů (cíl: 50 % vlastních zdrojů) |
 <!-- AUTO:rozhodnuti:end -->
 
 ➡️ Zdroj a kontext rozhodnutí → [memory/PROJEKT-STAV.md](./memory/PROJEKT-STAV.md)
@@ -97,13 +98,27 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ---
 
+## 🧑‍🤝‍🧑 Tým&nbsp;⟳
+<!-- AUTO:tym:start -->
+| | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
+|:-:|---|:-:|:-:|:-:|---|
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub>@makerfaireczech</sub> | 🔑 Admin | 7 | 2026-06-22 | A One Pager pro JVTP · B Rozpočtová + kapacitní… · 1 Velikost projektu · 2 Žadatel velkého… |
+| ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub>@ondrej-kasparek-mm</sub> | ✍️ Write | 1 | 2026-06-23 | A One Pager pro JVTP · 1 Velikost projektu |
+| ![](https://github.com/stratilabs.png?size=32) | @stratilabs | 👁️ Read | — | — | — |
+<!-- AUTO:tym:end -->
+
+---
+
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
-- `f31edca` 2026-06-22 — Add auto-updating dashboard to README
-- `9a7a5d1` 2026-06-22 — Add 2026-06-22 meeting notes + FabLab/JVTP budget modeling
-- `e2e7c94` 2026-06-22 — Update project state memory: end-of-session status and next steps
-- `51ded01` 2026-06-22 — Add compliance audit report and apply its findings
-- `2c9b2fa` 2026-06-22 — Set up grant workspace for (Perma)kulturni Open Call 2026
+- `cac31a1` 2026-06-23 · Ondřej Kašpárek — Add concept text to one-pager and update project status
+- `c7b08e0` 2026-06-22 · Dan Jirotka — Mark budget numbers as unapproved DRAFT + add work handoff
+- `f31edca` 2026-06-22 · Dan Jirotka — Add auto-updating dashboard to README
+- `9a7a5d1` 2026-06-22 · Dan Jirotka — Add 2026-06-22 meeting notes + FabLab/JVTP budget modeling
+- `e2e7c94` 2026-06-22 · Dan Jirotka — Update project state memory: end-of-session status and next steps
+- `51ded01` 2026-06-22 · Dan Jirotka — Add compliance audit report and apply its findings
+- `2c9b2fa` 2026-06-22 · Dan Jirotka — Set up grant workspace for (Perma)kulturni Open Call 2026
+- `6a35fe8` 2026-06-22 · Dan Jirotka — Initial grant skeleton: chapter files + collaboration README
 <!-- AUTO:aktivita:end -->
 
 ---
@@ -131,5 +146,5 @@ Claude ti je sám nabídne, když se hodí. Vyžádat: *„zapoj grantového spe
 > [`schuzky/`](./schuzky/) — **needituj ho ručně**. Ostatní text uprav klidně přímo.
 
 <!-- AUTO:generated:start -->
-<sub>⟳ Nástěnka naposledy přegenerována 2026-06-22 · generuje <code>tools/generate-dashboard.mjs</code></sub>
+<sub>⟳ Nástěnka naposledy přegenerována 2026-06-24 · generuje <code>tools/generate-dashboard.mjs</code></sub>
 <!-- AUTO:generated:end -->
