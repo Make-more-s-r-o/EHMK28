@@ -6,6 +6,26 @@
 
 ---
 
+## Stav k 24. 6. 2026 (předává: Dan)
+
+### 📌 Vzkaz pro Ondřeje
+**Dal jsem do repa schůzku s Janou (JVTP) z 24. 6.** — najdeš ji ve `schuzky/`:
+- `schuzky/2026-06-24-jvtp-zapis.md` — strukturovaný zápis (body, rozhodnutí, otevřené otázky).
+- `schuzky/2026-06-24-jvtp-prepis-plaud.md` — plný přepis (Plaud AI; mluvčí z auto-diarizace,
+  neověřené). Lokální mlx-whisper přepis tentokrát **není** (nefungoval).
+
+**Akční úkoly jsem zatím NErozděloval — finální rozdělení nech na sobě, až příště otevřeš repo.**
+V zápisu je tabulka navržených úkolů s vlastníkem „k posouzení (Ondřej)". Projdi je a přiřaď,
+co vezmeš ty / Jana / Dan. Kritická cesta zůstává **zahraniční partner + LoI** (termín 10. 7.).
+
+Hlavní body schůzky (detail v zápisu): vyhlašovatel nedělá osobní konzultace (jen webináře);
+obsah = společná výstava + linie prototypování/Living Lab (reálné zadání města pro startupy);
+žadatel/lead vs partner se rozhodne po dohledání pravidel; poměr rozpočtu MakeMore:JVTP padl
+orientačně 1:3 vs půl na půl — **NESCHVÁLENÝ DRAFT**; zahr. partner: Grand Garage / Kunst Uni
+Linz / ARS Electronica (ověřit, zda Grand Garage a ARS jsou jeden/dva subjekty).
+
+---
+
 ## Stav k 22. 6. 2026 (předává: Dan)
 
 ### ⚠️ Hlavní vzkaz pro Ondřeje

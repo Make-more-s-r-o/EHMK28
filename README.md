@@ -25,7 +25,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:dashboard:start -->
 | ⏳ Do uzávěrky | 🧩 Otevřená rozhodnutí | ✅ Úkoly | 📅 Poslední schůzka |
 |:-:|:-:|:-:|:-:|
-| **16 dní** | **2** (1 blokuje 🔴) | 1 ✅ · 4 🟡 · 12 ⬜ · 1 🔴 | 2026-06-22 |
+| **16 dní** | **2** (1 blokuje 🔴) | 1 ✅ · 4 🟡 · 12 ⬜ · 1 🔴 | 2026-06-24 |
 <!-- AUTO:dashboard:end -->
 
 ### 🔴 Co blokuje / čeká na rozhodnutí&nbsp;⟳
@@ -51,7 +51,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 8 | 2026-06-24 | A One Pager pro JVTP · B Rozpočtová + kapacitní… · 1 Velikost projektu · 2 Žadatel velkého… |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 9 | 2026-06-24 | A One Pager pro JVTP · B Rozpočtová + kapacitní… · 1 Velikost projektu · 2 Žadatel velkého… |
 | ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 1 | 2026-06-23 | A One Pager pro JVTP · 1 Velikost projektu |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 <!-- AUTO:tym:end -->
@@ -76,6 +76,15 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 📅 Schůzky a zápisy&nbsp;⟳
 <!-- AUTO:schuzky:start -->
+### 2026-06-24 · EHMK 2028 — partnerství (JVTP), rozpočet, žádost a kurátorský obsah výstavy
+- **Účastníci:** Dan, Ondřej, Jana (JVTP)
+- 📄 Zápis: [2026-06-24-jvtp-zapis.md](./schuzky/2026-06-24-jvtp-zapis.md)
+
+<details><summary>Přepisy a porovnání (1)</summary>
+
+- [přepis Plaud AI](./schuzky/2026-06-24-jvtp-prepis-plaud.md)
+</details>
+
 ### 2026-06-22 · EHMK Open Call — strategie podání, One Pager pro JVTP, rozpočet, pop-up FabLab / Maker…
 - **Účastníci:** Dan, Ondřej (Kašpárek)
 - 📄 Zápis: [2026-06-22-ondra-zapis.md](./schuzky/2026-06-22-ondra-zapis.md)
@@ -111,6 +120,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `729b981` 2026-06-24 · Dan Jirotka — Move team section up and make @logins clickable
 - `0932d51` 2026-06-24 · Dan Jirotka — Add team section and richer commit log to dashboard
 - `cac31a1` 2026-06-23 · Ondřej Kašpárek — Add concept text to one-pager and update project status
 - `c7b08e0` 2026-06-22 · Dan Jirotka — Mark budget numbers as unapproved DRAFT + add work handoff
@@ -118,7 +128,6 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 - `9a7a5d1` 2026-06-22 · Dan Jirotka — Add 2026-06-22 meeting notes + FabLab/JVTP budget modeling
 - `e2e7c94` 2026-06-22 · Dan Jirotka — Update project state memory: end-of-session status and next steps
 - `51ded01` 2026-06-22 · Dan Jirotka — Add compliance audit report and apply its findings
-- `2c9b2fa` 2026-06-22 · Dan Jirotka — Set up grant workspace for (Perma)kulturni Open Call 2026
 <!-- AUTO:aktivita:end -->
 
 ---
