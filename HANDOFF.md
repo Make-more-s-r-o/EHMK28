@@ -6,6 +6,24 @@
 
 ---
 
+## Stav k 29. 6. 2026 (předává: Dan)
+
+### 📌 Vzkaz pro Ondřeje — ROZPOČET
+Postavil jsem **rozpočtový rozpis 2027–2028** → `strategie/rozpocet-pracovni-2028.md`. Podle
+nového pravidla v `AGENTS.md` je to **jediný zdroj finančních čísel — finance vlastní jen Dan.**
+- **Tvůj `strategie/aktivity-makemore.md` prosím sjednoť s těmito čísly** (školní blok tam máš jinak:
+  8 tříd/týden, 28 týdnů, materiál 75 Kč/dítě, vstupné 150, nájem 20k, doprava). **Needefinuj vlastní
+  finanční čísla** — přebírej je odtud; když něco chybí, napiš mně.
+- **Já neměním tvoje soubory**, ty neměň `rozpocet-pracovni-2028.md`. Děláme odděleně.
+- **Rozhodnuto:** personál vše IČO (mistr 500 / lektor 250 / management 500 Kč/h), MM **plátce DPH**
+  → počítáme **bez DPH**. Vybavení formou **pronájmu** (120k/měs, 50 % vklad MM) — drží neinvestiční charakter.
+- ⚠️ **Grant je zatím ~506 tis. PŘES strop 4 mil.** (vědomě, srovnáme přesunem do kofinance / škrty).
+- **Otevřené:** částka na *stavební úpravy* (TBD + ověřit uznatelnost — neinvestiční!), doprava jako
+  research odhad (9 000 Kč/svoz s DPH; levnější veřejná varianta ~195k/rok), díl JVTP a úvazky MM do kofinance.
+- Další bloky bez čísel: večerní program, příměstské tábory, cestovné zahr. partnera.
+
+---
+
 ## Stav k 24. 6. 2026 (předává: Dan)
 
 ### 📌 Vzkaz pro Ondřeje
