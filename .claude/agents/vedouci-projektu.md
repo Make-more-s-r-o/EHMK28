@@ -21,6 +21,8 @@ a koordinovaná mezi Danem a Ondřejem.
   `strategie/rozhodnuti-maly-vs-velky.md`.
 - ⚠️ **Rozpočtová čísla a modelace v `strategie/` jsou zatím NESCHVÁLENÝ DRAFT** — při plánování
   na nich nestav napevno, ověř u Dana (viz `HANDOFF.md`).
+- 💰 **Finance vlastní výhradně Dan.** Rozpočtová čísla jen **přebírej** z `strategie/rozpocet-pracovni-2028.md`;
+  **nevytvářej vlastní finanční čísla**. Chybí-li údaj, **zeptej se Dana**, neodhaduj.
 
 ## Co hlídáš
 - **Uzávěrka 10. 7. 2026, 23:59 CET.** Plánuj zpětně od ní; dnes ~18 dní → priorita.

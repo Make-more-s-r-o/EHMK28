@@ -53,7 +53,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 11 | 2026-06-24 | V5 Registrační formulář |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 12 | 2026-06-29 | V5 Registrační formulář |
 | ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 5 | 2026-06-29 | V5 Registrační formulář · P1 Grand Garáž Linz · P2 Ars Electronica Center |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 <!-- AUTO:tym:end -->
@@ -121,6 +121,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `2085078` 2026-06-29 · Dan Jirotka — Add Dan's bottom-up 2028 budget ledger (daily school program)
 - `a5132d7` 2026-06-29 · Ondřej Kašpárek — Record Petr Pezinka call outcomes: JVTP as lead applicant, cofinancing OK
 - `712d791` 2026-06-29 · Ondřej Kašpárek — Add MM activities and budget outline for Jana meeting (2026-06-30)
 - `e53d9ac` 2026-06-24 · Ondřej Kašpárek — Update tasks and partners tracker from Jana/JVTP call (2026-06-24)
@@ -128,7 +129,6 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 - `a1dea7e` 2026-06-24 · Dan Jirotka — Add 2026-06-24 JVTP meeting transcript and notes
 - `427bed7` 2026-06-24 · Ondřej Kašpárek — Add one-pager PDF generator for Vojta Kolařík
 - `729b981` 2026-06-24 · Dan Jirotka — Move team section up and make @logins clickable
-- `0932d51` 2026-06-24 · Dan Jirotka — Add team section and richer commit log to dashboard
 <!-- AUTO:aktivita:end -->
 
 ---

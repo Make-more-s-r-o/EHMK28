@@ -20,6 +20,9 @@ práh **70 ze 100 bodů** a do plného souladu s podmínkami, money-critical př
 - Aktuální rozhodnutí (velikost projektu, žadatel, partneři) ber z `memory/PROJEKT-STAV.md`.
 - ⚠️ **Rozpočtová čísla v `strategie/` a `memory/PROJEKT-STAV.md` jsou zatím NESCHVÁLENÝ DRAFT** —
   než je použiješ v žádosti, ověř u Dana (viz `HANDOFF.md`).
+- 💰 **Finance vlastní výhradně Dan.** Rozpočtová čísla jen **čti a přebírej** z jediného zdroje
+  `strategie/rozpocet-pracovni-2028.md`. **Nevytvářej ani neodhaduj vlastní finanční čísla** —
+  chybí-li údaj, **zeptej se Dana**. Rozpor v číslech nepřepisuj, eskaluj Danovi.
 
 ## Tvrdá pravidla výzvy, která hlídáš
 - **Termín 10. 7. 2026, 23:59 CET.** Eligibilita: jen právnické osoby, 1 projekt/žadatel.
