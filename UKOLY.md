@@ -3,14 +3,15 @@
 Stav k 24. 6. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývá ~16 dní.
 Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatní.
 
-## 🔴 Urgentní — ověřit do příští schůzky s Janou (úterý ~29. 6., 14:00)
+## 🔴 Urgentní — do příští schůzky s Janou (úterý ~29. 6., 14:00)
 
 | # | Úkol | Vlastník | Termín | Stav |
 |---|---|---|---|---|
-| V1 | **Kdo je hlavní žadatel?** — ověřit v pravidlech výzvy: může JVTP podat a MM být partner? Jak fungují finance (může MM fakturovat JVTP, nebo jde přes výběrka)? | Ondřej / Dan | do 29. 6. | 🔴 |
-| V2 | **Kofinancování osobními náklady z jiných projektů** — potvrdit s EHMK (Karolína nebo Petr Pežinka). Jana říká ano, ale nutné ověřit. | Ondřej | do 27. 6. | 🔴 |
-| V3 | **Zahraniční partner — první oslovení** Grand Garáž Linz a/nebo Ars Electronica Center (ověřit jestli nejsou v EHMK jinde). Jana oslovuje Kunst Uni Linz. | Ondřej | do 27. 6. | 🔴 |
-| V4 | **Aktivity + hrubý rozpočet** — každý sepíše své aktivity a k nim odhad nákladů z dotace (materiál, nájmy, honoráře, cestovné). Podklad pro příští schůzku. | Ondřej (MM aktivity) + Jana (JVTP aktivity) | do 29. 6. | 🔴 |
+| V1 | ~~Kdo je hlavní žadatel?~~ | — | — | ✅ JVTP = hlavní žadatel, MM = realizační partner |
+| V2 | ~~Kofinancování osobními náklady~~ | — | — | ✅ OK, nesmí být vykázáno 2× ve dvou projektech zároveň |
+| V3 | **Zahraniční partner — oslovit** Grand Garáž Linz (hlavní) + Ars Electronica Center (může být také). Jana oslovuje Kunst Uni Linz. | Ondřej | do 27. 6. | 🔴 |
+| V4 | **Aktivity MM + hrubý rozpočet** — sepsat co MM dělá v 2027/2028, odhad nákladů z dotace (materiál, nájmy, honoráře, cestovné) | Ondřej | do 29. 6. | 🔴 |
+| V5 | **Registrační formulář** — vyplnit a odeslat (lze pak upravovat) | Ondřej / Dan | do 29. 6. | 🟡 |
 
 ## ✅ Rozhodnuto / hotovo
 
@@ -49,6 +50,18 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 | 12 | Odeslat **registrační formulář** | Dan | do 9. 7. | ⬜ |
 | 13 | **Finální compliance kontrola** — 70+ bodů, limity rozpočtu, kompletní přílohy | Dan + Ondřej | 9. 7. | ⬜ |
 | 14 | **Podání** e-mailem + XLSX formulář | Dan | **10. 7. 23:59** | ⬜ |
+
+## 🗒️ Klíčové informace z hovoru s Petrem Pežinkou (24. 6. 2026)
+
+- **Žadatel:** JVTP = hlavní žadatel, MM = realizační partner. EHMK s tím nemá problém.
+- **Fakturace:** MM může fakturovat JVTP za realizaci — z pohledu EHMK OK. Výběrková řízení = vnitřní věc JVTP.
+- **Kofinancování:** Osobní náklady z jiných projektů lze použít — nesmí být vykázány 2× (např. zároveň v Interregu). MK ČR to administruje a hlídá.
+- **Zahraniční partner:** Kvalita > kvantita. Grand Garáž OK jako hlavní. Ars Electronica Center může být také (i přes zapojení v bitbooku jinde).
+- **Programová koordinace s EHMK:**
+  - Školy: sync s programem EHMK „Kreativní mysl 0–6" a programy pro ZŠ/SŠ
+  - Veřejnost: koordinace v průběhu roku 2028
+  - Ostrov kultury: výstupy do veřejného prostoru — ideální pro Janin design sprint (co vznikne, jde do města)
+- **Registrační formulář:** Lze po vyplnění upravovat a dodělávat — podat co nejdříve.
 
 ## 🗒️ Obsahové poznámky pro psaní žádosti (ze schůzky s Janou 24. 6.)
 

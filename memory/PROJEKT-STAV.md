@@ -39,11 +39,13 @@
 | Otázka | Stav | Pozn. |
 |---|---|---|
 | Velikost projektu | ✅ **VELKÝ** | grant max 4 mil. Kč, celkový rozpočet 8 mil., spolufinancování 50 % |
-| Žadatel | ✅ **Make More** | nově zřízená provozovna v Českých Budějovicích splňuje podmínku sídla v JčK |
-| Jihočeský partner | ✅ **JVTP** | Jihočeský vědeckotechnologický park; Jana Moravcová kontakt; ředitel potvrdil ochotu |
-| Zahraniční partner | 🔴 **nezajištěn** | povinný + Letter of Intent — největší blocker, termín 5. 7. |
-| Koncept | ✅ **pop-up Makerspace + výstava designu** | Make More = provoz Makerspaceu; JVTP = výstava design jako proces; průnik v roce 2028 ČB |
-| Kofinancování | 🟡 řeší se s JVTP | JVTP může vložit úvazky z jiných projektů (cíl: 50 % vlastních zdrojů) |
+| Hlavní žadatel | ✅ **JVTP** | potvrzeno Petrem Pežinkou (24. 6.) — MM je realizační partner, fakturace OK |
+| MM v JčK | ✅ splněno | pobočka Make More v ČB zapsána v rejstříku 23. 6. |
+| Jihočeský partner | ✅ **JVTP** | Jana Moravcová; ředitel potvrdil ochotu |
+| Zahraniční partner | 🔴 **nezajištěn** | Grand Garáž Linz = hlavní kandidát; Ars Electronica Center = možný také; termín LoI 5. 7. |
+| Koncept | ✅ **pop-up Makerspace + Design lab** | MM = provoz + školy + komunita; JVTP = výstava + design sprint se startupy |
+| Kofinancování | ✅ **OK** | osobní náklady z jiných projektů lze použít — nesmí být vykázány 2× zároveň (MK ČR hlídá) |
+| Programová koordinace | 🟡 | sync s EHMK školy (Kreativní mysl 0–6, ZŠ/SŠ); Ostrov kultury = výstupy do veřejného prostoru |
 
 ## Pravidla práce (připomínka)
 - Obsah česky, git commit messages anglicky.
