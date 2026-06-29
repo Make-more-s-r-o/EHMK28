@@ -25,7 +25,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:dashboard:start -->
 | ⏳ Do uzávěrky | 🧩 Otevřená rozhodnutí | ✅ Úkoly | 📅 Poslední schůzka |
 |:-:|:-:|:-:|:-:|
-| **16 dní** | **2** (1 blokuje 🔴) | 1 ✅ · 4 🟡 · 12 ⬜ · 1 🔴 | 2026-06-24 |
+| **11 dní** | **2** (1 blokuje 🔴) | 2 ✅ · 4 🟡 · 9 ⬜ · 3 🔴 | 2026-06-24 |
 <!-- AUTO:dashboard:end -->
 
 ### 🔴 Co blokuje / čeká na rozhodnutí&nbsp;⟳
@@ -36,11 +36,13 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 | Otázka | Stav | Pozn. |
 |---|---|---|
 | Velikost projektu | ✅ **VELKÝ** | grant max 4 mil. Kč, celkový rozpočet 8 mil., spolufinancování 50 % |
-| Žadatel | ✅ **Make More** | nově zřízená provozovna v Českých Budějovicích splňuje podmínku sídla v JčK |
-| Jihočeský partner | ✅ **JVTP** | Jihočeský vědeckotechnologický park; Jana Moravcová kontakt; ředitel potvrdil ochotu |
-| Zahraniční partner | 🔴 **nezajištěn** | povinný + Letter of Intent — největší blocker, termín 5. 7. |
-| Koncept | ✅ **pop-up Makerspace + výstava designu** | Make More = provoz Makerspaceu; JVTP = výstava design jako proces; průnik v roce 2028 ČB |
-| Kofinancování | 🟡 řeší se s JVTP | JVTP může vložit úvazky z jiných projektů (cíl: 50 % vlastních zdrojů) |
+| Hlavní žadatel | ✅ **JVTP** | potvrzeno Petrem Pežinkou (24. 6.) — MM je realizační partner, fakturace OK |
+| MM v JčK | ✅ splněno | pobočka Make More v ČB zapsána v rejstříku 23. 6. |
+| Jihočeský partner | ✅ **JVTP** | Jana Moravcová; ředitel potvrdil ochotu |
+| Zahraniční partner | 🔴 **nezajištěn** | Grand Garáž Linz = hlavní kandidát; Ars Electronica Center = možný také; termín LoI 5. 7. |
+| Koncept | ✅ **pop-up Makerspace + Design lab** | MM = provoz + školy + komunita; JVTP = výstava + design sprint se startupy |
+| Kofinancování | ✅ **OK** | osobní náklady z jiných projektů lze použít — nesmí být vykázány 2× zároveň (MK ČR hlídá) |
+| Programová koordinace | 🟡 | sync s EHMK školy (Kreativní mysl 0–6, ZŠ/SŠ); Ostrov kultury = výstupy do veřejného prostoru |
 <!-- AUTO:rozhodnuti:end -->
 
 ➡️ Zdroj a kontext rozhodnutí → [memory/PROJEKT-STAV.md](./memory/PROJEKT-STAV.md)
@@ -51,8 +53,8 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 10 | 2026-06-24 | A One Pager pro JVTP · B Rozpočtová + kapacitní… · 1 Velikost projektu · 2 Žadatel velkého… |
-| ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 2 | 2026-06-24 | A One Pager pro JVTP · 1 Velikost projektu |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 11 | 2026-06-24 | V5 Registrační formulář |
+| ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 5 | 2026-06-29 | V5 Registrační formulář · P1 Grand Garáž Linz · P2 Ars Electronica Center |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 <!-- AUTO:tym:end -->
 
@@ -106,12 +108,11 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:ukoly:start -->
 | Sekce | ✅ | 🟡 | ⬜ | 🔴 |
 |---|:-:|:-:|:-:|:-:|
-| ⏰ JVTP / pop-up FabLab | 0 | 2 | 2 | 0 |
-| 🔴 Nejdřív rozhodnout | 0 | 2 | 1 | 0 |
-| 🤝 Partneři | 1 | 0 | 0 | 1 |
+| 🔴 Urgentní | 2 | 1 | 0 | 2 |
+| 🤝 Partneři | 0 | 3 | 0 | 1 |
 | ✍️ Obsah žádosti | 0 | 0 | 5 | 0 |
 | 📎 Přílohy a podání | 0 | 0 | 4 | 0 |
-| **Celkem** | **1** | **4** | **12** | **1** |
+| **Celkem** | **2** | **4** | **9** | **3** |
 
 ➡️ Detail, vlastníci a termíny → [UKOLY.md](./UKOLY.md)
 <!-- AUTO:ukoly:end -->
@@ -120,14 +121,14 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `a5132d7` 2026-06-29 · Ondřej Kašpárek — Record Petr Pezinka call outcomes: JVTP as lead applicant, cofinancing OK
+- `712d791` 2026-06-29 · Ondřej Kašpárek — Add MM activities and budget outline for Jana meeting (2026-06-30)
+- `e53d9ac` 2026-06-24 · Ondřej Kašpárek — Update tasks and partners tracker from Jana/JVTP call (2026-06-24)
+- `e29cdfc` 2026-06-24 · Dan Jirotka — Regenerate dashboard after rebase
 - `a1dea7e` 2026-06-24 · Dan Jirotka — Add 2026-06-24 JVTP meeting transcript and notes
 - `427bed7` 2026-06-24 · Ondřej Kašpárek — Add one-pager PDF generator for Vojta Kolařík
 - `729b981` 2026-06-24 · Dan Jirotka — Move team section up and make @logins clickable
 - `0932d51` 2026-06-24 · Dan Jirotka — Add team section and richer commit log to dashboard
-- `cac31a1` 2026-06-23 · Ondřej Kašpárek — Add concept text to one-pager and update project status
-- `c7b08e0` 2026-06-22 · Dan Jirotka — Mark budget numbers as unapproved DRAFT + add work handoff
-- `f31edca` 2026-06-22 · Dan Jirotka — Add auto-updating dashboard to README
-- `9a7a5d1` 2026-06-22 · Dan Jirotka — Add 2026-06-22 meeting notes + FabLab/JVTP budget modeling
 <!-- AUTO:aktivita:end -->
 
 ---
@@ -155,5 +156,5 @@ Claude ti je sám nabídne, když se hodí. Vyžádat: *„zapoj grantového spe
 > [`schuzky/`](./schuzky/) — **needituj ho ručně**. Ostatní text uprav klidně přímo.
 
 <!-- AUTO:generated:start -->
-<sub>⟳ Nástěnka naposledy přegenerována 2026-06-24 · generuje <code>tools/generate-dashboard.mjs</code></sub>
+<sub>⟳ Nástěnka naposledy přegenerována 2026-06-29 · generuje <code>tools/generate-dashboard.mjs</code></sub>
 <!-- AUTO:generated:end -->
