@@ -25,7 +25,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:dashboard:start -->
 | ⏳ Do uzávěrky | 🧩 Otevřená rozhodnutí | ✅ Úkoly | 📅 Poslední schůzka |
 |:-:|:-:|:-:|:-:|
-| **11 dní** | **2** (1 blokuje 🔴) | 2 ✅ · 4 🟡 · 9 ⬜ · 3 🔴 | 2026-06-24 |
+| **10 dní** | **2** (1 blokuje 🔴) | 2 ✅ · 4 🟡 · 9 ⬜ · 3 🔴 | 2026-06-30 |
 <!-- AUTO:dashboard:end -->
 
 ### 🔴 Co blokuje / čeká na rozhodnutí&nbsp;⟳
@@ -53,8 +53,8 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 13 | 2026-06-29 | V5 Registrační formulář |
-| ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 6 | 2026-06-29 | V5 Registrační formulář · P1 Grand Garáž Linz · P2 Ars Electronica Center |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 14 | 2026-06-29 | V5 Registrační formulář |
+| ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 7 | 2026-06-30 | V5 Registrační formulář · P1 Grand Garáž Linz · P2 Ars Electronica Center |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 <!-- AUTO:tym:end -->
 
@@ -78,6 +78,15 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 📅 Schůzky a zápisy&nbsp;⟳
 <!-- AUTO:schuzky:start -->
+### 2026-06-30 · EHMK 2028 — rozpočet a aktivity makerspace („Popovův Blob"), prostor, zahraniční…
+- **Účastníci:** Dan, Ondřej, zástupkyně partnerské organizace (Design Lab) + krátce kolegyně Lucie
+- 📄 Zápis: [2026-06-30-makerspace-rozpocet-zapis.md](./schuzky/2026-06-30-makerspace-rozpocet-zapis.md)
+
+<details><summary>Přepisy a porovnání (1)</summary>
+
+- [přepis Plaud AI](./schuzky/2026-06-30-makerspace-rozpocet-prepis-plaud.md)
+</details>
+
 ### 2026-06-24 · EHMK 2028 — partnerství (JVTP), rozpočet, žádost a kurátorský obsah výstavy
 - **Účastníci:** Dan, Ondřej, Jana (JVTP)
 - 📄 Zápis: [2026-06-24-jvtp-zapis.md](./schuzky/2026-06-24-jvtp-zapis.md)
@@ -121,14 +130,14 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `3d2b06a` 2026-06-30 · Ondřej Kašpárek — Align 2028 MM activities with Dan's SKOLNI ROK budget model (3M cash)
+- `da53296` 2026-06-29 · Dan Jirotka — Budget: detailed 2027-2028 ledger + notify Ondra via HANDOFF
 - `172c808` 2026-06-29 · Ondřej Kašpárek — Refine MM activities: community program, 2-wave campaign, platform model
 - `da6ed63` 2026-06-29 · Dan Jirotka — Governance: all finance numbers owned by Dan only
 - `2085078` 2026-06-29 · Dan Jirotka — Add Dan's bottom-up 2028 budget ledger (daily school program)
 - `a5132d7` 2026-06-29 · Ondřej Kašpárek — Record Petr Pezinka call outcomes: JVTP as lead applicant, cofinancing OK
 - `712d791` 2026-06-29 · Ondřej Kašpárek — Add MM activities and budget outline for Jana meeting (2026-06-30)
 - `e53d9ac` 2026-06-24 · Ondřej Kašpárek — Update tasks and partners tracker from Jana/JVTP call (2026-06-24)
-- `e29cdfc` 2026-06-24 · Dan Jirotka — Regenerate dashboard after rebase
-- `a1dea7e` 2026-06-24 · Dan Jirotka — Add 2026-06-24 JVTP meeting transcript and notes
 <!-- AUTO:aktivita:end -->
 
 ---
@@ -156,5 +165,5 @@ Claude ti je sám nabídne, když se hodí. Vyžádat: *„zapoj grantového spe
 > [`schuzky/`](./schuzky/) — **needituj ho ručně**. Ostatní text uprav klidně přímo.
 
 <!-- AUTO:generated:start -->
-<sub>⟳ Nástěnka naposledy přegenerována 2026-06-29 · generuje <code>tools/generate-dashboard.mjs</code></sub>
+<sub>⟳ Nástěnka naposledy přegenerována 2026-06-30 · generuje <code>tools/generate-dashboard.mjs</code></sub>
 <!-- AUTO:generated:end -->
