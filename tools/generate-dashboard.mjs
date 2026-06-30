@@ -24,8 +24,11 @@ const TEAM = [
   { name: 'Dan Jirotka',     login: 'makerfaireczech',    role: 'Admin', match: /dan/i },
   { name: 'Ondřej Kašpárek', login: 'ondrej-kasparek-mm', role: 'Write', match: /ond[rř]ej|ondra|ka[šs]par/i },
   { name: '',                login: 'stratilabs',         role: 'Read',  match: null },
+  // bez GitHub účtu (pracují lokálně, změny předávají Danovi/Ondřejovi k pushnutí)
+  { name: 'Lucka',           note: 'Make more — grant. specialistka', role: 'NoGit', match: /luck|luci/i },
+  { name: 'Jana Moravcová',  note: 'JVTP — partner',                  role: 'NoGit', match: /jana/i },
 ];
-const ROLE_CHIP = { Admin: '🔑 Admin', Write: '✍️ Write', Read: '👁️ Read' };
+const ROLE_CHIP = { Admin: '🔑 Admin', Write: '✍️ Write', Read: '👁️ Read', NoGit: '📝 bez GitHubu' };
 
 const read = (p) => (existsSync(p) ? readFileSync(p, 'utf8') : '');
 
@@ -294,9 +297,16 @@ function buildTeam() {
     const doing = p.match
       ? tasks.filter((t) => t.status.includes('🟡') && p.match.test(t.owner)).map((t) => `${t.id} ${cap(t.title, 22)}`)
       : [];
-    const avatar = `![](https://github.com/${p.login}.png?size=32)`;
-    const handle = `<a href="https://github.com/${p.login}">@${p.login}</a>`;
-    const who = p.name ? `**${p.name}**<br><sub>${handle}</sub>` : handle;
+    let avatar, who;
+    if (p.login) {
+      avatar = `![](https://github.com/${p.login}.png?size=32)`;
+      const handle = `<a href="https://github.com/${p.login}">@${p.login}</a>`;
+      who = p.name ? `**${p.name}**<br><sub>${handle}</sub>` : handle;
+    } else {
+      // člen bez GitHub účtu
+      avatar = '👤';
+      who = `**${p.name}**${p.note ? `<br><sub>${p.note}</sub>` : ''}`;
+    }
     out.push(`| ${avatar} | ${who} | ${ROLE_CHIP[p.role] || p.role} | ${commits || '—'} | ${last || '—'} | ${doing.join(' · ') || '—'} |`);
   }
   for (const [name, st] of authors) {
