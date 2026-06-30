@@ -25,6 +25,55 @@
 
 ---
 
+## Harmonogram provozu 2028 — kdy je otevřeno a s čím jsou čísla párovaná
+
+> **Klíčové rozlišení:** *prostor* je **otevřený/pronajatý celoročně (12 měsíců)**, ale *program*
+> běží **jen v sezónách**. Proto se rozpočet dělí na dva typy položek:
+> **(A) celoroční** (drží se prostoru → 12 měsíců) a **(B) sezónní** (drží se výukových týdnů → ~28 týdnů).
+> Tento blok říká, **které měsíce generují které číslo** v rozpočtových tabulkách níže.
+
+### Co kdy běží (kalendář)
+
+| Měsíc | Prostor | Program | Náplň období | Párováno s položkou rozpočtu 2028 |
+|---|:--:|:--:|---|---|
+| **leden** | otevřen | — | příprava sezóny (nábor tříd, termíny), program neběží | celoroční: nájem (4), management (5), vybavení (8), propagace (6) |
+| **únor–květen** | otevřen | **ANO** | **jarní školní program** — Po–čt, 2 třídy/den (~17 týdnů) | sezónní: personál (1), materiál (2), doprava (3), vstupné |
+| **červen** | otevřen | částečně | ukázky / soutěže / exkurze (závěr jarní sezóny) | soutěže — marketing (7); doběh sezónních položek |
+| **červenec–srpen** | otevřen | tábory | **příměstské tábory** (jiný režim než školní program) | ⏳ zatím **nerozpočtováno** — viz „Další bloky" (samostatný personál/materiál/příjem) |
+| **září–listopad** | otevřen | **ANO** | **podzimní školní program** — Po–čt, 2 třídy/den (~13 týdnů) | sezónní: personál (1), materiál (2), doprava (3), vstupné |
+| **prosinec** | otevřen | — | útlum / mimo sezónu, program neběží | celoroční: nájem (4), management (5), vybavení (8), propagace (6) |
+
+**Sezónní základna pro výpočet:** jaro ~17 týdnů + podzim ~13 týdnů = ~30 týdnů, po odečtu
+školních prázdnin a svátků **≈ 28 výukových týdnů** = základ pro všechna „sezónní" čísla.
+
+### Jak se týdny/měsíce promítají do čísel (párování)
+
+**(B) Sezónní položky — škálují s 28 výukovými týdny (únor–kvě + zář–lis):**
+- **Personál — denní program (pol. 1):** 24 000 Kč/týd × **28 týd** = **672 000 Kč**.
+- **Materiál — školní workshopy (pol. 2):** 75 Kč × **5 376 dětí** (= 224 návštěv tříd × 24) = **403 200 Kč**.
+- **Doprava tříd (pol. 3):** ~**75 svozů** za sezónu × 8 050 Kč = **603 750 Kč**.
+- **Vstupné (kofinance):** 150 Kč × **5 376 dětí** = **806 400 Kč** — vzniká jen ve výukových týdnech.
+
+**(A) Celoroční položky — škálují s 12 měsíci (leden–prosinec, drží se prostoru):**
+- **Nájem (pol. 4):** 20 000 Kč × **12 měs** = **240 000 Kč** — platí se i v lednu/prosinci, kdy program neběží.
+- **Koordinace / management (pol. 5):** ½ úvazku, 80 h/měs × 500 × **12 měs** = **480 000 Kč**.
+- **Vybavení — pronájem (pol. 8):** drží se prostoru celoročně (vybavení je v dílně i mimo sezónu).
+- **Propagace — udržovací (pol. 6):** 15 000 Kč × **12 měs** = **180 000 Kč** (průběžná komunikace).
+
+**(C) Jednorázové / bodové:**
+- **Soutěže — marketing (pol. 7):** 2 × 50 000 Kč, navázané na **červen** (ukázky/soutěže/exkurze).
+- **Vybavení dílny, drobný majetek, stavební úpravy (pol. 2b, 10, 9):** pořízení **na rozjezd** (začátek roku).
+
+> ⚠️ **Tábory (čvc–srp) zatím NEJSOU v ledgeru.** V kalendáři výše jsou kvůli úplnosti, ale jejich
+> personál, materiál a příjem se počítají samostatně — viz sekce „Další bloky k promyšlení". Číslo
+> personálu (672k) a materiálu (403k) **se táborů netýká** — pokrývá jen školní program.
+
+> ⚠️ **Leden jako „příprava"** je doplněn podle Danovy poznámky (program neběží, prostor a režie ano).
+> V původní pracovní úvaze byl jen jako mimo-sezónní měsíc; pokud má leden nést vlastní **přípravné
+> náklady** (nad rámec celoroční režie), doplní je Dan.
+
+---
+
 ## ROK 2027 — příprava (grant cap ≤ 800 000 Kč)
 
 | # | Položka | Výpočet | Celkem | Z grantu | Z kofinance | Komentář |

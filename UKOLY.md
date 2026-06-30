@@ -15,14 +15,19 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 | V3 | **Zahraniční partner — kontakty navázány:** Grand Garage Linz (Ondřej) + Kunstuniversität Linz (Jana, viz J2). Ars Electronica se **aktivně neoslovuje**. | Ondřej + Jana | LoI do 5. 7. | 🟡 |
 | V4 | ~~Aktivity MM + hrubý rozpočet~~ — sepsáno; agregát ~4,5 mil. **nad limitem 3,5 mil.** → viz V6 | Ondřej | — | ✅ → škrty |
 | V5 | **Registrační formulář** — vyplnit a odeslat (lze pak upravovat) | Ondřej / Dan | ASAP | 🟡 |
-| V6 | **Rozpočet stáhnout pod 3,5 mil. Kč** — určit škrty, optimalizace (pronájem/zápůjčka vybavení Design Labu místo nákupu), doplnit komunitní/víkendové aktivity + práci zahr. partnera 2028 | Dan | ASAP | 🔴 |
+| V6 | **Rozpočet stáhnout pod 3,5 mil. Kč** — určit škrty, optimalizace (pronájem/zápůjčka vybavení Design Labu místo nákupu; započíst ~50 páječek MakeMore do vybavení/cofinance), doplnit komunitní/víkendové aktivity + práci zahr. partnera 2028 | Dan | ASAP | 🔴 |
 | V7 | **Vyjasnit fin. toky a partnerskou smlouvu** (lead vs realizátor, fakturace, interní směrnice) — kontakt Anička | Ondřej + Jana | ASAP | ⬜ |
-| V8 | **Rozhodnout název projektu** (pro LoI a dokumenty) | Ondřej / Dan | ASAP | ⬜ |
+| V8 | **Rozseknout název projektu** (varianty „Make and Design" / „Makerspace" / „Design Lab") — **blokuje LoI a papíry** | Ondřej / Dan | ASAP | 🔴 |
 | V9 | **Ověřit režijní/nepřímé náklady** (paušál 20 %?) a pravidla spolufinancování (vstupné, Smart Accelerator) — kontakt Petr Pežinka | Dan | ASAP | ⬜ |
+| V10 | **Onboarding Lucky** — poslat přístup (Claude, Git repo, one pager) | Dan | čt 2. 7. | ⬜ |
+| V11 | **Definovat pro Lucku zadání** — co z žádosti je potřeba „nabušit" | Ondřej | čt 2. 7. | ⬜ |
+| V12 | **Gaming** — zkusit „nahodit loop" přes Brno Creative Days (chybějící scéna v JčK) | Ondřej | průběžně | ⬜ |
+| V13 | **Ověřit správu Žižkárny** (pan Novák) | Jana/JVTP (Vojtěch) | ASAP | ⬜ |
 
 ### Lucka (Make more — grantová specialistka, finalizace)
 
 > Návrh úkolů z 30. 6. — potvrď/doplň. Finance vlastní Dan; Lucka čísla **nevytváří**, jen kompletuje.
+> Zdroj: [`schuzky/2026-06-30-makerspace-rozpocet-zapis.md`](schuzky/2026-06-30-makerspace-rozpocet-zapis.md). Onboarding/schůzka: čt 2. 7. 11:00 (V10).
 
 | # | Úkol | Vlastník | Termín | Stav |
 |---|---|---|---|---|
@@ -34,6 +39,7 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 ### Jana (JVTP — partner)
 
 > Návrh úkolů z 30. 6. — finální rozdělení dolaď s Ondřejem. JVTP podklady, **rozpočet za JVTP předat Danovi ke konsolidaci** (Dan vlastní finální čísla).
+> Zdroj: [`schuzky/2026-06-30-makerspace-rozpocet-zapis.md`](schuzky/2026-06-30-makerspace-rozpocet-zapis.md).
 
 | # | Úkol | Vlastník | Termín | Stav |
 |---|---|---|---|---|
@@ -132,3 +138,11 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 **Prostor — kandidáti (preferován industriál):** Výstaviště (10–20 tis./měs., schůzka v týdnu od 29. 6.), Žižkárna (ověřit stav/správu), okolní objekty, LMK u nádraží (pro 2028 malé), kontejnerové řešení.
 
 **Komunitní program:** dopoledne školy, odpoledne/večer veřejnost (repair café, přednášky, workshopy, pronájmy); soutěže 2× ročně (červen, prosinec) + tematické výzvy s městy.
+
+**Doplnění z plného přepisu (deep-pass):**
+- **Název projektu nerozhodnut** (varianty „Make and Design" / „Makerspace" / „Design Lab") — kritické, blokuje LoI/papíry (V8).
+- **Komunikační kanál týmu neurčen**; AI: Dan/Ondřej Claude, Lucka ChatGPT.
+- **Vybavení MakeMore:** ~50 páječek (z táborů) → do cofinance; dělnické stoly ~3–4 tis. Kč/ks (ověřit jednotku).
+- **Možní hosté:** Adam Ur (kacadu.com, 3D tisk, akcelerátor SABIC, z Průšalab), Jiří Vele, Michal Trpák.
+- **Ars Electronica:** primárně se neřeší (Grand Garage + Kunstuniversität stačí), není to finální „ne".
+- Plný zápis: [`schuzky/2026-06-30-makerspace-rozpocet-zapis.md`](schuzky/2026-06-30-makerspace-rozpocet-zapis.md).

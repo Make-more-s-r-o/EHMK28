@@ -39,11 +39,25 @@
 - Nutné vyjasnit **finanční toky** (kdo přijímá peníze, fakturace, soulad s interními směrnicemi), režie a partnerskou smlouvu (konzultace s Aničkou, veřejné zakázky).
 
 ### Zahraniční partneři
-- Navázány kontakty: **Grand Garage** a **Kunstuniversität Linz** (možné letters of intent, společné schůzky 2027). **Ars Electronica** se aktivně neoslovuje.
+- Navázány kontakty: **Grand Garage** a **Kunstuniversität Linz** (možné letters of intent, společné schůzky 2027). Pro tuto chvíli **Grand Garage + Kunstuniversität stačí** (cit. „nám v tuhle chvíli bude stačit"). **Ars Electronica** se primárně neřeší — max. zvážit, není to finální „ne".
 - V rozpočtu zatím chybí práce zahraničního partnera v roce 2028 → doplnit. Mít záložní plán.
 
 ### Kapacity a termíny
 - Ondřej dostupný **jen tento týden**; od **6. 7.** výrazně omezen. **Deadline žádosti 10. 7. 2026.**
+- **Schůzka s Luckou: čtvrtek 2. 7. v 11:00** (onboarding na žádost).
+
+### Doplnění z plného přepisu (deep-pass)
+- **Název projektu NENÍ rozhodnut** — padly varianty „Make and Design", „Makerspace", „Design Lab". Kritické a urgentní (cit. „pojďme ho rozsouknout… ať už můžeme procesovat ty papíry") — blokuje letters of intent a dokumenty.
+- **Komunikační kanál týmu zatím neurčen** (partnerka Design Labu se ptala, čím komunikujeme — nedořešeno).
+- **AI nástroje:** Dan a Ondřej **Claude**, Lucka **ChatGPT** (placená) — kooperace nedořešena. Dan pošle Lucce přístup (Claude, Git repo, one pager).
+- **Výstaviště:** schůzku s provozovatelem (s marketingem) řeší spíš **partner (Design Lab)**, ne nutně Dan/Ondřej.
+- **Žižkárna:** správu ověřuje **Vojtěch (Design Lab)** u pana Nováka („nevím, jestli tam je pořád").
+- **Existující vybavení MakeMore:** ~**50 páječek** (využívané na tábory) → lze započítat do vybavení/cofinance. Dělnické stoly ~3–4 tis. Kč/ks (jednotka nejasná, ověřit).
+- **Možní hosté / partneři obsahu:** **Adam Ur** (Adamov; 3D tisk, projekt kacadu.com, expandovatelné struktury, akcelerátor SABIC, kontakt z Průšalab), **Jiří Vele** a **Michal Trpák** (architektura/organická architektura).
+- **Gaming:** Ondřej zkusí „nahodit loop" přes **Brno Creative Days** (chybějící herní scéna v JčK).
+- **Cofinance:** mzdy z **Smart Acceleratoru** (projekt Design Labu) jako možné kofinancování — ověřit pravidla (Petr Pežinka).
+
+> ⚠️ Jména a role z přepisu jsou orientační (auto-diarizace neověřená) — před použitím do žádosti ověřit u Dana. Účast: Dan, Ondřej, zástupci partnera (Design Lab/JVTP), krátce Lucka.
 
 ## Rozhodnutí
 - Pokračujeme v modelu **komunitní makerspace platforma** (dopoledne školy, odpoledne/večer veřejnost) s linkou na Design Lab.
@@ -63,11 +77,17 @@
 | Ověřit nájem a provozní náklady lokalit; absolvovat schůzku s Výstavištěm | Dan/Ondřej | týden od 29. 6. |
 | Validovat mzdové sazby a personální model (1 mistr + 2 lektoři) pro region; upřesnit počet svozů a cenu dopravy | Dan | ASAP |
 | Definovat finanční toky a partnerskou smlouvu (lead vs realizátor, fakturace, směrnice) — kontakt Anička | Ondřej | ASAP |
-| Rozhodnout o názvu projektu; připravit a rozeslat letters of intent (Grand Garage, Kunstuniversität Linz) | Ondřej | ASAP |
-| Zpracovat harmonogram a milníky do 10. 7.; zřídit komunikační kanál týmu; zapojit Lucii | Ondřej | do 10. 7. |
-| Připravit obsahové highlighty a hosty pro 2028; rozhodnout o gamingu (Brno Creative Days) | Ondřej | průběžně |
+| **Rozseknout název projektu** (kritické, blokuje papíry/LoI); pak rozeslat letters of intent (Grand Garage, Kunstuniversität Linz) | Ondřej | ASAP |
+| Zpracovat harmonogram a milníky do 10. 7.; zřídit komunikační kanál týmu; zapojit Lucku | Ondřej | do 10. 7. |
+| Připravit obsahové highlighty a hosty pro 2028 (Adam Ur, Jiří Vele, Michal Trpák); rozhodnout o gamingu (Brno Creative Days) | Ondřej | průběžně |
+| Onboarding Lucky: poslat přístup (Claude, Git repo, one pager) | Dan | čt 2. 7. |
+| Definovat pro Lucku, co z žádosti je potřeba „nabušit" (konkrétní zadání) | Ondřej | čt 2. 7. |
+| Ověřit správu Žižkárny (pan Novák) | Vojtěch (Design Lab) | ASAP |
+| Schůzka s Luckou (onboarding) | Dan/Ondřej | čt 2. 7. 11:00 |
 
 ## Otevřené otázky
+- **Název projektu** (nerozhodnuto — „Make and Design" / „Makerspace" / „Design Lab"). Blokuje LoI a papíry.
+- Komunikační kanál týmu (čím komunikovat napříč Make more + partner + Lucka).
 - Finální rozdělení rozpočtu pod 3,5 mil. a konkrétní škrtané položky.
 - Uznatelnost a realističnost příjmu ze vstupného (~800 tis.) jako spolufinancování.
 - Pravidla pro režijní/nepřímé náklady (paušál, vykazování).

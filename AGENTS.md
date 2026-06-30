@@ -48,6 +48,17 @@ Claude Code u všech členů týmu.
    hotové, co rozpracované, co **neschválené** (zvlášť čísla) a co je další krok, ať druhý plynule
    naváže. Na začátku práce `HANDOFF.md` přečti.
 
+## 🎙️ Zpracování zápisů ze schůzek (závazný postup)
+Platí pro **každou** schůzku (potvrdil Dan 30. 6. 2026):
+1. Stáhni nahrávku z Plaud (poslední / dle zadání). Ulož přepis
+   `schuzky/RRRR-MM-DD-tema-prepis-plaud.md` + zápis `…-zapis.md` (šablona `_SABLONA-zapis.md`).
+2. **Projdi CELÝ přepis, ne jen AI summary.** U dlouhého přepisu pověř subagenta (Explore), ať
+   nezahltí kontext — vrátí jen to, co summary vynechá; doplň to do zápisu.
+3. Zapracuj rozhodnutí, úkoly a čísla do `UKOLY.md` a `memory/PROJEKT-STAV.md` (log rozhodnutí).
+4. **V úkolech odkazuj na zdroj — konkrétní zápis** (`schuzky/…-zapis.md`), ideálně i sekci.
+5. Čísla = NESCHVÁLENÝ DRAFT (vlastní Dan). Mluvčí z auto-diarizace = neověřené → označ.
+6. Přegeneruj nástěnku (`node tools/generate-dashboard.mjs`) a pushni.
+
 ## 🤝 Dva specializovaní agenti — aktivně je nabízej
 V repu jsou dva agenti (`.claude/agents/`). **Když úkol spadá do jejich domény, hlavní Claude
 je má sám proaktivně doporučit a delegovat** (ne čekat na vyžádání).

@@ -77,6 +77,9 @@
   rozpočtu ~4,5 mil. **nad limitem 3,5 mil.** → nutné škrty (Dan); zahr. partneři Grand Garage +
   Kunstuniversität Linz (LoI), Ars Electronica se neoslovuje; rozdělení práce Ondřej obsah / Dan
   finance / Lucie finalizace; prostor Výstaviště/Žižkárna. ⚠️ Všechna čísla NESCHVÁLENÝ DRAFT.
+  **Otevřené (kritické): název projektu nerozhodnut** (Make and Design / Makerspace / Design Lab)
+  — blokuje LoI a papíry. Nové kontakty obsahu: Adam Ur (kacadu.com, SABIC), Jiří Vele, Michal
+  Trpák. Žižkárnu ověřuje Vojtěch (Design Lab). Schůzka s Luckou čt 2. 7. 11:00.
 - 22. 6. 2026 — Založen repozitář, rešerše výzvy (ZAPIS-VYZVA.md), struktura žádosti,
   onboarding pro Ondřeje, dva agenti. Velikost projektu zatím nerozhodnuta (připraveny obě
   varianty). Zdrojové soubory v `podklady/`.
