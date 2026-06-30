@@ -70,6 +70,13 @@
 - JVTP je „dlouhodobý velmi prověřený partner."
 
 ## Log rozhodnutí
+- 30. 6. 2026 — **Doplněn sezónní harmonogram provozu 2028** do `../strategie/rozpocet-pracovni-2028.md`
+  (vlastní Dan). Popisuje, kdy je otevřeno a s čím jsou čísla párovaná: prostor celoročně (12 měs),
+  program jen v sezónách — **únor–květen** jarní + **září–listopad** podzimní školní program (~28
+  výukových týdnů), **leden** příprava, **červen** ukázky/soutěže, **čvc–srp** příměstské tábory
+  (**zatím nerozpočtováno**). Sezónní položky (personál 672k, materiál 403k, doprava, vstupné)
+  škálují s 28 týdny; celoroční (nájem, management, vybavení, propagace) s 12 měsíci. Harmonogram
+  vytažen z konverzace 29. 6.; čísla = NESCHVÁLENÝ DRAFT.
 - 30. 6. 2026 — **Schůzka k rozpočtu a aktivitám makerspace** (Dan, Ondřej, partner Design Lab,
   krátce Lucie). Zápis: `../schuzky/2026-06-30-makerspace-rozpocet-zapis.md`, přepis Plaud
   `…-prepis-plaud.md` (file_id `6f07280d482787f65b124f1d958dcb3b`). Závěry: koncept komunitní
