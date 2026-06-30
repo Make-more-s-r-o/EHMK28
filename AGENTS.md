@@ -40,8 +40,9 @@ Claude Code u všech členů týmu.
    `memory/PROJEKT-STAV.md`, ať to oba vidí.
 5. **README.md je živá nástěnka projektu.** Obsah mezi značkami `<!-- AUTO:* -->` generuje
    `tools/generate-dashboard.mjs` ze zdrojů `UKOLY.md`, `memory/PROJEKT-STAV.md` a `schuzky/`
-   — **needituj ho ručně**. **Před každým „nahraj moje změny" přegeneruj nástěnku**
-   (`node tools/generate-dashboard.mjs`) a přidej `README.md` do commitu, ať odpovídá realitě.
+   — **needituj ho ručně**. **Před každým „nahraj moje změny" přegeneruj nástěnku pořádně**
+   (`node tools/generate-dashboard.mjs`), **zkontroluj, že dává smysl** (odpočet, tým vč. lidí bez
+   GitHubu, úkoly a aktivita sedí s realitou) a přidej `README.md` do commitu, ať odpovídá realitě.
    Po pushi ji Action (`.github/workflows/dashboard.yml`) jen **zkontroluje** (org nepovoluje
    workflow zápis → necommituje, jen ❌ upozorní, když datové bloky neodpovídají zdrojům).
 6. **Předávání práce mezi Danem a Ondřejem:** na konci své práce aktualizuj `HANDOFF.md` — co je
@@ -58,9 +59,15 @@ Platí pro **každou** schůzku (potvrdil Dan 30. 6. 2026):
 2. **Projdi CELÝ přepis, ne jen AI summary.** U dlouhého přepisu pověř subagenta (Explore), ať
    nezahltí kontext — vrátí jen to, co summary vynechá; doplň to do zápisu.
 3. Zapracuj rozhodnutí, úkoly a čísla do `UKOLY.md` a `memory/PROJEKT-STAV.md` (log rozhodnutí).
-4. **V úkolech odkazuj na zdroj — konkrétní zápis** (`schuzky/…-zapis.md`), ideálně i sekci.
+   **Zápis i úkoly musí dávat smysl a být relevantní** — ne mechanický výpis vět z přepisu, ale
+   pochopené body, ze kterých jde reálně pracovat.
+4. **Každý úkol musí mít konkrétního vlastníka (jméno: Dan/Ondřej/Lucka/Jana)** — ne „partner"
+   ani „k posouzení", ať ho ten člověk může opravdu vzít a udělat. **A v úkolech odkazuj na zdroj —
+   konkrétní zápis** (`schuzky/…-zapis.md`), ideálně i sekci.
 5. Čísla = NESCHVÁLENÝ DRAFT (vlastní Dan). Mluvčí z auto-diarizace = neověřené → označ.
-6. Přegeneruj nástěnku (`node tools/generate-dashboard.mjs`) a pushni.
+6. **Před pushem přegeneruj nástěnku pořádně** (`node tools/generate-dashboard.mjs`) a **zkontroluj,
+   že README dává smysl** — odpočet, tým (vč. lidí bez GitHubu), úkoly a poslední aktivita sedí
+   s realitou. Teprve pak pushni.
 
 ## 🤝 Dva specializovaní agenti — aktivně je nabízej
 V repu jsou dva agenti (`.claude/agents/`). **Když úkol spadá do jejich domény, hlavní Claude

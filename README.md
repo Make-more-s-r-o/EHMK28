@@ -50,7 +50,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 21 | 2026-06-30 | V5 Registrační formulář |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 22 | 2026-06-30 | V5 Registrační formulář |
 | ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 7 | 2026-06-30 | V3 Zahraniční partner… · V5 Registrační formulář · P1 Grand Garage Linz · P3 Kunstuniversität Linz |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 | 👤 | **Lucka**<br><sub>Make more — grant. specialistka</sub> | 📝 bez GitHubu | — | — | — |
@@ -129,6 +129,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `835b196` 2026-06-30 · Dan Jirotka — Dashboard: show non-GitHub members (Lucka, Jana) in team table
 - `01b81e6` 2026-06-30 · Dan Jirotka — Refresh dashboard after 30-06 meeting corrections
 - `ff6393a` 2026-06-30 · Dan Jirotka — Fix 30-06 meeting attendees: Dan, Ondrej, Jana (not Design Lab woman/Lucka); add 'ask who attended' rule
 - `1585e35` 2026-06-30 · Dan Jirotka — Memory: log 2028 seasonal operating schedule decision
@@ -136,7 +137,6 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 - `b69c162` 2026-06-30 · Dan Jirotka — Assign 2026-06-30 meeting tasks to Lucka (finalization) and Jana (JVTP)
 - `2d89ffa` 2026-06-30 · Dan Jirotka — Update tasks/status from 2026-06-30 meeting; add Lucka & Jana (public repo, no GitHub auth)
 - `e9530a3` 2026-06-30 · Dan Jirotka — Add 2026-06-30 meeting: makerspace budget & activities (Plaud transcript + zápis)
-- `3d2b06a` 2026-06-30 · Ondřej Kašpárek — Align 2028 MM activities with Dan's SKOLNI ROK budget model (3M cash)
 <!-- AUTO:aktivita:end -->
 
 ---
