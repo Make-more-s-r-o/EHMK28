@@ -1,11 +1,11 @@
 # Zápis ze schůzky — 2026-06-30
 
-- **Účastníci:** Dan, Ondřej, zástupkyně partnerské organizace (Design Lab) + krátce kolegyně Lucie
+- **Účastníci:** Dan, Ondřej, Jana (JVTP / Design Lab). Lucka NEBYLA (onboarduje se čt 2. 7.).
 - **Datum:** 2026-06-30, ~61 min
 - **Téma:** EHMK 2028 — rozpočet a aktivity makerspace („Popovův Blob"), prostor, zahraniční partneři, model spolupráce
 - **Zdroj:** Plaud AI přepis, file_id `6f07280d482787f65b124f1d958dcb3b`; plný přepis viz `schuzky/2026-06-30-makerspace-rozpocet-prepis-plaud.md`
 
-> ⚠️ Mluvčí z auto-diarizace (neověřeno). **Všechna rozpočtová čísla níže jsou NESCHVÁLENÝ DRAFT z diskuse — vlastní a schvaluje je Dan (viz AGENTS.md). Nepoužívat v žádosti bez ověření.**
+> ⚠️ Účast: **Dan, Ondřej, Jana (JVTP/Design Lab)**. Diarizace Plaud nekvalitní, mluvčí orientační. **Všechna rozpočtová čísla níže jsou NESCHVÁLENÝ DRAFT z diskuse — vlastní a schvaluje je Dan (viz AGENTS.md). Nepoužívat v žádosti bez ověření.**
 
 ---
 
@@ -35,7 +35,7 @@
 - Preferován **industriální prostor** před moderní halou. Kandidáti: **Výstaviště** (10–20 tis. Kč/měs., schůzka s provozovatelem v týdnu od 29. 6.), okolní objekty, LMK u nádraží (pro 2028 malé), kontejnerové řešení, **Žižkárna** (ověřit stav/správu).
 
 ### Model spolupráce a administrace
-- Partnerka/její organizace zajistí **prostor a část vybavení**; MakeMore dodá **metodiku a obsah**; marketing a provoz společně.
+- JVTP (Jana) zajistí **prostor a část vybavení** (Design Lab); MakeMore dodá **metodiku a obsah**; marketing a provoz společně.
 - Nutné vyjasnit **finanční toky** (kdo přijímá peníze, fakturace, soulad s interními směrnicemi), režie a partnerskou smlouvu (konzultace s Aničkou, veřejné zakázky).
 
 ### Zahraniční partneři
@@ -48,16 +48,16 @@
 
 ### Doplnění z plného přepisu (deep-pass)
 - **Název projektu NENÍ rozhodnut** — padly varianty „Make and Design", „Makerspace", „Design Lab". Kritické a urgentní (cit. „pojďme ho rozsouknout… ať už můžeme procesovat ty papíry") — blokuje letters of intent a dokumenty.
-- **Komunikační kanál týmu zatím neurčen** (partnerka Design Labu se ptala, čím komunikujeme — nedořešeno).
+- **Komunikační kanál týmu zatím neurčen** (Jana se ptala, čím komunikujeme — nedořešeno).
 - **AI nástroje:** Dan a Ondřej **Claude**, Lucka **ChatGPT** (placená) — kooperace nedořešena. Dan pošle Lucce přístup (Claude, Git repo, one pager).
-- **Výstaviště:** schůzku s provozovatelem (s marketingem) řeší spíš **partner (Design Lab)**, ne nutně Dan/Ondřej.
-- **Žižkárna:** správu ověřuje **Vojtěch (Design Lab)** u pana Nováka („nevím, jestli tam je pořád").
+- **Výstaviště:** schůzku s provozovatelem (s marketingem) řeší spíš **JVTP (Jana)**, ne nutně Dan/Ondřej.
+- **Žižkárna:** správu ověřuje **Vojtěch** (kolega z JVTP/Design Labu) u pana Nováka („nevím, jestli tam je pořád").
 - **Existující vybavení MakeMore:** ~**50 páječek** (využívané na tábory) → lze započítat do vybavení/cofinance. Dělnické stoly ~3–4 tis. Kč/ks (jednotka nejasná, ověřit).
 - **Možní hosté / partneři obsahu:** **Adam Ur** (Adamov; 3D tisk, projekt kacadu.com, expandovatelné struktury, akcelerátor SABIC, kontakt z Průšalab), **Jiří Vele** a **Michal Trpák** (architektura/organická architektura).
 - **Gaming:** Ondřej zkusí „nahodit loop" přes **Brno Creative Days** (chybějící herní scéna v JčK).
 - **Cofinance:** mzdy z **Smart Acceleratoru** (projekt Design Labu) jako možné kofinancování — ověřit pravidla (Petr Pežinka).
 
-> ⚠️ Jména a role z přepisu jsou orientační (auto-diarizace neověřená) — před použitím do žádosti ověřit u Dana. Účast: Dan, Ondřej, zástupci partnera (Design Lab/JVTP), krátce Lucka.
+> ⚠️ Jména a role z přepisu jsou orientační (diarizace nekvalitní) — před použitím do žádosti ověřit u Dana. Účast: **Dan, Ondřej, Jana (JVTP/Design Lab)**.
 
 ## Rozhodnutí
 - Pokračujeme v modelu **komunitní makerspace platforma** (dopoledne školy, odpoledne/večer veřejnost) s linkou na Design Lab.
@@ -72,7 +72,7 @@
 | Úkol | Vlastník | Termín |
 |---|---|---|
 | Přepracovat rozpočet pod limit 3,5 mil. Kč; identifikovat škrty; doplnit komunitní/víkendové aktivity i práci zahr. partnera 2028 | Dan | ASAP (do 10. 7.) |
-| Finalizovat seznam vybavení; co zajistí Design Lab/MakeMore; pronájem vs. nákup; spolupráce s Kabinetem na nábytku | Ondřej + partner | ASAP |
+| Finalizovat seznam vybavení; co zajistí Design Lab/MakeMore; pronájem vs. nákup; spolupráce s Kabinetem na nábytku | Ondřej + Jana | ASAP |
 | Ověřit podmínky režijních/nepřímých nákladů a pravidla spolufinancování (vstupné, Smart Accelerator) — kontakt Petr Peřinka | Dan | ASAP |
 | Ověřit nájem a provozní náklady lokalit; absolvovat schůzku s Výstavištěm | Dan/Ondřej | týden od 29. 6. |
 | Validovat mzdové sazby a personální model (1 mistr + 2 lektoři) pro region; upřesnit počet svozů a cenu dopravy | Dan | ASAP |

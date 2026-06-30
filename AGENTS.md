@@ -50,6 +50,9 @@ Claude Code u všech členů týmu.
 
 ## 🎙️ Zpracování zápisů ze schůzek (závazný postup)
 Platí pro **každou** schůzku (potvrdil Dan 30. 6. 2026):
+0. **Vždy se nejdřív zeptej, kdo byl na schůzce, a identifikuj mluvčí.** Plaud diarizace je
+   nespolehlivá — mapuj Speaker N → jména přes oslovení v přepisu („Dane/Ondro/Jano") a potvrď
+   u Dana. Účastníky nehádej.
 1. Stáhni nahrávku z Plaud (poslední / dle zadání). Ulož přepis
    `schuzky/RRRR-MM-DD-tema-prepis-plaud.md` + zápis `…-zapis.md` (šablona `_SABLONA-zapis.md`).
 2. **Projdi CELÝ přepis, ne jen AI summary.** U dlouhého přepisu pověř subagenta (Explore), ať

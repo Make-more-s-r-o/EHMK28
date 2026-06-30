@@ -1,13 +1,14 @@
-# Schůzka Dan + Ondřej + partner (Design Lab) — 2026-06-30 (Plaud AI přepis)
+# Schůzka Dan + Ondřej + Jana (JVTP) — 2026-06-30 (Plaud AI přepis)
 
-- **Účastníci:** Dan, Ondřej, partnerská organizace (Design Lab) + krátce kolegyně Lucie — viz legenda mluvčích níže
+- **Účastníci:** **Dan, Ondřej, Jana (JVTP / Design Lab)**. Lucka na schůzce NEBYLA (onboarduje se čt 2. 7.).
 - **Datum:** 2026-06-30, ~61 min
 - **Téma:** EHMK 2028 — rozpočet a aktivity makerspace („Popovův Blob"), prostor, zahraniční partneři, model spolupráce
 - **Zdroj:** Plaud nahrávka `2026-06-30 14:02:09`, AI přepis (cloud), file_id `6f07280d482787f65b124f1d958dcb3b`
 
-> ⚠️ **Mluvčí přiřazeni automatickou diarizací Plaud — NEOVĚŘENO, před citací do žádosti ověř u Dana.**
-> Orientačně (dle summary „obsah vs čísla"): **Speaker 1 → Dan** (čísla/finance), **Speaker 2 → Ondřej** (obsah),
-> **Speaker 3** = zástupkyně partnerské organizace (Design Lab, zajišťuje prostor/vybavení), **Speaker 4** = krátké vstupy (kolegyně Lucie?).
+> ⚠️ **Diarizace Plaud je nekvalitní — mluvčí jsou nespolehliví, ber je orientačně.**
+> Pravděpodobně (dle oslovení v přepisu): **Speaker 2 → Jana** (oslovuje „Dane" i „Ondro"),
+> **Speaker 1 → Dan** (čísla/finance), **Speaker 3 → Ondřej** (obsah/kreativní část),
+> **Speaker 4** = krátké vstupy (artefakt diarizace). Jména do žádosti ověřit u Dana.
 
 ---
 
