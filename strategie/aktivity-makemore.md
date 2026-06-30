@@ -75,85 +75,78 @@ Odhad: ~200 000 Kč (z jiných projektů MM — nesmí být vykázáno 2× záro
 
 ## Rok 2028 — pilotní provoz
 
-### E. Školní programy — hlavní objem návštěvníků
-Co: Pravidelné dopolední programy pro školní třídy ZŠ a SŠ. Propojení s EHMK programem
-„Kreativní mysl" a školními osnovami (technické vzdělávání, kreativita, design).
-Frekvence: 1 třída/den × 5 dní/týden × ~36 týdnů = ~6 600 návštěv tříd, ~5 100 unikátních dětí (dle Danovy modelace ŠKOLNÍ ROK).
-Každý program ~90 min, různé tematické laby (digitální výroba, řemeslo, design, technologie).
+> Rozpočtový rámec dle Danovy modelace (sestava ŠKOLNÍ ROK): **~3 000 000 Kč cash** =
+> personál + materiál + 15 % režie. **Nájem a HW vybavení = in-kind od JVTP** (mimo těchto 3 mil.).
+> Víkendové akce ani standalone marketing v tomto modelu nejsou — viz poznámky níže.
 
-| Náklad | Typ | Odhad (Kč) |
+### E. Školní programy — hlavní pilíř
+Co: Pravidelné dopolední programy pro školní třídy ZŠ a SŠ (návaznost na EHMK „Kreativní mysl 0–6"
+a školní osnovy). 1 třída/den × 5 dní/týden × 10,2 měsíce provozu.
+Výstup: **~6 625 návštěv tříd, ~5 100 unikátních dětí** (dle Danovy modelace ŠKOLNÍ ROK).
+Program ~90 min, tematické laby: digitální výroba, řemeslo, design, technologie.
+Propojení s místními firmami a institucemi (Bosch, Engel, JČU, AV ČR) jako spolutvůrci obsahu.
+
+| Náklad | Dle Danovy modelace (Kč/měs) | Ročně (×10,2 měs) |
 |---|---|---|
-| Honoráře lektorů (Make Edu, OSVČ, ~40 týdnů) | služby | 600 000 |
-| Honorář koordinátora školních programů | služby | 150 000 |
-| Materiál pro školní workshopy (spotřební) | materiál | 120 000 |
-| **Mezisoučet E** | | **870 000** |
+| Stabilní jádro — 2 FTE koordinátoři | 110 000 | ~1 122 000 |
+| Lektoři/brigádníci (DPP, 1 tř/den) | 93 333 | ~952 000 |
+| Materiál a spotřeba (školní program) | 7 429 | ~76 000 |
+| *Režie 15 % (interní MM)* | *38 364* | *~391 000* |
+| **Celkem E (vč. režie)** | **249 126** | **~2 541 000** |
 
-### F. Prostor jako platforma — veřejné dílny, komunita, podpronájem
-Co: Odpolední a večerní program pro veřejnost (volná kreativita, repair café, tematické
-workshopy). Prostor funguje zároveň jako otevřená platforma — tvůrčí uskupení, spolky
-a zájemci mohou využít infrastrukturu a zázemí pro vlastní (námi spolukurátorované) aktivity:
-vlastní workshopy, přednášky, setkání zájmových skupin, eventy na naší AV technice.
-Podpronájem prostoru (s technikou nebo bez) jako součást modelu využití kapacity mimo
-hlavní program. Frekvence námi vedených dílen: ~1× týdně × 40 týdnů, odhad 800–1 200 návštěvníků.
+### F. Prostor jako platforma — večerní program + komunita
+Co: 1 večer/týden (dle modelu) — repair café, maker evening, nebo téma z komunity.
+Prostor funguje jako otevřená platforma: tvůrčí uskupení, spolky a místní aktéři mohou
+využít infrastrukturu pro vlastní (námi spolukurátorované) aktivity — přednášky, setkání
+zájmových skupin, workshopy na naší AV technice, podpronájem zázemí.
+Výstup: **~883 návštěv veřejnosti (491 unikátních), ~530 oprav** (Danovy čísla pro 1 večer/týden).
 
-| Náklad | Typ | Odhad (Kč) |
+| Náklad | Dle Danovy modelace (Kč/měs) | Ročně (×10,2 měs) |
 |---|---|---|
-| Honoráře lektorů / facilitátorů veřejných dílen | služby | 200 000 |
-| Materiál pro veřejné dílny | materiál | 80 000 |
-| **Mezisoučet F** | | **280 000** |
+| Lektoři večerního programu (OSVČ) | 45 000 | ~459 000 |
+| **Celkem F** | **45 000** | **~459 000** |
 
-### G. Víkendové akce a komunita
-Co: Větší víkendové akce (mini Maker Faire, open day, tematické festivaly).
-Frekvence: ~6 akcí za rok, odhad 2 000–3 000 návštěvníků celkem.
-Zahrnuje spolupráci s Make Events a Make Media.
+> ⚠️ **Poznámka k rozsahu:** Věcný obsah platformy (spolky, zájmové skupiny, podpronájem)
+> nevyžaduje nutně extra rozpočet — provozují ho z vlastních zdrojů nebo za symbolický poplatek.
+> MM zajišťuje kuraturu, koordinaci a zázemí v rámci E+F.
 
-| Náklad | Typ | Odhad (Kč) |
-|---|---|---|
-| Produkce akcí (Make Events, OSVČ) | služby | 150 000 |
-| Honoráře vystupujících / speaker fee | služby | 80 000 |
-| Technické zajištění, pronájem AV | služby | 50 000 |
-| Materiál a dekorace | materiál | 30 000 |
-| **Mezisoučet G** | | **310 000** |
+### G. Víkendové akce — ❗ mimo základní model
+> Víkendové akce (mini Maker Faire, open day, festivaly) **nejsou zahrnuty v Danových 3 mil. cash.**
+> Pokud je chceme, musíme buď: (a) navýšit MM rozpočet, nebo (b) pokrýt z jiného zdroje
+> (vstupné, partnerský příspěvek, sponzoring). **Rozhodnutí na Danovi a Ondřejovi.**
 
-### H. Marketing a dokumentace
-Co: Průběžná komunikace projektu, dokumentace výstupů, závěrečná zpráva a prezentace výsledků.
-Make Media zajišťuje foto/video, sociální sítě, PR.
+### H. Marketing a dokumentace — krytý režií
+> Průběžný marketing a dokumentace jsou kryty **15% interní režií MM** (~391 000 Kč ročně)
+> — není to samostatná rozpočtová položka. Detailní obsah kampaně viz aktivita C (2027).
 
-| Náklad | Typ | Odhad (Kč) |
-|---|---|---|
-| Honoráře Make Media (OSVČ, foto/video) | služby | 120 000 |
-| Marketing a propagace (digitální + tisk) | služby/materiál | 80 000 |
-| Závěrečná dokumentace a zpráva | služby | 40 000 |
-| **Mezisoučet H** | | **240 000** |
-
-### I. Zahraniční partner — spolupráce v roce 2028
-Co: Prezentace výstupů projektu u zahraničního partnera, případně hostující lektor/program
-v ČB, sdílení metodiky. Konkrétní obsah upřesní dohoda s Grand Garáž / AEC.
+### I. Zahraniční partner — spolupráce 2028 — ❗ mimo základní model
+> Cestovné a honoráře za spolupráci se zahraničním partnerem **nejsou v Danových 3 mil.**
+> Nutno doložit jako samostatnou položku nebo pokrýt z 2027 přípravného budgetu.
 
 | Náklad | Typ | Odhad (Kč) |
 |---|---|---|
 | Cestovné a ubytování (výjezdy + host v ČB) | cestovné | 40 000 |
-| Honoráře za přípravu a koordinaci | služby | 20 000 |
+| Honoráře za koordinaci | služby | 20 000 |
 | **Mezisoučet I** | | **60 000** |
 
 ### Kofinancování 2028 (neuznatelné náklady MM)
-Úvazky zaměstnanců MM: projektový manažer (Ondřej nebo Make Edu vedoucí), Make Designers
-(technická podpora provozu), Make Events (produkce). Odhad: ~800 000 Kč.
+Úvazky zaměstnanců MM z jiných projektů: projektový manažer, Make Designers (technická podpora).
+Odhad: dle Danovy modelace — **in-kind nájem + HW vybavení od JVTP = ~3 000 000 Kč**.
 
-**Celkem dotace 2028 (návrh MM): ~1 760 000 Kč**
+**Celkem cash dotace 2028 (MM, dle Danovy modelace): ~3 000 000 Kč**
 
 ---
 
 ## Přehled za Make More
 
-| Rok | Dotace (návrh) | Kofinancování MM | Celkem MM |
+| Rok | Cash dotace (MM) | Kofinancování MM | Celkem MM |
 |---|---|---|---|
-| 2027 | ~600 000 | ~200 000 | ~800 000 |
-| 2028 | ~1 760 000 | ~800 000 | ~2 560 000 |
-| **Celkem** | **~2 360 000** | **~1 000 000** | **~3 360 000** |
+| 2027 příprava | ~600 000 | ~200 000 | ~800 000 |
+| 2028 provoz | ~3 000 000 | ~3 000 000 (in-kind JVTP) | ~6 000 000 |
+| **Celkem** | **~3 600 000** | **~3 200 000** | **~6 800 000** |
 
-> Zbývající část dotace (~1 640 000 Kč) a kofinancování za JVTP (výstava, design lab, prostor).
-> Celkový rozpočet projektu cíl: ~8 000 000 Kč, dotace max 4 000 000 Kč.
+> ⚠️ Celková MM cash dotace ~3,6 mil. přesahuje max. grant 4 mil. za celý projekt.
+> Zbytek (~400 tis.) jde na JVTP aktivity (výstava, design lab). **Čísla ke schválení Danem.**
 
 ---
 
