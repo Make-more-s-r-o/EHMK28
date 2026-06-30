@@ -12,13 +12,35 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 |---|---|---|---|---|
 | V1 | ~~Kdo je hlavní žadatel?~~ | — | — | ✅ JVTP = hlavní žadatel, MM = realizační partner |
 | V2 | ~~Kofinancování osobními náklady~~ | — | — | ✅ OK, nesmí být vykázáno 2× ve dvou projektech zároveň |
-| V3 | **Zahraniční partner — kontakty navázány:** Grand Garage Linz + Kunstuniversität Linz (možné LoI, schůzky 2027). Ars Electronica se **aktivně neoslovuje**. | Ondřej | LoI do 5. 7. | 🟡 |
+| V3 | **Zahraniční partner — kontakty navázány:** Grand Garage Linz (Ondřej) + Kunstuniversität Linz (Jana, viz J2). Ars Electronica se **aktivně neoslovuje**. | Ondřej + Jana | LoI do 5. 7. | 🟡 |
 | V4 | ~~Aktivity MM + hrubý rozpočet~~ — sepsáno; agregát ~4,5 mil. **nad limitem 3,5 mil.** → viz V6 | Ondřej | — | ✅ → škrty |
 | V5 | **Registrační formulář** — vyplnit a odeslat (lze pak upravovat) | Ondřej / Dan | ASAP | 🟡 |
 | V6 | **Rozpočet stáhnout pod 3,5 mil. Kč** — určit škrty, optimalizace (pronájem/zápůjčka vybavení Design Labu místo nákupu), doplnit komunitní/víkendové aktivity + práci zahr. partnera 2028 | Dan | ASAP | 🔴 |
-| V7 | **Vyjasnit fin. toky a partnerskou smlouvu** (lead vs realizátor, fakturace, interní směrnice) — kontakt Anička | Ondřej | ASAP | ⬜ |
+| V7 | **Vyjasnit fin. toky a partnerskou smlouvu** (lead vs realizátor, fakturace, interní směrnice) — kontakt Anička | Ondřej + Jana | ASAP | ⬜ |
 | V8 | **Rozhodnout název projektu** (pro LoI a dokumenty) | Ondřej / Dan | ASAP | ⬜ |
 | V9 | **Ověřit režijní/nepřímé náklady** (paušál 20 %?) a pravidla spolufinancování (vstupné, Smart Accelerator) — kontakt Petr Pežinka | Dan | ASAP | ⬜ |
+
+### Lucka (Make more — grantová specialistka, finalizace)
+
+> Návrh úkolů z 30. 6. — potvrď/doplň. Finance vlastní Dan; Lucka čísla **nevytváří**, jen kompletuje.
+
+| # | Úkol | Vlastník | Termín | Stav |
+|---|---|---|---|---|
+| L1 | **Finalizace formuláře žádosti** — projít listy `zadost/`, doplnit chybějící, hlídat konzistenci | Lucka | do 9. 7. | ⬜ |
+| L2 | **Zkompletovat 5 povinných příloh** (`zadost/prilohy.md`) — co chybí, od koho, do kdy | Lucka | do 8. 7. | ⬜ |
+| L3 | **Compliance kontrola** — 70+ bodů, limity rozpočtu (neinvestiční, nepřímé ≤20 %, mzdy/OON neuznatelné), eligibilita, kompletnost příloh | Lucka + Dan | 9. 7. | ⬜ |
+| L4 | **Podpora psaní obsahu žádosti** — s `grantovy-specialista` (formulace, body) | Lucka | průběžně | ⬜ |
+
+### Jana (JVTP — partner)
+
+> Návrh úkolů z 30. 6. — finální rozdělení dolaď s Ondřejem. JVTP podklady, **rozpočet za JVTP předat Danovi ke konsolidaci** (Dan vlastní finální čísla).
+
+| # | Úkol | Vlastník | Termín | Stav |
+|---|---|---|---|---|
+| J1 | **Popis aktivit JVTP** (Design Lab / výstava / design sprinty se startupy) + dotační rozpočet za JVTP část → předat Danovi | Jana | do 5. 7. | ⬜ |
+| J2 | **Kunstuniversität Linz — LoI** (Jana navázala kontakt); koordinace se zahr. partnerem | Jana | do 5. 7. | ⬜ |
+| J3 | **Partnerská smlouva a fin. toky** za JVTP (Anička, veřejné zakázky, interní směrnice JVTP) | Jana | ASAP | ⬜ |
+| J4 | **Prostor / vybavení Design Labu** — co JVTP zajistí (prostor, CNC, 3D skenery…), zápůjčka vs. nákup | Jana | ASAP | ⬜ |
 
 ## ✅ Rozhodnuto / hotovo
 
