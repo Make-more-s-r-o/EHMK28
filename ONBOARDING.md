@@ -1,8 +1,12 @@
-# Onboarding — pro Ondřeje (první práce s Claude Code + GitHub)
+# Onboarding — práce s Claude Code + GitHub
 
-Vítej! Tenhle návod tě provede tím, jak s Danem psát grant přes tenhle repozitář.
+Vítej! Tenhle návod tě provede tím, jak s týmem psát grant přes tenhle repozitář.
 Nemusíš umět git ani programovat — Claude Code za tebe udělá technickou část, ty mu jen
 říkáš lidsky, co chceš.
+
+> **Kdo má jaký přístup:** Dan a Ondřej mají plný přístup vč. nahrávání na GitHub (push).
+> **Lucka (Make more) a Jana (JVTP) pracují bez GitHub účtu** — viz **sekce 9** níže (mají svůj
+> kratší postup). Sekce 1–2 (klonování přes pozvánku, „nahraj moje změny") jsou pro Dana/Ondřeje.
 
 > [!CAUTION]
 > **Pozor — rozpočtová čísla jsou zatím DRAFT.** Vše v `strategie/` (rozpočtové modely, One
@@ -64,5 +68,30 @@ a poslední změny se v něm generují samy. Co stačí vědět:
 - Claude hlásí konflikt v gitu → řekni mu „vyřeš ten konflikt a vysvětli mi, co se stalo."
 - Nevíš, kde začít → řekni „jsem tu poprvé, co mám podle UKOLY.md dělat jako první?"
 - Cokoli nejasného kolem výzvy → „shrň mi z UKOLY.md, co teď nejvíc hoří."
+
+## 9. Pro Lucku a Janu (práce bez GitHub účtu)
+
+Repo je **veřejné**, takže nepotřebuješ pozvánku ani přihlášení na GitHub. Máš stejný přístup
+k obsahu jako ostatní — jen poslední krok (nahrání na GitHub) za tebe udělá Dan nebo Ondřej.
+
+**a) Stažení (jednorázově).** Řekni svému Claude Code:
+> „Naklonuj mi veřejné repo `https://github.com/Make-more-s-r-o/EHMK28.git` do složky na disku
+> a přečti si AGENTS.md. Budu tu pomáhat psát grant."
+
+**b) Než začneš pracovat:** „**stáhni nejnovější verzi**." (Claude udělá `git pull` — funguje
+i bez přihlášení, protože repo je veřejné. Máš tím poslední změny od ostatních.)
+
+**c) Když dopíšeš — předání změn.** Push (nahrání na GitHub) ti bez účtu nepůjde. Řekni:
+> „**Připrav moje změny k předání Danovi** — shrň, co jsem změnila a ve kterých souborech."
+
+Claude ti změny shrne (případně vyexportuje upravené soubory). To pošli **Danovi nebo
+Ondřejovi** (Slack / e-mail) — oni to nahrají do repa za tebe. Domluv se s nimi přes `UKOLY.md`,
+ať neděláte ve stejném souboru naráz.
+
+**d) Pomocníci a šetření kreditů** platí stejně — viz sekce 4 a 5. AI agenty
+(`grantovy-specialista`, `vedouci-projektu`) klidně využívej.
+
+> Až budeš chtít nahrávat sama, stačí GitHub účet + pozvánka od Dana (to je ta „GitHub
+> autorizace") — pak pojedeš podle sekcí 1–2 jako Ondřej.
 
 Vítej v týmu. 👋

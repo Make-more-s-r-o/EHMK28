@@ -25,21 +25,18 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:dashboard:start -->
 | ⏳ Do uzávěrky | 🧩 Otevřená rozhodnutí | ✅ Úkoly | 📅 Poslední schůzka |
 |:-:|:-:|:-:|:-:|
-| **10 dní** | **2** (1 blokuje 🔴) | 2 ✅ · 4 🟡 · 9 ⬜ · 3 🔴 | 2026-06-30 |
+| **10 dní** | **2** | 4 ✅ · 4 🟡 · 13 ⬜ · 2 🔴 | 2026-06-30 |
 <!-- AUTO:dashboard:end -->
 
 ### 🔴 Co blokuje / čeká na rozhodnutí&nbsp;⟳
 <!-- AUTO:rozhodnuti:start -->
-> [!WARNING]
-> **Zahraniční partner** — blokuje podání, řeš přednostně.
-
 | Otázka | Stav | Pozn. |
 |---|---|---|
 | Velikost projektu | ✅ **VELKÝ** | grant max 4 mil. Kč, celkový rozpočet 8 mil., spolufinancování 50 % |
 | Hlavní žadatel | ✅ **JVTP** | potvrzeno Petrem Pežinkou (24. 6.) — MM je realizační partner, fakturace OK |
 | MM v JčK | ✅ splněno | pobočka Make More v ČB zapsána v rejstříku 23. 6. |
 | Jihočeský partner | ✅ **JVTP** | Jana Moravcová; ředitel potvrdil ochotu |
-| Zahraniční partner | 🔴 **nezajištěn** | Grand Garáž Linz = hlavní kandidát; Ars Electronica Center = možný také; termín LoI 5. 7. |
+| Zahraniční partner | 🟡 **kontakty navázány** | Grand Garage Linz + Kunstuniversität Linz (možné LoI, schůzky 2027). Ars Electronica se neoslovuje. Termín LoI 5. 7. |
 | Koncept | ✅ **pop-up Makerspace + Design lab** | MM = provoz + školy + komunita; JVTP = výstava + design sprint se startupy |
 | Kofinancování | ✅ **OK** | osobní náklady z jiných projektů lze použít — nesmí být vykázány 2× zároveň (MK ČR hlídá) |
 | Programová koordinace | 🟡 | sync s EHMK školy (Kreativní mysl 0–6, ZŠ/SŠ); Ostrov kultury = výstupy do veřejného prostoru |
@@ -53,8 +50,8 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 14 | 2026-06-29 | V5 Registrační formulář |
-| ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 7 | 2026-06-30 | V5 Registrační formulář · P1 Grand Garáž Linz · P2 Ars Electronica Center |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 15 | 2026-06-30 | V5 Registrační formulář |
+| ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 7 | 2026-06-30 | V3 Zahraniční partner… · V5 Registrační formulář · P1 Grand Garage Linz · P3 Kunstuniversität Linz |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 <!-- AUTO:tym:end -->
 
@@ -117,11 +114,11 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:ukoly:start -->
 | Sekce | ✅ | 🟡 | ⬜ | 🔴 |
 |---|:-:|:-:|:-:|:-:|
-| 🔴 Urgentní | 2 | 1 | 0 | 2 |
-| 🤝 Partneři | 0 | 3 | 0 | 1 |
+| 🔴 Urgentní | 3 | 2 | 3 | 1 |
+| 🤝 Partneři | 1 | 2 | 1 | 1 |
 | ✍️ Obsah žádosti | 0 | 0 | 5 | 0 |
 | 📎 Přílohy a podání | 0 | 0 | 4 | 0 |
-| **Celkem** | **2** | **4** | **9** | **3** |
+| **Celkem** | **4** | **4** | **13** | **2** |
 
 ➡️ Detail, vlastníci a termíny → [UKOLY.md](./UKOLY.md)
 <!-- AUTO:ukoly:end -->
@@ -130,6 +127,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `e9530a3` 2026-06-30 · Dan Jirotka — Add 2026-06-30 meeting: makerspace budget & activities (Plaud transcript + zápis)
 - `3d2b06a` 2026-06-30 · Ondřej Kašpárek — Align 2028 MM activities with Dan's SKOLNI ROK budget model (3M cash)
 - `da53296` 2026-06-29 · Dan Jirotka — Budget: detailed 2027-2028 ledger + notify Ondra via HANDOFF
 - `172c808` 2026-06-29 · Ondřej Kašpárek — Refine MM activities: community program, 2-wave campaign, platform model
@@ -137,7 +135,6 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 - `2085078` 2026-06-29 · Dan Jirotka — Add Dan's bottom-up 2028 budget ledger (daily school program)
 - `a5132d7` 2026-06-29 · Ondřej Kašpárek — Record Petr Pezinka call outcomes: JVTP as lead applicant, cofinancing OK
 - `712d791` 2026-06-29 · Ondřej Kašpárek — Add MM activities and budget outline for Jana meeting (2026-06-30)
-- `e53d9ac` 2026-06-24 · Ondřej Kašpárek — Update tasks and partners tracker from Jana/JVTP call (2026-06-24)
 <!-- AUTO:aktivita:end -->
 
 ---

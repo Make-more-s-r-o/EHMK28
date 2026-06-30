@@ -1,8 +1,17 @@
 # AGENTS.md — instrukce pro Claude Code (čti na začátku každé práce)
 
 Tento repozitář je společná příprava grantové žádosti do **(Perma)kulturního Open Callu
-2026** (Evropské hlavní město kultury České Budějovice 2028). Pracují na něm **Dan** a
-**Ondřej** společně přes GitHub. Tento soubor je závazný pro Claude Code u obou.
+2026** (Evropské hlavní město kultury České Budějovice 2028). Tento soubor je závazný pro
+Claude Code u všech členů týmu.
+
+**Tým:**
+- **Dan** (Make more) — finance, koordinace, vlastník čísel; má push přístup do repa.
+- **Ondřej** (Make more) — obsah žádosti; má push přístup do repa.
+- **Lucka** (Make more) — grantová specialistka, finalizace podkladů; **bez GitHub autorizace** (viz níže).
+- **Jana** (JVTP) — partner za jihočeskou organizaci; **bez GitHub autorizace** (viz níže).
+
+**Repo je veřejné** (`github.com/Make-more-s-r-o/EHMK28`) — kdokoli ho může naklonovat přes
+`https://` bez přihlášení. Necommituj sem citlivé údaje (hesla, tokeny, osobní data).
 
 ## ⏰ Tvrdá fakta (drž je v hlavě)
 - **Uzávěrka: 10. 7. 2026, 23:59 CET.** Vše ostatní tomu podřizuj.
@@ -21,6 +30,10 @@ Tento repozitář je společná příprava grantové žádosti do **(Perma)kultu
 ## Jak spolupracujeme přes GitHub
 1. **Než začneš psát**, vždy: „stáhni nejnovější verzi" → `git pull`.
 2. **Když dopíšeš**, vždy: „nahraj moje změny" → `git add` + `commit` + `push`.
+   - ⚠️ **Lucka a Jana nemají push přístup** (bez GitHub autorizace). U nich `git pull`
+     funguje (veřejné repo), ale `push` ne. Jejich postup: pracují lokálně, a když dopíšou,
+     **předají hotové změny Danovi nebo Ondřejovi** (např. soubory / popsané, co změnily),
+     ti je commitnou a pushnou. Claude jim s předáním pomůže. Viz `ONBOARDING.md`, sekce 9.
 3. **Proti konfliktům:** každý dělá na svých souborech, needitujte stejný soubor naráz.
    Domluvu kdo co dělá drž v `UKOLY.md`.
 4. Větší rozhodnutí (velikost projektu, žadatel, partneři, rozpočet) zapisuj do

@@ -1,17 +1,24 @@
 # Úkoly — backlog projektu
 
-Stav k 24. 6. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývá ~16 dní.
+Stav k 30. 6. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývá ~10 dní.
 Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatní.
 
-## 🔴 Urgentní — do příští schůzky s Janou (úterý ~29. 6., 14:00)
+## 🔴 Urgentní — finální sprint do uzávěrky (po schůzce 30. 6.)
+
+> ⚠️ Ondřej dostupný **jen tento týden**, od **6. 7.** výrazně omezen → na finalizaci podkladů
+> zapojit kolegyni **Lucii**. Zápis schůzky: `schuzky/2026-06-30-makerspace-rozpocet-zapis.md`.
 
 | # | Úkol | Vlastník | Termín | Stav |
 |---|---|---|---|---|
 | V1 | ~~Kdo je hlavní žadatel?~~ | — | — | ✅ JVTP = hlavní žadatel, MM = realizační partner |
 | V2 | ~~Kofinancování osobními náklady~~ | — | — | ✅ OK, nesmí být vykázáno 2× ve dvou projektech zároveň |
-| V3 | **Zahraniční partner — oslovit** Grand Garáž Linz (hlavní) + Ars Electronica Center (může být také). Jana oslovuje Kunst Uni Linz. | Ondřej | do 27. 6. | 🔴 |
-| V4 | **Aktivity MM + hrubý rozpočet** — sepsat co MM dělá v 2027/2028, odhad nákladů z dotace (materiál, nájmy, honoráře, cestovné) | Ondřej | do 29. 6. | 🔴 |
-| V5 | **Registrační formulář** — vyplnit a odeslat (lze pak upravovat) | Ondřej / Dan | do 29. 6. | 🟡 |
+| V3 | **Zahraniční partner — kontakty navázány:** Grand Garage Linz + Kunstuniversität Linz (možné LoI, schůzky 2027). Ars Electronica se **aktivně neoslovuje**. | Ondřej | LoI do 5. 7. | 🟡 |
+| V4 | ~~Aktivity MM + hrubý rozpočet~~ — sepsáno; agregát ~4,5 mil. **nad limitem 3,5 mil.** → viz V6 | Ondřej | — | ✅ → škrty |
+| V5 | **Registrační formulář** — vyplnit a odeslat (lze pak upravovat) | Ondřej / Dan | ASAP | 🟡 |
+| V6 | **Rozpočet stáhnout pod 3,5 mil. Kč** — určit škrty, optimalizace (pronájem/zápůjčka vybavení Design Labu místo nákupu), doplnit komunitní/víkendové aktivity + práci zahr. partnera 2028 | Dan | ASAP | 🔴 |
+| V7 | **Vyjasnit fin. toky a partnerskou smlouvu** (lead vs realizátor, fakturace, interní směrnice) — kontakt Anička | Ondřej | ASAP | ⬜ |
+| V8 | **Rozhodnout název projektu** (pro LoI a dokumenty) | Ondřej / Dan | ASAP | ⬜ |
+| V9 | **Ověřit režijní/nepřímé náklady** (paušál 20 %?) a pravidla spolufinancování (vstupné, Smart Accelerator) — kontakt Petr Pežinka | Dan | ASAP | ⬜ |
 
 ## ✅ Rozhodnuto / hotovo
 
@@ -27,10 +34,11 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 
 | # | Úkol | Vlastník | Termín | Stav |
 |---|---|---|---|---|
-| P1 | **Grand Garáž Linz** — oslovit, vyžádat Letter of Intent | Ondřej | do 27. 6. | 🟡 |
-| P2 | **Ars Electronica Center** — ověřit zapojení v EHMK, případně oslovit Andrease | Ondřej | do 27. 6. | 🟡 |
-| P3 | **Kunst Universität Linz** — Jana oslovuje přes Software Park Hagenberg | Jana | do 29. 6. | 🟡 Jana |
+| P1 | **Grand Garage Linz** — kontakt navázán; vyžádat Letter of Intent, dohodnout schůzky 2027 | Ondřej | LoI do 5. 7. | 🟡 |
+| P2 | ~~Ars Electronica Center~~ — **aktivně se neoslovuje** (rozhodnuto 30. 6.) | — | — | ✅ neřeší se |
+| P3 | **Kunstuniversität Linz** — kontakt navázán; možné LoI | Ondřej / Jana | LoI do 5. 7. | 🟡 |
 | P4 | Podepsané **Letter of Intent** ≥1 zahraničního partnera | Ondřej / Jana | **5. 7.** | 🔴 |
+| P5 | Doplnit do rozpočtu **práci zahraničního partnera v roce 2028** + mít záložní plán | Dan | ASAP | ⬜ |
 
 ## ✍️ Obsah žádosti — psaní (po ověření V1–V4)
 
@@ -87,3 +95,18 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 - Zapojení gamingu do programu (reagovat na chybějící scénu v JčK)?
 - Přesný model zapojení JVTP startupů (mentor/školitel vs. dodavatel řešení)?
 - Jak konkrétně popsat participaci veřejnosti (nebýt příliš ambiciózní)
+
+## 🗒️ Provozní parametry a poznámky ze schůzky 30. 6.
+
+> Zápis: `schuzky/2026-06-30-makerspace-rozpocet-zapis.md`. ⚠️ Čísla = NESCHVÁLENÝ DRAFT (vlastní Dan).
+
+**„Popovův Blob" (workshopy pro děti) — provozní model:**
+- Provoz 6 h/den, Po–Čt, 2 třídy/den (8/týden), sezóna 28 týdnů (únor–květen, září–listopad), leden příprava.
+- Kapacita 24 dětí/třída, ~224 tříd/rok, ~5 500 návštěv/rok.
+- Vstupné 150 Kč/dítě, materiál 75 Kč/dítě, doprava odhad 7 000 Kč/svoz × ~75 svozů (~600 tis.).
+- Nájem ~20 tis./měs.; personál fakturací OSVČ bez DPH (mistr 500 Kč/h, lektor 250 Kč/h, koordinace 500 Kč/h); model třídy 1 mistr + 2 lektoři.
+- Management projektu: 0,25 úvazku 2027 / 0,5 úvazku 2028.
+
+**Prostor — kandidáti (preferován industriál):** Výstaviště (10–20 tis./měs., schůzka v týdnu od 29. 6.), Žižkárna (ověřit stav/správu), okolní objekty, LMK u nádraží (pro 2028 malé), kontejnerové řešení.
+
+**Komunitní program:** dopoledne školy, odpoledne/večer veřejnost (repair café, přednášky, workshopy, pronájmy); soutěže 2× ročně (červen, prosinec) + tematické výzvy s městy.

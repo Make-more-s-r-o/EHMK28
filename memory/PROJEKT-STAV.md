@@ -9,14 +9,15 @@
 > čísla níže jsou nástřely k diskusi — **nepoužívat v grantové žádosti bez explicitního
 > schválení.** Předání práce a další kroky viz `../HANDOFF.md`.
 
-**Poslední aktualizace:** 22. 6. 2026 (schůzka s Ondřejem — směr JVTP / pop-up FabLab, dvojí podání)
+**Poslední aktualizace:** 30. 6. 2026 (schůzka k rozpočtu/aktivitám makerspace — viz `../schuzky/2026-06-30-makerspace-rozpocet-zapis.md`)
 
-## ▶ Kde pokračovat (příští session — po callu s Janou 24. 6.)
+## ▶ Kde pokračovat (finální sprint do 10. 7. — po schůzce 30. 6.)
 
-- **Příští schůzka s Janou: úterý ~29. 6., 14:00.** Jana pošle link na Google Drive (složka + formuláře + Word).
-- **Ondřej do 27. 6.:** oslovit Grand Garáž Linz + ověřit Ars Electronica Center + potvrdit s EHMK kofinancování osobními náklady.
-- **Ondřej do 29. 6.:** sepsat MM aktivity + hrubý odhad rozpočtu (materiál, nájmy, honoráře, cestovné).
-- **Stále blocker:** kdo je hlavní žadatel (MM vs JVTP) — závisí na ověření pravidel financování v výzvě.
+- **🔴 Rozpočet pod 3,5 mil. Kč** — agregát aktivit/vybavení je nyní ~4,5 mil., nad limitem. Určit škrty + optimalizace (zápůjčka/pronájem vybavení Design Labu místo nákupu). Vlastní **Dan**.
+- **🔴 Letter of Intent zahr. partnera do 5. 7.** — kontakty navázány (Grand Garage Linz + Kunstuniversität Linz); Ars Electronica se neoslovuje. Doplnit do rozpočtu práci partnera 2028.
+- **Ondřej dostupný jen tento týden, od 6. 7. omezen** → na finalizaci zapojit kolegyni **Lucii**.
+- **Vyjasnit:** fin. toky a partnerská smlouva (lead vs realizátor, fakturace; kontakt Anička); režijní/nepřímé náklady a spolufinancování (kontakt Petr Pežinka); **název projektu** (pro LoI).
+- **Prostor:** schůzka s Výstavištěm (týden od 29. 6.); alternativy Žižkárna aj.
 
 ## ▶ Kde pokračovat (původní)
 - **HOŘÍ — One Pager pro JVTP (handout ke schůzce s ředitelem JVTP).** Termín **23. 6. dopo**.
@@ -33,7 +34,11 @@
 ## Základní fakta
 - **Výzva:** (Perma)kulturní Open Call 2026, 2. výzva — EHMK České Budějovice 2028.
 - **Uzávěrka:** 10. 7. 2026, 23:59 CET.
-- **Tým:** Dan, Ondřej (spolupráce přes GitHub `Make-more-s-r-o/EHMK28`).
+- **Tým:** Dan (finance/koordinace), Ondřej (obsah) — oba s push přístupem; **Lucka** (Make more,
+  grantová specialistka) a **Jana** (JVTP, partner) — pracují lokálně **bez GitHub autorizace**,
+  změny předávají Danovi/Ondřejovi k pushnutí.
+- **Repo:** `Make-more-s-r-o/EHMK28` — **veřejné** (klonování přes `https://` bez přihlášení).
+  Necommitovat citlivé údaje.
 
 ## Rozhodnutí
 | Otázka | Stav | Pozn. |
@@ -42,7 +47,7 @@
 | Hlavní žadatel | ✅ **JVTP** | potvrzeno Petrem Pežinkou (24. 6.) — MM je realizační partner, fakturace OK |
 | MM v JčK | ✅ splněno | pobočka Make More v ČB zapsána v rejstříku 23. 6. |
 | Jihočeský partner | ✅ **JVTP** | Jana Moravcová; ředitel potvrdil ochotu |
-| Zahraniční partner | 🔴 **nezajištěn** | Grand Garáž Linz = hlavní kandidát; Ars Electronica Center = možný také; termín LoI 5. 7. |
+| Zahraniční partner | 🟡 **kontakty navázány** | Grand Garage Linz + Kunstuniversität Linz (možné LoI, schůzky 2027). Ars Electronica se neoslovuje. Termín LoI 5. 7. |
 | Koncept | ✅ **pop-up Makerspace + Design lab** | MM = provoz + školy + komunita; JVTP = výstava + design sprint se startupy |
 | Kofinancování | ✅ **OK** | osobní náklady z jiných projektů lze použít — nesmí být vykázány 2× zároveň (MK ČR hlídá) |
 | Programová koordinace | 🟡 | sync s EHMK školy (Kreativní mysl 0–6, ZŠ/SŠ); Ostrov kultury = výstupy do veřejného prostoru |
@@ -65,6 +70,13 @@
 - JVTP je „dlouhodobý velmi prověřený partner."
 
 ## Log rozhodnutí
+- 30. 6. 2026 — **Schůzka k rozpočtu a aktivitám makerspace** (Dan, Ondřej, partner Design Lab,
+  krátce Lucie). Zápis: `../schuzky/2026-06-30-makerspace-rozpocet-zapis.md`, přepis Plaud
+  `…-prepis-plaud.md` (file_id `6f07280d482787f65b124f1d958dcb3b`). Závěry: koncept komunitní
+  makerspace platforma (dopoledne školy „Popovův Blob", odpoledne/večer veřejnost); agregát
+  rozpočtu ~4,5 mil. **nad limitem 3,5 mil.** → nutné škrty (Dan); zahr. partneři Grand Garage +
+  Kunstuniversität Linz (LoI), Ars Electronica se neoslovuje; rozdělení práce Ondřej obsah / Dan
+  finance / Lucie finalizace; prostor Výstaviště/Žižkárna. ⚠️ Všechna čísla NESCHVÁLENÝ DRAFT.
 - 22. 6. 2026 — Založen repozitář, rešerše výzvy (ZAPIS-VYZVA.md), struktura žádosti,
   onboarding pro Ondřeje, dva agenti. Velikost projektu zatím nerozhodnuta (připraveny obě
   varianty). Zdrojové soubory v `podklady/`.
