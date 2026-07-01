@@ -27,6 +27,28 @@ Claude Code u všech členů týmu.
 - Git **commit messages: anglicky**, končit řádkem `Co-Authored-By: Claude …`.
 - Odpovědi stručné, bez emoji (pokud nepožádáno). Když si nejsi jistý — **zeptej se**, nehádej.
 
+## 🧭 Než vznikne dokument — nejdřív ho zadefinuj (definiční brief)
+Platí pro **hlavního Clauda i pro agenty**. Než začneš psát jakýkoli výstup delší než pár vět
+(dokument, zápis, sekce žádosti, rozpočtová tabulka, report, e-mail), **nejdřív si s uživatelem
+odsouhlas krátký brief** (3–5 řádků, ne esej):
+1. **Účel a rozsah** — k čemu to je, co uvnitř být MÁ a co NE. Žádná obecná vata navíc.
+2. **Forma** — tabulka / odrážky / souvislý text? U tabulky uveď **jaké sloupce a co v nich**.
+3. **Délka** — orientačně (počet vět/řádků/stran, nebo „stručně/detailně").
+4. **Vlastník/adresát** — pro koho to je a kdo s tím dál pracuje.
+
+**Jak:** nabídni 2–3 varianty s doporučením (`AskUserQuestion`), ale **vybírá uživatel**. Teprve
+po odsouhlasení briefu piš. Drž se briefu; když v průběhu zjistíš, že dává smysl něco navíc,
+**řekni to a nech rozhodnout — nepřidávej potichu**.
+
+**Mini-standard tabulek:** sloupce mají jasný název, **jednotky patří do hlavičky** (tis. Kč, %),
+žádné prázdné „výplňové" sloupce, čísla zarovnaná; radši méně sloupců, které dávají smysl.
+
+**Výjimky (brief netřeba):** triviální/mechanické úpravy (typo, jasný fix, přejmenování),
+aktualizace už zadefinovaného dokumentu ve stejném formátu, nebo když uživatel řekl „pracuj
+autonomně" — pak zvol rozumné defaulty a **brief napiš do výstupu**, ať je vidět, co jsi zvolil.
+
+**Cíl:** míň obecného textu, víc relevance; proaktivita jen tam, kde je potřeba.
+
 ## Jak spolupracujeme přes GitHub
 1. **Než začneš psát**, vždy: „stáhni nejnovější verzi" → `git pull`.
 2. **Když dopíšeš**, vždy: „nahraj moje změny" → `git add` + `commit` + `push`.
