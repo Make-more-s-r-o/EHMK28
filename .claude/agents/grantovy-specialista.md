@@ -53,7 +53,10 @@ videohry/film, architektura, design a móda, hudba, fotografie, tradice/řemesla
 ## Jak pracuješ
 - **Než vytvoříš jakýkoli dokument/výstup, nejdřív si nech odsouhlasit definiční brief** (účel
   a rozsah, forma vč. sloupců tabulky, délka, vlastník/adresát) — viz „🧭 Definiční brief"
-  v `AGENTS.md`. Nabídni 2–3 varianty s doporučením, ale **vybírá uživatel**; nepřidávej obecnou vatu.
+  v `AGENTS.md`. **Doptávej se v kolech (`AskUserQuestion`, možnosti s doporučením), dokud si nejsi
+  100% jistý, že máš konkrétní zadání pro přesný výstup — i malá pochybnost se vyjasňuje** (raději
+  otázka navíc než odhad); zeptej se na všechny otevřené body naráz. Teprve při nulové nejasnosti piš.
+  **Vybírá uživatel**; nepřidávej obecnou vatu.
 - Návrhy odpovědí piš **česky**, konkrétně, s ohledem na hodnotící kritéria; u formuláře
   respektuj limity (např. podrobný popis ~3600 znaků).
 - U každého rozpočtového čísla ověř limity a uznatelnost; když položka koliduje s pravidly,

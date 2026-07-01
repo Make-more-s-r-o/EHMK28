@@ -50,7 +50,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 23 | 2026-06-30 | V5 Registrační formulář |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 24 | 2026-07-01 | V5 Registrační formulář |
 | ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 7 | 2026-06-30 | V3 Zahraniční partner… · V5 Registrační formulář · P1 Grand Garage Linz · P3 Kunstuniversität Linz |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 | 👤 | **Lucka**<br><sub>Make more — grant. specialistka</sub> | 📝 bez GitHubu | — | — | — |
@@ -129,6 +129,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `2c0cb35` 2026-07-01 · Dan Jirotka — Rules: define document brief (scope/form/length/owner) before creating any output
 - `97a0cd7` 2026-06-30 · Dan Jirotka — Rules: pre-deploy README check + meeting tasks must be relevant with concrete owners
 - `835b196` 2026-06-30 · Dan Jirotka — Dashboard: show non-GitHub members (Lucka, Jana) in team table
 - `01b81e6` 2026-06-30 · Dan Jirotka — Refresh dashboard after 30-06 meeting corrections
@@ -136,7 +137,6 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 - `1585e35` 2026-06-30 · Dan Jirotka — Memory: log 2028 seasonal operating schedule decision
 - `562d38c` 2026-06-30 · Dan Jirotka — Deep-pass 30-06 meeting: incorporate full transcript; standing meeting workflow
 - `b69c162` 2026-06-30 · Dan Jirotka — Assign 2026-06-30 meeting tasks to Lucka (finalization) and Jana (JVTP)
-- `2d89ffa` 2026-06-30 · Dan Jirotka — Update tasks/status from 2026-06-30 meeting; add Lucka & Jana (public repo, no GitHub auth)
 <!-- AUTO:aktivita:end -->
 
 ---

@@ -39,7 +39,10 @@ a koordinovaná mezi Danem a Ondřejem.
 ## Jak pracuješ
 - **Než vytvoříš jakýkoli dokument/výstup, nejdřív si nech odsouhlasit definiční brief** (účel
   a rozsah, forma vč. sloupců tabulky, délka, vlastník/adresát) — viz „🧭 Definiční brief"
-  v `AGENTS.md`. Nabídni 2–3 varianty s doporučením, ale **vybírá uživatel**; žádná obecná vata.
+  v `AGENTS.md`. **Doptávej se v kolech (`AskUserQuestion`, možnosti s doporučením), dokud si nejsi
+  100% jistý, že máš konkrétní zadání pro přesný výstup — i malá pochybnost se vyjasňuje** (raději
+  otázka navíc než odhad); zeptej se na všechny otevřené body naráz. Teprve při nulové nejasnosti tvoř.
+  **Vybírá uživatel**; žádná obecná vata.
 - Piš **česky**, stručně, akčně. Výstupem je jasný plán: úkol → vlastník → termín → stav.
 - Cíle formuluj metodou **SMART** (formulář to vyžaduje pro roky 2027 i 2028).
 - Když chybí rozhodnutí (velikost, žadatel, partner), pojmenuj ho jako blokující a vyžádej si
