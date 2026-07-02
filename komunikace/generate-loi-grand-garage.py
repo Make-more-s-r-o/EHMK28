@@ -121,11 +121,11 @@ def add_header_row(tbl, left, right):
 add_header_row(table, "Applicant", "Partner")
 
 rows_data = [
-    ("Name", "Make More s.r.o.", "Name", "Grand Garage (TGW Future Wings GmbH)"),
-    ("Address", "[DOPLNIT — adresa provozovny Make More v ČB]", "Address", "Peter-Behrens-Platz 10\n4020 Linz, Austria"),
-    ("Company ID", "[DOPLNIT — IČO Make More s.r.o.]", "Company ID", "[DOPLNIT — Austrian registration no.]"),
-    ("Telephone", "[DOPLNIT — Ondřej Kašpárek]", "Telephone", "[DOPLNIT]"),
-    ("Email", "ondrej@makemore.cz", "Email", "[DOPLNIT — Grand Garage kontakt]"),
+    ("Name", "JVTP — Jihočeský vědeckotechnologický park", "Name", "Grand Garage (TGW Future Wings GmbH)"),
+    ("Address", "[DOPLNIT — adresa JVTP v ČB]", "Address", "Peter-Behrens-Platz 10\n4020 Linz, Austria"),
+    ("Company ID", "[DOPLNIT — IČO JVTP]", "Company ID", "[DOPLNIT — Austrian registration no.]"),
+    ("Telephone", "[DOPLNIT — Jana Moravcová / JVTP]", "Telephone", "[DOPLNIT]"),
+    ("Email", "[DOPLNIT — Jana Moravcová / JVTP]", "Email", "[DOPLNIT — Grand Garage kontakt]"),
 ]
 
 for l_label, l_val, r_label, r_val in rows_data:
@@ -144,6 +144,22 @@ run = p.add_run(
     "Culture 2028 in České Budějovice."
 )
 run.font.size = Pt(10.5)
+
+# Vysvětlení struktury žadatel / realizátor
+p_note = doc.add_paragraph()
+p_note.paragraph_format.space_after = Pt(10)
+run_note = p_note.add_run(
+    "Note on project structure: The formal grant applicant is JVTP — Jihočeský "
+    "vědeckotechnologický park (South Bohemian Science and Technology Park), a public "
+    "research and innovation institution based in České Budějovice. The grant programme "
+    "requires the applicant to be a legal entity registered in the South Bohemian region. "
+    "Make More s.r.o. acts as the lead content and implementation partner, co-designing and "
+    "driving the educational programme, community model, and day-to-day operations of the "
+    "makerspace. The project is a joint endeavour of both organisations."
+)
+run_note.font.size = Pt(10.5)
+run_note.font.italic = True
+run_note.font.color.rgb = GRAY
 
 # Popis partnerství (z draftu emailu)
 p2 = doc.add_paragraph()
@@ -243,7 +259,7 @@ run = p.add_run("Signature of Applicant")
 run.font.size = Pt(9)
 run.font.color.rgb = GRAY
 p2 = cell_l.add_paragraph()
-p2.add_run("Ondřej Kašpárek, Make More s.r.o.").font.size = Pt(9)
+p2.add_run("[Name, Title]\nJVTP — Jihočeský vědeckotechnologický park").font.size = Pt(9)
 
 cell_r = row1.cells[1]
 p = cell_r.paragraphs[0]

@@ -17,6 +17,8 @@ I hope this finds you well. My name is Ondřej Kašpárek, co-founder of Make Mo
 
 I'm reaching out because we are applying for a grant under the **(Perma)kulturní Open Call 2026**, a programme of **České Budějovice – European Capital of Culture 2028**, and we would like to invite Grand Garage to become our key international partner.
 
+The formal grant applicant is our local partner **JVTP — Jihočeský vědeckotechnologický park** (South Bohemian Science and Technology Park), a public research and innovation institution based in České Budějovice. The grant programme requires the applicant to be a legal entity registered in the South Bohemian region, and JVTP fulfils this requirement — they also bring institutional capacity, infrastructure, and a Design Lab that forms the second pillar of the project. **Make More is the lead content and implementation partner**, driving the educational programme, the community model, and the day-to-day operations of the makerspace. In practice, we are co-designing and co-running the project together.
+
 **The project: Make & Design Lab**
 
 We are building a **pop-up makerspace in České Budějovice** — a city of 100,000 in South Bohemia that will be the European Capital of Culture in 2028. The project runs as a pilot in 2028, with a preparation year in 2027.
@@ -94,7 +96,7 @@ Tabakfabrik Linz, Peter-Behrens-Platz 10, 4020 Linz, Austria
 
 To whom it may concern,
 
-This Letter of Intent confirms that **Grand Garage (TGW Future Wings GmbH)**, based in Linz, Austria, intends to participate as an **international partner** in the project **Make & Design Lab**, submitted by Make More s.r.o. (Czech Republic) under the (Perma)kulturní Open Call 2026 of České Budějovice – European Capital of Culture 2028.
+This Letter of Intent confirms that **Grand Garage (TGW Future Wings GmbH)**, based in Linz, Austria, intends to participate as an **international partner** in the project **Make & Design Lab**, submitted by **JVTP — Jihočeský vědeckotechnologický park** (South Bohemian Science and Technology Park, České Budějovice, Czech Republic) under the (Perma)kulturní Open Call 2026 of České Budějovice – European Capital of Culture 2028. The project is co-designed and implemented together with **Make More s.r.o.** as the lead content and implementation partner.
 
 Grand Garage's intended contribution to the project includes:
 - Sharing expertise and operational know-how in the preparation phase (2027) to support the design of the educational programme and community model of Make & Design Lab
