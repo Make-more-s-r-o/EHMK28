@@ -51,7 +51,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 25 | 2026-07-01 | V5 Registrační formulář |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 26 | 2026-07-02 | V5 Registrační formulář |
 | ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 7 | 2026-06-30 | V3 Zahraniční partner… · V5 Registrační formulář · P1 Grand Garage Linz · P3 Kunstuniversität Linz |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 | 👤 | **Lucka**<br><sub>Make more — grant. specialistka</sub> | 📝 bez GitHubu | — | — | — |
@@ -130,6 +130,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `2f67ff1` 2026-07-02 · Dan Jirotka — Aktualizace názvu projektu: Make & Design Lab Co-Authored-By: Claude <claude@anthropic.com>
 - `293d65c` 2026-07-01 · Dan Jirotka — Rules: ask in rounds until zero ambiguity before producing output
 - `2c0cb35` 2026-07-01 · Dan Jirotka — Rules: define document brief (scope/form/length/owner) before creating any output
 - `97a0cd7` 2026-06-30 · Dan Jirotka — Rules: pre-deploy README check + meeting tasks must be relevant with concrete owners
@@ -137,7 +138,6 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 - `01b81e6` 2026-06-30 · Dan Jirotka — Refresh dashboard after 30-06 meeting corrections
 - `ff6393a` 2026-06-30 · Dan Jirotka — Fix 30-06 meeting attendees: Dan, Ondrej, Jana (not Design Lab woman/Lucka); add 'ask who attended' rule
 - `1585e35` 2026-06-30 · Dan Jirotka — Memory: log 2028 seasonal operating schedule decision
-- `562d38c` 2026-06-30 · Dan Jirotka — Deep-pass 30-06 meeting: incorporate full transcript; standing meeting workflow
 <!-- AUTO:aktivita:end -->
 
 ---

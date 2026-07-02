@@ -1,36 +1,14 @@
 # Rozpočet 2027 (přípravná fáze)
 
-> List „ROZPOČET 2027". **Rok 2027 = jen příprava/plánování, ne výstupy pro veřejnost.**
-> Limity → `../ZAPIS-VYZVA.md`. Zapoj **grantovy-specialista**.
-
-## ⚠️ Limity, které musí sedět
-- **Rozpočet přípravy 2027 — limit: max 400 000 Kč (malý) / 800 000 Kč (velký).** Výzva
-  (kap. 7) kapuje *částku vyčleněnou na přípravu 2027*; výklad „celý rozpočet přípravy" vs.
-  „jen podíl ČB28" není v textu jednoznačný → **bezpečné je držet pod limitem obojí**
-  (sloupec Celkem 2027 i Z toho ČB28). Výklad před finálním rozpočtem ověřit u organizátora.
-- **Mzdy/platy/OON (kat. 1) jsou NEUZNATELNÉ** — mohou jen do spolufinancování (sloupec
-  „Další zdroje"), ne do podílu ČB28.
-- Nepřímé náklady max **20 % z celkové podpory (2027+2028 dohromady)**. Drobný majetek jen
-  **<80 000 Kč**. Catering/občerstvení **neuznatelné**. Jen **neinvestiční** náklady.
-
 ## Tabulka
-> Sloupce dle formuláře: jednotka | počet | jednotková cena vč. DPH | Celkem | povinný
-> komentář (odůvodnění) | z toho ČB28 | další zdroje.
-
 | Položka | Jednotka | Počet | Cena/j vč. DPH | Celkem | Z toho ČB28 | Další zdroje | Odůvodnění (povinné) |
 |---|---|---|---|---|---|---|---|
-| **1. Realizační tým – zaměstnanci** (mzdy, platy, OON, DPP/DPČ vč. odvodů) ⚠️ neuznatelné → jen spolufinancování | | | | | — | | |
-| 1.x | | | | | — | | |
-| **2. Realizační tým – externí** (kurátor, PM, produkční, experti – faktury, smlouvy o dílo) | | | | | | | |
-| 2.x | | | | | | | |
-| **3. Programová náplň** (vystupující, honoráře, přednášející, moderace, lektoři) | | | | | | | |
-| 3.x | | | | | | | |
-| **4. Produkce výstupů – služby** (pronájmy, technika, tlumočení, přeprava; catering ⚠️ neuzn.) | | | | | | | |
-| 4.x | | | | | | | |
-| **5. Produkce výstupů – materiál** (vybavení; drobný majetek <80k) | | | | | | | |
-| 5.x | | | | | | | |
-| **6. Cestovné & ubytování** (cesty/ubytování vystupujících a týmu) | | | | | | | |
-| 6.x | | | | | | | |
-| **7. Propagace** (práce, grafika, tisk, reklamní prostor, foto, video) | | | | | | | |
-| 7.x | | | | | | | |
-| **CELKEM 2027** | | | | **≤ 400k/800k** | drž pod limitem | | |
+| **1. Realizační tým – zaměstnanci** | | | | | | | |
+| 1.1 Zaměstnanci - MM příprava | paušál | 1 | 200 000 | 200 000 | 0 | 200 000 | Interní úvazky týmu Make More na věcné přípravě projektu - neuznatelný náklad. |
+| **2. Realizační tým – externí** | | | | | | | |
+| 2.1 PM a koordinátor (IČO) | měsíc | 12 | 20,000 | 240 000 | 240 000 | 0 | Projektový manažer - koordinace přípravné fáze, mapování komunity, jednání s partnery. |
+| **6. Cestovné & ubytování** | | | | | | | |
+| 6.1 Studijní cesta k zahr. partnerovi | cesta | 1 | 30 000 | 30 000 | 30 000 | 0 | Cestovné a ubytování pro 3 osoby na studijní návštěvu u zahraničního partnera v Linzi. |
+| **7. Propagace** | | | | | | | |
+| 7.1 Web, identita, registrace | paušál | 1 | 150 000 | 150 000 | 150 000 | 0 | Příprava značky Make & Design Lab, online prezentace, vývoj a nasazení rezervačního systému. |
+| **CELKEM 2027** | | | | **620 000** | **420 000** | **200 000** | |
