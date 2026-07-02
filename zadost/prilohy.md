@@ -4,7 +4,7 @@
 
 | # | Příloha | Kdo zajistí | Stav | Pozn. |
 |---|---|---|---|---|
-| 1 | **Formulář projektu** — vyplněné všechny listy (= naše `zadost/` přepsané do XLSX) | tým | ⬜ | XLSX `podklady/8916-…-formular.xlsx` |
+| 1 | **Formulář projektu** — vyplněné všechny listy (= naše `zadost/` přepsané do XLSX) | tým | 🟡 | Draft: `zadost/Make-Design-Lab_formular_Claude-draft_2026-07-02_21-00.xlsx` (obsah + plán vyplněn; **finance a kontakty/tým prázdné** — dořeší Dan). Prázdný vzor: `podklady/8916-…-formular.xlsx` |
 | 2 | **Letter of Intent** ≥1 zahraničního partnera | vedouci-projektu | 🔴 | tvrdá podmínka, řešit hned |
 | 3 | **Zakládací listina / stanovy** žadatele + **výpis skutečných majitelů** | Dan | ⬜ | |
 | 4 | **Plná moc** statutárního zástupce | Dan | ⬜ | jen je-li relevantní |
