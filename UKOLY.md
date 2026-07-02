@@ -1,7 +1,25 @@
 # Úkoly — backlog projektu
 
-Stav k 30. 6. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývá ~10 dní.
+Stav k 2. 7. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývá ~8 dní. Hodnotící komise **21. 8.**
 Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatní.
+
+## 🔴 Nové ze schůzky 2. 7. (týdenní — Make & Design Lab)
+
+> Zdroj: [`schuzky/2026-07-02-tydenni-schuzka-zapis.md`](schuzky/2026-07-02-tydenni-schuzka-zapis.md).
+> Příští týden: Ondřej na retreatu (nedostupný), Lucka omezeně (školka), 6. 7. svátek.
+> **Další schůzka: út 7. 7. 15:00 online.**
+
+| # | Úkol | Vlastník | Termín | Stav |
+|---|---|---|---|---|
+| S1 | **Naplnit koncept žádosti přes AI** z podkladů, otestovat kvalitu, kopie formuláře + na Drive; doplnit pole zahr. a regionálního partnera; poslat záměr Martině | Dan | 2. 7. odpoledne | ⬜ |
+| S2 | **LoI Grand Garage** — poslat summary + LoI (vzor na disku), příp. call o víkendu; dotáhnout obsah zahr. partnera a **nahrát finální verzi do GitHubu** | Ondřej | před retreatem, pá 3. 7. | 🟡 draft LoI + e-mail v `komunikace/` |
+| S3 | **LoI Kunstuniversität Linz (Creative Robotics)** + **LoI Novák Design** (vč. nákladů na dopravu exponátů) | Jana | co nejdřív | ⬜ |
+| S4 | Doplnit část JVTP — kritéria výzvy + horizontální kritéria (participace, udržitelnost), společná „linka“ projektu | Jana | út–st 7.–8. 7. | ⬜ |
+| S5 | Ověřit **sazbu režie 20 vs. 25 %**; upřesnit hranici „400“ (veřejná zakázka) | Jana | co nejdřív | ⬜ |
+| S6 | Prostory: call „Šimonice“ (2. 7. 14:00), poptat **Žižkárnu**; do rozpočtu zatím předpoklady | Jana | průběžně | 🟡 |
+| S7 | **Partnerská dohoda** — zajistí přes Vojtu (ředitel JVTP); příští týden zapojit Martinu + online konzultace | Jana | příští týden | ⬜ |
+| S8 | Kalendářní pozvánka na schůzku **út 7. 7. 15:00** + přístupy Google Disk | Lucka | 2. 7. | ⬜ |
+| S9 | Rozmyslet: majetek přímo na JVTP vs. přes Make more jako služba (dopad na vlastnictví) | Dan | do 7. 7. | ⬜ |
 
 ## 🔴 Urgentní — finální sprint do uzávěrky (po schůzce 30. 6.)
 
@@ -14,11 +32,11 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 | V2 | ~~Kofinancování osobními náklady~~ | — | — | ✅ OK, nesmí být vykázáno 2× ve dvou projektech zároveň |
 | V3 | **Zahraniční partner — kontakty navázány:** Grand Garage Linz (Ondřej) + Kunstuniversität Linz (Jana, viz J2). Ars Electronica se **aktivně neoslovuje**. | Ondřej + Jana | LoI do 5. 7. | 🟡 |
 | V4 | ~~Aktivity MM + hrubý rozpočet~~ — sepsáno; agregát ~4,5 mil. **nad limitem 3,5 mil.** → viz V6 | Ondřej | — | ✅ → škrty |
-| V5 | **Registrační formulář** — vyplnit a odeslat (lze pak upravovat) | Ondřej / Dan | ASAP | 🟡 |
+| V5 | ~~Registrační formulář~~ — podán; projekt registrován, dle Martiny předběžně „z těch lepších“ (schůzka 2. 7.); komise 21. 8. | — | — | ✅ |
 | V6 | **Rozpočet stáhnout pod 3,5 mil. Kč** — určit škrty, optimalizace (pronájem/zápůjčka vybavení Design Labu místo nákupu; započíst ~50 páječek MakeMore do vybavení/cofinance), doplnit komunitní/víkendové aktivity + práci zahr. partnera 2028 | Dan | ASAP | 🔴 |
 | V7 | **Vyjasnit fin. toky a partnerskou smlouvu** (lead vs realizátor, fakturace, interní směrnice) — kontakt Anička | Ondřej + Jana | ASAP | ⬜ |
 | V8 | ~~Rozseknout název projektu~~ | — | — | ✅ Make & Design Lab |
-| V9 | **Ověřit režijní/nepřímé náklady** (paušál 20 %?) a pravidla spolufinancování (vstupné, Smart Accelerator) — kontakt Petr Pežinka | Dan | ASAP | ⬜ |
+| V9 | **Ověřit režijní/nepřímé náklady** a pravidla spolufinancování (vstupné, Smart Accelerator) — kontakt Petr Pežinka. Z 2. 7.: režie doklady, ne paušál (hlavně nájmy); sazbu 20 vs. 25 % ověří Jana (→ S5) | Dan + Jana | ASAP | 🟡 |
 | V10 | **Onboarding Lucky** — poslat přístup (Claude, Git repo, one pager) | Dan | čt 2. 7. | ⬜ |
 | V11 | **Definovat pro Lucku zadání** — co z žádosti je potřeba „nabušit" | Ondřej | čt 2. 7. | ⬜ |
 | V12 | **Gaming** — zkusit „nahodit loop" přes Brno Creative Days (chybějící scéna v JčK) | Ondřej | průběžně | ⬜ |
@@ -64,8 +82,9 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 |---|---|---|---|---|
 | P1 | **Grand Garage Linz** — kontakt navázán; vyžádat Letter of Intent, dohodnout schůzky 2027 | Ondřej | LoI do 5. 7. | 🟡 |
 | P2 | ~~Ars Electronica Center~~ — **aktivně se neoslovuje** (rozhodnuto 30. 6.) | — | — | ✅ neřeší se |
-| P3 | **Kunstuniversität Linz** — kontakt navázán; možné LoI | Ondřej / Jana | LoI do 5. 7. | 🟡 |
+| P3 | **Kunstuniversität Linz (Creative Robotics)** — kontakt navázán; LoI vede **Jana** (rozděleno 2. 7.) | Jana | LoI do 5. 7. | 🟡 |
 | P4 | Podepsané **Letter of Intent** ≥1 zahraničního partnera | Ondřej / Jana | **5. 7.** | 🔴 |
+| P6 | **Novák Design** — regionální design partner, LoI + náklady na dopravu exponátů (2. 7.) | Jana | co nejdřív | ⬜ |
 | P5 | Doplnit do rozpočtu **práci zahraničního partnera v roce 2028** + mít záložní plán | Dan | ASAP | ⬜ |
 
 ## ✍️ Obsah žádosti — psaní (po ověření V1–V4)

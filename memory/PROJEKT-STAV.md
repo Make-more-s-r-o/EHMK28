@@ -9,7 +9,15 @@
 > čísla níže jsou nástřely k diskusi — **nepoužívat v grantové žádosti bez explicitního
 > schválení.** Předání práce a další kroky viz `../HANDOFF.md`.
 
-**Poslední aktualizace:** 30. 6. 2026 (schůzka k rozpočtu/aktivitám makerspace — viz `../schuzky/2026-06-30-makerspace-rozpocet-zapis.md`)
+**Poslední aktualizace:** 2. 7. 2026 (týdenní schůzka Make & Design Lab — viz `../schuzky/2026-07-02-tydenni-schuzka-zapis.md`)
+
+## ▶ Kde pokračovat (po schůzce 2. 7.)
+
+- **Dan dnes odpoledne:** naplnit koncept žádosti přes AI z podkladů (kopie formuláře, na Drive), doplnit pole zahr./regionálního partnera, poslat záměr Martině.
+- **LoI trojice:** Grand Garage (Ondřej, do pá 3. 7. — před retreatem; draft už v `../komunikace/`), Kunstuniversität Linz / Creative Robotics (Jana), Novák Design (Jana, regionální design partner).
+- **Jana:** režie 20 vs. 25 %, prostory (Šimonice call 2. 7. 14:00, Žižkárna), partnerská dohoda přes Vojtu, část JVTP do žádosti (út–st 7.–8. 7.).
+- **Registrace podána** — projekt registrován, předběžně „z těch lepších“ (Martina); **komise 21. 8.**
+- **Dostupnost příští týden:** Ondřej retreat (nedostupný), Lucka omezeně, 6. 7. svátek. **Schůzka út 7. 7. 15:00 online** (pozvánka Lucka).
 
 ## ▶ Kde pokračovat (finální sprint do 10. 7. — po schůzce 30. 6.)
 
@@ -48,7 +56,11 @@
 | Hlavní žadatel | ✅ **JVTP** | potvrzeno Petrem Pežinkou (24. 6.) — MM je realizační partner, fakturace OK |
 | MM v JčK | ✅ splněno | pobočka Make More v ČB zapsána v rejstříku 23. 6. |
 | Jihočeský partner | ✅ **JVTP** | Jana Moravcová; ředitel potvrdil ochotu |
-| Zahraniční partner | 🟡 **kontakty navázány** | Grand Garage Linz + Kunstuniversität Linz (možné LoI, schůzky 2027). Ars Electronica se neoslovuje. Termín LoI 5. 7. |
+| Zahraniční partner | 🟡 **kontakty navázány** | Grand Garage Linz (Ondřej) + Kunstuniversität Linz / Creative Robotics (Jana) — rozděleno 2. 7.; 2027 mentoři, 2028 hosté. Ars Electronica se neoslovuje. Termín LoI 5. 7. |
+| Regionální design partner | 🟡 **Novák Design** | LoI zajišťuje Jana (2. 7.); upřesnit náklady na dopravu exponátů |
+| Fakturace a režie | 🟡 rámec dohodnut (2. 7.) | čerpání fakturami MM → JVTP (nebo dodavatelé přímo na JVTP — rozmyslet, dopad na majetek); partnerská dohoda přes Vojtu; režie doklady ne paušál (hlavně nájmy), sazba 20/25 % ověřuje Jana; hranice „400“ = veřejná zakázka |
+| Rozvržení let | ✅ (2. 7.) | 2027 síťovací rok (dílčí akce, kulaté stoly, Maker Faire 2027); vybavení + nájem až 2028; pavilon Z zamítnut (150 tis. Kč/víkend) |
+| Registrace | ✅ podána | projekt registrován, předběžně „z těch lepších“ (Martina, JVTP); hodnotící komise 21. 8. |
 | Koncept | ✅ **pop-up Makerspace + Design lab** | MM = provoz + školy + komunita; JVTP = výstava + design sprint se startupy |
 | Kofinancování | ✅ **OK** | osobní náklady z jiných projektů lze použít — nesmí být vykázány 2× zároveň (MK ČR hlídá) |
 | Programová koordinace | 🟡 | sync s EHMK školy (Kreativní mysl 0–6, ZŠ/SŠ); Ostrov kultury = výstupy do veřejného prostoru |
@@ -71,6 +83,18 @@
 - JVTP je „dlouhodobý velmi prověřený partner."
 
 ## Log rozhodnutí
+- 2. 7. 2026 — **Týdenní schůzka Make & Design Lab** (Dan, Ondřej, Lucka, Jana; možná 5. účastnice
+  „Bety“ — neověřeno). Zápis: `../schuzky/2026-07-02-tydenni-schuzka-zapis.md`, přepis Plaud
+  `…-prepis-plaud.md` (file_id `82a575d4ea64347f8e12f6c78c86520a`). Závěry: **název Make & Design
+  Lab** potvrzen (doména makedesign.cz volná); JVTP hlavní žadatel + MM hlavní partner s partnerskou
+  dohodou (zajistí Vojta); **fakturace** MM→JVTP nebo dodavatelé přímo na JVTP (rozmyslet, dopad na
+  majetek), hranice „400“ = veřejná zakázka; **režie doklady ne paušál** (hlavně nájmy), sazba
+  20/25 % ověří Jana; **2027 síťovací rok, vybavení+nájem až 2028**; **pavilon Z zamítnut** (150 tis.
+  Kč/víkend); zahr. partneři rozděleni: **Grand Garage → Ondřej**, **Kunstuniversität Linz/Creative
+  Robotics → Jana**, + regionální **Novák Design → Jana**; registrace podána (projekt „z těch
+  lepších“ dle Martiny), **komise 21. 8.**; Dan dnes odpoledne plní koncept žádosti přes AI. Příští
+  týden: Ondřej retreat (nedostupný), Lucka omezeně, 6. 7. svátek. **Další schůzka út 7. 7. 15:00
+  online.** ⚠️ Mluvčí z diarizace neověření; čísla NESCHVÁLENÝ DRAFT.
 - 30. 6. 2026 — **Doplněn sezónní harmonogram provozu 2028** do `../strategie/rozpocet-pracovni-2028.md`
   (vlastní Dan). Popisuje, kdy je otevřeno a s čím jsou čísla párovaná: prostor celoročně (12 měs),
   program jen v sezónách — **únor–květen** jarní + **září–listopad** podzimní školní program (~28
