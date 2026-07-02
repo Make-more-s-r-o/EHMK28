@@ -25,7 +25,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:dashboard:start -->
 | ⏳ Do uzávěrky | 🧩 Otevřená rozhodnutí | ✅ Úkoly | 📅 Poslední schůzka |
 |:-:|:-:|:-:|:-:|
-| **8 dní** | **4** | 6 ✅ · 6 🟡 · 31 ⬜ · 2 🔴 | 2026-07-02 |
+| **8 dní** | **4** | 6 ✅ · 6 🟡 · 29 ⬜ · 4 🔴 | 2026-07-02 |
 <!-- AUTO:dashboard:end -->
 
 ### 🔴 Co blokuje / čeká na rozhodnutí&nbsp;⟳
@@ -55,7 +55,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 27 | 2026-07-02 | V9 Ověřit režijní/nepřímé… |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 28 | 2026-07-02 | V9 Ověřit režijní/nepřímé… |
 | ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 10 | 2026-07-02 | S2 LoI Grand Garage · V3 Zahraniční partner… · P1 Grand Garage Linz |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 | 👤 | **Lucka**<br><sub>Make more — grant. specialistka</sub> | 📝 bez GitHubu | — | — | — |
@@ -133,9 +133,9 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 | 🔴 Nové ze schůzky 2. 7. | 0 | 2 | 7 | 0 |
 | 🔴 Urgentní | 5 | 2 | 13 | 1 |
 | 🤝 Partneři | 1 | 2 | 2 | 1 |
-| ✍️ Obsah žádosti | 0 | 0 | 5 | 0 |
-| 📎 Přílohy a podání | 0 | 0 | 4 | 0 |
-| **Celkem** | **6** | **6** | **31** | **2** |
+| ✍️ Obsah žádosti | 0 | 0 | 4 | 1 |
+| 📎 Přílohy a podání | 0 | 0 | 3 | 1 |
+| **Celkem** | **6** | **6** | **29** | **4** |
 
 ➡️ Detail, vlastníci a termíny → [UKOLY.md](./UKOLY.md)
 <!-- AUTO:ukoly:end -->
@@ -144,6 +144,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `18ff84e` 2026-07-02 · Dan Jirotka — Process 2026-07-02 weekly meeting: notes, tasks, project state
 - `4b9e0ff` 2026-07-02 · Ondřej Kašpárek — Update LoI and email: JVTP as formal applicant, Make More as implementation partner
 - `5a62bb3` 2026-07-02 · Ondřej Kašpárek — Add LoI draft for Grand Garage Linz (.docx + generator script)
 - `9b42bc5` 2026-07-02 · Ondřej Kašpárek — Add Grand Garage Linz email draft and LoI template
@@ -151,7 +152,6 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 - `2f67ff1` 2026-07-02 · Dan Jirotka — Aktualizace názvu projektu: Make & Design Lab Co-Authored-By: Claude <claude@anthropic.com>
 - `293d65c` 2026-07-01 · Dan Jirotka — Rules: ask in rounds until zero ambiguity before producing output
 - `2c0cb35` 2026-07-01 · Dan Jirotka — Rules: define document brief (scope/form/length/owner) before creating any output
-- `97a0cd7` 2026-06-30 · Dan Jirotka — Rules: pre-deploy README check + meeting tasks must be relevant with concrete owners
 <!-- AUTO:aktivita:end -->
 
 ---

@@ -83,6 +83,22 @@
 - JVTP je „dlouhodobý velmi prověřený partner."
 
 ## Log rozhodnutí
+- 2. 7. 2026 — **Vyplněn formulář žádosti + tým (2 agenti) prošel obsah a plán.** Do XLSX
+  `Rozpracovany_Formular…xlsx` (Downloads) vyplněn list PODROBNÝ POPIS (názvy, žánr [návrh],
+  popis 1 větou, anotace, SMART cíle 2027/2028, aktivity, výstupy, obsahové info, průřezové
+  hodnoty, atraktivita, cílové skupiny, obsahoví partneři, přínos zahr./reg. partnera) a list
+  PROJEKTOVÝ PLÁN (harmonogram). **Prázdné** ponecháno: kontakty/představení partnerů, realizační
+  tým (jména+kontakty), představení žadatele, a **CELÉ FINANCE** (viz flag níže). Janiny buňky
+  R5–R7 netknuté. **`vedouci-projektu`** postavil master harmonogram po dnech 2.–10. 7. + rizika
+  do `UKOLY.md`; **`grantovy-specialista`** doplnil textová pole do `zadost/00` + bodovou
+  strategii a compliance.
+  🔴 **KRITICKÝ FLAG (Dan):** požadovaná podpora 4 576 230 Kč = ~67 % celkového rozpočtu
+  6 836 230 Kč → **nad 50% stropem** (max 3 418 115 Kč) **i nad 4 mil.** Takto nelze podat —
+  snížit podporu nebo zvednout rozpočet ≥ 8 mil. Detaily + další flagy v `UKOLY.md` (sekce
+  KRITICKÝ COMPLIANCE FLAG). ⚠️ Čísla NESCHVÁLENÝ DRAFT, vlastní Dan.
+  **Top bodové mezery** (grantovy-specialista): představení žadatele + mezinár. reference (0–10)
+  je prázdné; posílit uměleckou/konceptuální vrstvu (0–15) a rovinu OBSAH (Perma)kultury (vztah
+  k místu/paměti); partnerství popsat jako reciproční (0–20); konkretizovat plán EU financování.
 - 2. 7. 2026 — **Týdenní schůzka Make & Design Lab** (Dan, Ondřej, Lucka, Jana; možná 5. účastnice
   „Bety“ — neověřeno). Zápis: `../schuzky/2026-07-02-tydenni-schuzka-zapis.md`, přepis Plaud
   `…-prepis-plaud.md` (file_id `82a575d4ea64347f8e12f6c78c86520a`). Závěry: **název Make & Design

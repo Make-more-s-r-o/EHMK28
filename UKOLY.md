@@ -3,6 +3,99 @@
 Stav k 2. 7. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývá ~8 dní. Hodnotící komise **21. 8.**
 Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatní.
 
+---
+
+## 🗓️ MASTER HARMONOGRAM — finální sprint po dnech (2.–10. 7.)
+
+> **Toto je hlavní koordinační pohled.** Detailní znění úkolů zůstává v tabulkách níže (ID S-, V-, P-, J-, L-, 6–14).
+> Zdroj rozhodnutí: [`schuzky/2026-07-02-tydenni-schuzka-zapis.md`](schuzky/2026-07-02-tydenni-schuzka-zapis.md).
+> **Dostupnost:** Ondřej dostupný **jen do pá 3. 7.** (od so 4. 7. retreat, 5 dní mlčení — nedostupný) ·
+> Dan **volno pá 3. 7.** + **svátek po 6. 7.** · Lucka omezeně (školka), **nejvíc út 7. 7.** (babička) ·
+> Jana průběžně. **Kritická cesta:** LoI zahr. partnera → rozpočet pod limit (Dan) → kompletace formuláře (Lucka) → 5 povinných příloh → podání (Dan 10. 7.).
+
+### Čt 2. 7. (dnes) — všichni dostupní
+| Úkol | Vlastník | ID | Pozn./závislost |
+|---|---|---|---|
+| Naplnit koncept žádosti přes AI (popis + projektový plán), kopie formuláře na Drive; poslat záměr Martině | Dan | S1 | vstup pro obsah 6–9 |
+| Zahájit **škrty rozpočtu pod limit** (přebírá jen Dan) | Dan | V6, 10 | 🔴 kritická cesta, úzké okno (viz rizika) |
+| **Onboarding Lucky** (přístupy Claude/Git/one pager) | Dan | V10 | odblokuje L1–L4 |
+| **Definovat Lucce zadání** — co z žádosti „nabušit" (klíčové, než odjede) | Ondřej | V11 | 🔴 bez toho Lucka nenaváže po 4. 7. |
+| Zahájit **LoI Grand Garage** | Ondřej | S2, P1 | dokončit do pá 3. 7. |
+| Pozvánka na schůzku 7. 7. 15:00 + přístupy Google Disk | Lucka | S8 | — |
+| Call „Šimonice" 14:00, poptat Žižkárnu; zahájit **LoI Kunstuniversität + Novák** | Jana | S6, P3, P6 | — |
+
+### Pá 3. 7. — POSLEDNÍ den Ondřeje (Dan volno) 🔴
+| Úkol | Vlastník | ID | Pozn./závislost |
+|---|---|---|---|
+| **Dokončit + odeslat LoI Grand Garage**, získat příslib | Ondřej | S2, P1, P4 | 🔴 tvrdá podmínka podání |
+| **Nahrát finální obsah zahr. partnera do GitHubu** (přínos partnera 2027/2028) | Ondřej | S2, V3 | Dan/Lucka na to navazují |
+| **Dodat MM realizační tým** (jména+kontakty) + **umělci/maker influenceři** (kontakty) | Ondřej | 6, 8 | 🔴 po 4. 7. už nedodá |
+| Review AI draftu popisu projektu, předat připomínky Danovi/Lucce | Ondřej | 7 | poslední příležitost |
+| Pokračovat LoI Kunstuniversität + Novák; ověřit **režii 20 vs. 25 %** | Jana | P3, P6, S5 | pojistka LoI, viz rizika |
+
+### So–Ne 4.–5. 7. — víkend, Ondřej nedostupný
+| Úkol | Vlastník | ID | Pozn./závislost |
+|---|---|---|---|
+| **Interní deadline LoI (min. 1 zahr. podepsaný)** | Ondřej→Jana | P4 | není-li Grand Garage → Jana tlačí Kunstuniversität jako hlavní |
+| Pokračovat rozpočet pod limit (dle možností) | Dan | V6, 10 | kritická cesta |
+
+### Po 6. 7. — státní svátek (Dan volno, Ondřej pryč) = rezervní buffer
+
+### Út 7. 7. — schůzka 15:00 online; Lucka nejvíc dostupná
+| Úkol | Vlastník | ID | Pozn./závislost |
+|---|---|---|---|
+| **Schůzka 15:00** — stav LoI, rozpočet, dělba dokončení | všichni | — | — |
+| **Finalizace formuláře** — projít listy `zadost/`, doplnit chybějící (žánr, popis 1 větou, partneři, tým) | Lucka | L1, 6–9 | přebírá po Ondřejovi |
+| **Kompletace 5 příloh** — co chybí, od koho, do kdy | Lucka | L2 | — |
+| **Část JVTP** (kritéria + horizontální: participace, udržitelnost) + popis aktivit JVTP → předat Danovi | Jana | S4, J1 | vstup do obsahu 8 |
+| **Rozpočet finalizovat pod limit** + práce zahr. partnera 2028; majetek JVTP vs MM | Dan | 10, V6, P5, S9 | 🔴 blokuje compliance |
+| Partnerská dohoda přes Vojtu; zapojit Martinu (online konzultace) | Jana | S7, J3 | — |
+
+### St 8. 7. — Lucka, Dan, Jana
+| Úkol | Vlastník | ID | Pozn./závislost |
+|---|---|---|---|
+| Dokončit formulář + **zkompletovat přílohy** | Lucka | L1, L2 | deadline příloh 8. 7. |
+| **Přílohy žadatele = JVTP:** stanovy/zakládací listina + výpis skutečných majitelů + plná moc | Jana/JVTP | 11 | 🔴 žadatel je JVTP → dodává Jana, ne Dan (viz blockery) |
+| Konsolidace rozpočtu za JVTP do Danových čísel | Dan (z Janiných podkladů) | 10 | — |
+
+### Čt 9. 7. — compliance
+| Úkol | Vlastník | ID | Pozn./závislost |
+|---|---|---|---|
+| **Compliance kontrola** — 70+ bodů, limity rozpočtu (neinvestiční, nepřímé ≤20 %, mzdy/OON neuznatelné), eligibilita, kompletnost příloh | Lucka + Dan | L3, 13 | — |
+| Ověřit splnění přílohy 5 (registrační formulář — podán V5) | Dan | 12 | — |
+
+### Pá 10. 7. — PODÁNÍ (deadline 23:59 CET)
+| Úkol | Vlastník | ID | Pozn./závislost |
+|---|---|---|---|
+| Finální kontrola + **podání** e-mailem `opencall@budejovice2028.cz` + XLSX formulář + registrační formulář | Dan | 14 | ⏰ podat **odpoledne s rezervou**, ne na poslední chvíli |
+
+---
+
+## 🔴🔴 KRITICKÝ COMPLIANCE FLAG — rozpočet nad DVĚMA stropy (eskalace Danovi, 2. 7.)
+
+> Zjištění grantového specialisty proti `ZAPIS-VYZVA.md`. **Finance vlastní Dan — needituji, jen eskaluji.**
+
+Dle draftu `zadost/02` je celkový rozpočet **6 836 230 Kč** a požadovaná podpora **4 576 230 Kč = ~67 %**.
+- 🔴 **Nad 50% stropem podpory** (velký projekt): při tomto celkovém rozpočtu je max. podpora **3 418 115 Kč** → přes o ~1,16 mil.
+- 🔴 **Nad absolutním stropem 4 mil.** → přes o 576 tis.
+- **Takto NELZE podat.** Řešení (Dan): snížit podporu, nebo zvednout celkový rozpočet/spolufinancování na ≥ 8 mil., aby 4 mil. = max 50 %.
+- Další flagy (Dan pohlídá v rozpočtu): nepřímé/režie **≤ 20 %** podpory (25 % by přesáhlo); vybavení **> 80 tis. Kč/kus = investiční = neuznatelné** → pronájem/zápůjčka; **mzdy/DPP/DPČ neuznatelné** → honoráře OSVČ/smlouva o dílo; **2027 formulovat jen jako přípravu**, ne veřejné výstupy; neuznatelné: ceny do soutěží, catering, bankovní poplatky.
+
+## 🚧 Blockery, závislosti a rizika (finální sprint)
+
+**Blockery (bez nich nelze podat) a co blokují:**
+1. 🔴 **LoI ≥1 zahr. partnera** (P4) → blokuje **podání** (tvrdá podmínka + povinná příloha č. 2). Owner Ondřej (Grand Garage, do pá 3. 7.) / Jana (Kunstuniversität — pojistka). Musí být hotové **do 8. 7.**, aby stihlo přílohy.
+2. 🔴 **Rozpočet pod limit** (V6/10, jen Dan) → blokuje **finalizaci formuláře** (Lucka) i **compliance** (9. 7.). Agregát ~4,5 mil. nad limitem 3,5 mil.; grant ~506 tis. přes strop 4 mil. (viz `HANDOFF.md`). **Finance NEVYMÝŠLÍM — vlastní Dan.**
+3. 🔴 **Přílohy žadatele = JVTP** (11): stanovy/zakládací listina + výpis skutečných majitelů + plná moc → protože **žadatel je JVTP**, zajišťuje je **Jana/JVTP** (ne Dan). Bez nich vyřazení.
+4. 🔴 **Zadání pro Lucku od Ondřeje** (V11) → bez něj Lucka po 4. 7. nenaváže na obsah. Nutné **dnes 2. 7.**
+
+**Top rizika + mitigace:**
+- **Ondřej nedostupný od so 4. 7.** (retreat) → veškeré jeho vstupy (LoI Grand Garage, obsah zahr. partnera do GitHubu, MM tým + kontakty, umělci, review popisu, zadání Lucce) **vytěžit do pá 3. 7.** Zbytek obsahu přebírá **Dan (AI draft) + Lucka (finalizace)**.
+- **Rozpočet nad limitem + úzké Danovo okno** (volno 3. 7. + svátek 6. 7.) → Dan pracuje na škrtech 2. 7. a dle možností o víkendu; optimalizace přes zápůjčku/pronájem vybavení + započtení ~50 páječek MM do cofinance. Čísla ověřuje/vlastní Dan.
+- **LoI zahr. partnera nefinalizovaný** → dvojitá pojistka: Grand Garage (Ondřej) **nezávisle** na Kunstuniversität (Jana) + regionální Novák Design. Stačí **1 zahraniční** — Jana tlačí Kunstuniversität bez ohledu na Ondřejův odjezd.
+- **Přílohy JVTP na poslední chvíli** → Jana dodá stanovy/výpis/plnou moc **do 8. 7.**, ať zbývá čas na compliance.
+- **Podání na poslední chvíli** → Dan podá **10. 7. odpoledne** s rezervou (formální nedostatky = lhůta na doplnění 7 prac. dní, ale nelze na to spoléhat).
+
 ## 🔴 Nové ze schůzky 2. 7. (týdenní — Make & Design Lab)
 
 > Zdroj: [`schuzky/2026-07-02-tydenni-schuzka-zapis.md`](schuzky/2026-07-02-tydenni-schuzka-zapis.md).
@@ -89,19 +182,23 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 
 ## ✍️ Obsah žádosti — psaní (po ověření V1–V4)
 
+> ⚠️ **Přesun kvůli nedostupnosti Ondřeje od 4. 7.** (viz master harmonogram): Ondřej dodá své
+> vstupy (zahr. partner, MM tým + kontakty, umělci, review popisu) **do pá 3. 7.**; draft plní
+> **Dan (AI, S1)**, finalizaci přebírá **Lucka (L1)** od 7. 7.
+
 | # | Úkol | Vlastník | Agent | Termín | Stav |
 |---|---|---|---|---|---|
-| 6 | Základní informace + žadatel + partneři (`00-zakladni-info.md`) | Ondřej | grantovy-specialista | do 3. 7. | ⬜ |
-| 7 | Popis projektu (~3600 zn.) + SMART cíle + aktivity + výstupy (`01-popis-projektu.md`) | Ondřej | grantovy-specialista | do 5. 7. | ⬜ |
-| 8 | Průřezové hodnoty + marketing + cílové skupiny + umělci/vystupující (`02-prurezove-marketing.md`) | Ondřej | grantovy-specialista | do 6. 7. | ⬜ |
-| 9 | Projektový plán — časová osa 2027–2028 (`03-projektovy-plan.md`) | Ondřej | vedouci-projektu | do 6. 7. | ⬜ |
-| 10 | **Rozpočet 2027 + 2028** — neinvestiční, mzdy neuznatelné, nepřímé ≤20 % | Dan | grantovy-specialista | do 7. 7. | ⬜ |
+| 6 | Základní informace + žadatel + partneři (`00-zakladni-info.md`) | Ondřej (vstupy do 3. 7.) → Lucka (finalizace) | grantovy-specialista | do 7. 7. | ⬜ |
+| 7 | Popis projektu (~3600 zn.) + SMART cíle + aktivity + výstupy (`01-popis-projektu.md`) | Dan (AI draft) + Ondřej (review 3. 7.) → Lucka | grantovy-specialista | do 7. 7. | ⬜ |
+| 8 | Průřezové hodnoty + marketing + cílové skupiny + umělci/vystupující (`02-prurezove-marketing.md`) | Jana (horizontální kritéria) + Ondřej (umělci 3. 7.) → Lucka | grantovy-specialista | do 8. 7. | ⬜ |
+| 9 | Projektový plán — časová osa 2027–2028 (`03-projektovy-plan.md`) | Dan (AI draft) → Lucka | vedouci-projektu | do 8. 7. | ⬜ |
+| 10 | **Rozpočet 2027 + 2028** — neinvestiční, mzdy neuznatelné, nepřímé ≤20 % | Dan | grantovy-specialista | do 7. 7. | 🔴 |
 
 ## 📎 Přílohy a podání
 
 | # | Úkol | Vlastník | Termín | Stav |
 |---|---|---|---|---|
-| 11 | Zakládací listina/stanovy + výpis skutečných majitelů, plná moc | Dan / Jana (dle žadatele) | do 8. 7. | ⬜ |
+| 11 | Zakládací listina/stanovy + výpis skutečných majitelů, plná moc | **Jana/JVTP** (žadatel = JVTP) | do 8. 7. | 🔴 |
 | 12 | Odeslat **registrační formulář** | Dan | do 9. 7. | ⬜ |
 | 13 | **Finální compliance kontrola** — 70+ bodů, limity rozpočtu, kompletní přílohy | Dan + Ondřej | 9. 7. | ⬜ |
 | 14 | **Podání** e-mailem + XLSX formulář | Dan | **10. 7. 23:59** | ⬜ |
