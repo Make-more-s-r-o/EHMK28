@@ -1,15 +1,13 @@
 # Zápis ze schůzky — 2026-07-02
 
-- **Účastníci:** Dan, Ondřej, Lucka, Jana (JVTP) + pravděpodobně pátá účastnice („Bety“? — **neověřeno**, viz pozn. níže)
+- **Účastníci:** Dan, Ondřej, Lucka, Jana (JVTP) — **4 osoby** (potvrdil Dan 2. 7.)
 - **Datum:** 2026-07-02, ~42 min (9:01–9:44)
 - **Téma:** Týdenní schůzka — Make & Design Lab: dopracování žádosti, Letters of Intent, fakturace a režie, prostory, termíny
 - **Zdroj:** přepis Plaud AI (`2026-07-02-tydenni-schuzka-prepis-plaud.md`, file_id `82a575d4ea64347f8e12f6c78c86520a`)
 
-> ⚠️ **Mluvčí z auto-diarizace = neověřené.** Mapování dle oslovení: S1 = Lucka, S2 = Dan,
-> S4 = Jana, S5 = Ondřej. **S3 (žena, řešila přístupy GitHub/Disk; Dan zmiňuje „Betu“) a S6
-> neidentifikováni — Dan potvrdí.** Zápis vznikl autonomně (Dan neodpověděl na dotaz k účastníkům);
-> zvolené defaulty: účastníci dle důkazů z přepisu, Ondřejův termín LoI „před retreatem (pá 3. 7.)“,
-> úkoly JVTP lidí (Vojta, Martina) vedeny pod Janou.
+> **Mapování mluvčích (potvrzeno Danem):** S1 = Lucka, S2 = Dan, S4 = Jana, S5 = Ondřej.
+> **S3 a S6 = artefakty Plaud diarizace, ne reálné osoby** (na schůzce byli jen 4). Ondřejův
+> termín LoI „před retreatem (pá 3. 7.)“; úkoly JVTP lidí (Vojta, Martina) vedeny pod Janou.
 
 ---
 
@@ -84,5 +82,4 @@
 - Výběr prostoru (Šimonice / Žižkárna / jiné) — do rozpočtu předpoklady.
 - Náležitosti a finální znění Letters of Intent; náklady na dopravu exponátů Novák Design.
 - Zvládne AI překlopit podklady do formuláře naráz, nebo buňka po buňce? (Dan/Ondřej otestují.)
-- Identita Speaker 3 („Bety“?) a Speaker 6 — **ověřit u Dana**.
 - Termín pro získání všech LoI nebyl pevně stanoven (drží se interní 5. 7. z UKOLY.md).

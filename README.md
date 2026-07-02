@@ -55,7 +55,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 28 | 2026-07-02 | V9 Ověřit režijní/nepřímé… |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 30 | 2026-07-02 | V9 Ověřit režijní/nepřímé… |
 | ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 10 | 2026-07-02 | S2 LoI Grand Garage · V3 Zahraniční partner… · P1 Grand Garage Linz |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 | 👤 | **Lucka**<br><sub>Make more — grant. specialistka</sub> | 📝 bez GitHubu | — | — | — |
@@ -83,7 +83,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 ## 📅 Schůzky a zápisy&nbsp;⟳
 <!-- AUTO:schuzky:start -->
 ### 2026-07-02 · Týdenní schůzka — Make & Design Lab: dopracování žádosti, Letters of Intent, fakturace a…
-- **Účastníci:** Dan, Ondřej, Lucka, Jana (JVTP) + pravděpodobně pátá účastnice („Bety“? — **neověřeno**, viz pozn. níže)
+- **Účastníci:** Dan, Ondřej, Lucka, Jana (JVTP) — **4 osoby** (potvrdil Dan 2. 7.)
 - 📄 Zápis: [2026-07-02-tydenni-schuzka-zapis.md](./schuzky/2026-07-02-tydenni-schuzka-zapis.md)
 
 <details><summary>Přepisy a porovnání (1)</summary>
@@ -144,14 +144,14 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `9621a6a` 2026-07-02 · Dan Jirotka — Add filled application form (Claude draft, 2026-07-02 21:00)
+- `685c642` 2026-07-02 · Dan Jirotka — Add sprint plan, grant-scoring review and critical budget-cap flag
 - `18ff84e` 2026-07-02 · Dan Jirotka — Process 2026-07-02 weekly meeting: notes, tasks, project state
 - `4b9e0ff` 2026-07-02 · Ondřej Kašpárek — Update LoI and email: JVTP as formal applicant, Make More as implementation partner
 - `5a62bb3` 2026-07-02 · Ondřej Kašpárek — Add LoI draft for Grand Garage Linz (.docx + generator script)
 - `9b42bc5` 2026-07-02 · Ondřej Kašpárek — Add Grand Garage Linz email draft and LoI template
 - `a3ee2a7` 2026-07-02 · Dan Jirotka — Populate project description, plan, and budget tables in markdown files
 - `2f67ff1` 2026-07-02 · Dan Jirotka — Aktualizace názvu projektu: Make & Design Lab Co-Authored-By: Claude <claude@anthropic.com>
-- `293d65c` 2026-07-01 · Dan Jirotka — Rules: ask in rounds until zero ambiguity before producing output
-- `2c0cb35` 2026-07-01 · Dan Jirotka — Rules: define document brief (scope/form/length/owner) before creating any output
 <!-- AUTO:aktivita:end -->
 
 ---
