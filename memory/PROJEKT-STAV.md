@@ -16,7 +16,7 @@
 - **🔴 Rozpočet pod 3,5 mil. Kč** — agregát aktivit/vybavení je nyní ~4,5 mil., nad limitem. Určit škrty + optimalizace (zápůjčka/pronájem vybavení Design Labu místo nákupu). Vlastní **Dan**.
 - **🔴 Letter of Intent zahr. partnera do 5. 7.** — kontakty navázány (Grand Garage Linz + Kunstuniversität Linz); Ars Electronica se neoslovuje. Doplnit do rozpočtu práci partnera 2028.
 - **Ondřej dostupný jen tento týden, od 6. 7. omezen** → na finalizaci zapojit kolegyni **Lucii**.
-- **Vyjasnit:** fin. toky a partnerská smlouva (lead vs realizátor, fakturace; kontakt Anička); režijní/nepřímé náklady a spolufinancování (kontakt Petr Pežinka); **název projektu** (pro LoI).
+- **Vyjasnit:** fin. toky a partnerská smlouva (lead vs realizátor, fakturace; kontakt Anička); režijní/nepřímé náklady a spolufinancování (kontakt Petr Pežinka).
 - **Prostor:** schůzka s Výstavištěm (týden od 29. 6.); alternativy Žižkárna aj.
 
 ## ▶ Kde pokračovat (původní)
@@ -43,6 +43,7 @@
 ## Rozhodnutí
 | Otázka | Stav | Pozn. |
 |---|---|---|
+| Název projektu | ✅ **Make & Design Lab** | Rozhodnuto 2. 7. |
 | Velikost projektu | ✅ **VELKÝ** | grant max 4 mil. Kč, celkový rozpočet 8 mil., spolufinancování 50 % |
 | Hlavní žadatel | ✅ **JVTP** | potvrzeno Petrem Pežinkou (24. 6.) — MM je realizační partner, fakturace OK |
 | MM v JčK | ✅ splněno | pobočka Make More v ČB zapsána v rejstříku 23. 6. |
@@ -84,7 +85,7 @@
   rozpočtu ~4,5 mil. **nad limitem 3,5 mil.** → nutné škrty (Dan); zahr. partneři Grand Garage +
   Kunstuniversität Linz (LoI), Ars Electronica se neoslovuje; rozdělení práce Ondřej obsah / Dan
   finance / Lucie finalizace; prostor Výstaviště/Žižkárna. ⚠️ Všechna čísla NESCHVÁLENÝ DRAFT.
-  **Otevřené (kritické): název projektu nerozhodnut** (Make and Design / Makerspace / Design Lab)
+  **Rozhodnuto (2. 7.): název projektu = Make & Design Lab** (původně nerozhodnuto: Make and Design / Makerspace / Design Lab)
   — blokuje LoI a papíry. Nové kontakty obsahu: Adam Ur (kacadu.com, SABIC), Jiří Vele, Michal
   Trpák. Žižkárnu ověřuje Vojtěch (Design Lab). Schůzka s Luckou čt 2. 7. 11:00.
 - 22. 6. 2026 — Založen repozitář, rešerše výzvy (ZAPIS-VYZVA.md), struktura žádosti,

@@ -17,7 +17,7 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 | V5 | **Registrační formulář** — vyplnit a odeslat (lze pak upravovat) | Ondřej / Dan | ASAP | 🟡 |
 | V6 | **Rozpočet stáhnout pod 3,5 mil. Kč** — určit škrty, optimalizace (pronájem/zápůjčka vybavení Design Labu místo nákupu; započíst ~50 páječek MakeMore do vybavení/cofinance), doplnit komunitní/víkendové aktivity + práci zahr. partnera 2028 | Dan | ASAP | 🔴 |
 | V7 | **Vyjasnit fin. toky a partnerskou smlouvu** (lead vs realizátor, fakturace, interní směrnice) — kontakt Anička | Ondřej + Jana | ASAP | ⬜ |
-| V8 | **Rozseknout název projektu** (varianty „Make and Design" / „Makerspace" / „Design Lab") — **blokuje LoI a papíry** | Ondřej / Dan | ASAP | 🔴 |
+| V8 | ~~Rozseknout název projektu~~ | — | — | ✅ Make & Design Lab |
 | V9 | **Ověřit režijní/nepřímé náklady** (paušál 20 %?) a pravidla spolufinancování (vstupné, Smart Accelerator) — kontakt Petr Pežinka | Dan | ASAP | ⬜ |
 | V10 | **Onboarding Lucky** — poslat přístup (Claude, Git repo, one pager) | Dan | čt 2. 7. | ⬜ |
 | V11 | **Definovat pro Lucku zadání** — co z žádosti je potřeba „nabušit" | Ondřej | čt 2. 7. | ⬜ |
@@ -140,7 +140,7 @@ Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatn
 **Komunitní program:** dopoledne školy, odpoledne/večer veřejnost (repair café, přednášky, workshopy, pronájmy); soutěže 2× ročně (červen, prosinec) + tematické výzvy s městy.
 
 **Doplnění z plného přepisu (deep-pass):**
-- **Název projektu nerozhodnut** (varianty „Make and Design" / „Makerspace" / „Design Lab") — kritické, blokuje LoI/papíry (V8).
+- **Název projektu rozhodnut 2. 7.** — Make & Design Lab.
 - **Komunikační kanál týmu neurčen**; AI: Dan/Ondřej Claude, Lucka ChatGPT.
 - **Vybavení MakeMore:** ~50 páječek (z táborů) → do cofinance; dělnické stoly ~3–4 tis. Kč/ks (ověřit jednotku).
 - **Možní hosté:** Adam Ur (kacadu.com, 3D tisk, akcelerátor SABIC, z Průšalab), Jiří Vele, Michal Trpák.

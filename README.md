@@ -25,13 +25,14 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:dashboard:start -->
 | ⏳ Do uzávěrky | 🧩 Otevřená rozhodnutí | ✅ Úkoly | 📅 Poslední schůzka |
 |:-:|:-:|:-:|:-:|
-| **9 dní** | **2** | 4 ✅ · 4 🟡 · 24 ⬜ · 3 🔴 | 2026-06-30 |
+| **8 dní** | **2** | 5 ✅ · 4 🟡 · 24 ⬜ · 2 🔴 | 2026-06-30 |
 <!-- AUTO:dashboard:end -->
 
 ### 🔴 Co blokuje / čeká na rozhodnutí&nbsp;⟳
 <!-- AUTO:rozhodnuti:start -->
 | Otázka | Stav | Pozn. |
 |---|---|---|
+| Název projektu | ✅ **Make & Design Lab** | Rozhodnuto 2. 7. |
 | Velikost projektu | ✅ **VELKÝ** | grant max 4 mil. Kč, celkový rozpočet 8 mil., spolufinancování 50 % |
 | Hlavní žadatel | ✅ **JVTP** | potvrzeno Petrem Pežinkou (24. 6.) — MM je realizační partner, fakturace OK |
 | MM v JčK | ✅ splněno | pobočka Make More v ČB zapsána v rejstříku 23. 6. |
@@ -50,7 +51,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 24 | 2026-07-01 | V5 Registrační formulář |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 25 | 2026-07-01 | V5 Registrační formulář |
 | ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 7 | 2026-06-30 | V3 Zahraniční partner… · V5 Registrační formulář · P1 Grand Garage Linz · P3 Kunstuniversität Linz |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 | 👤 | **Lucka**<br><sub>Make more — grant. specialistka</sub> | 📝 bez GitHubu | — | — | — |
@@ -116,11 +117,11 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:ukoly:start -->
 | Sekce | ✅ | 🟡 | ⬜ | 🔴 |
 |---|:-:|:-:|:-:|:-:|
-| 🔴 Urgentní | 3 | 2 | 14 | 2 |
+| 🔴 Urgentní | 4 | 2 | 14 | 1 |
 | 🤝 Partneři | 1 | 2 | 1 | 1 |
 | ✍️ Obsah žádosti | 0 | 0 | 5 | 0 |
 | 📎 Přílohy a podání | 0 | 0 | 4 | 0 |
-| **Celkem** | **4** | **4** | **24** | **3** |
+| **Celkem** | **5** | **4** | **24** | **2** |
 
 ➡️ Detail, vlastníci a termíny → [UKOLY.md](./UKOLY.md)
 <!-- AUTO:ukoly:end -->
@@ -129,6 +130,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `293d65c` 2026-07-01 · Dan Jirotka — Rules: ask in rounds until zero ambiguity before producing output
 - `2c0cb35` 2026-07-01 · Dan Jirotka — Rules: define document brief (scope/form/length/owner) before creating any output
 - `97a0cd7` 2026-06-30 · Dan Jirotka — Rules: pre-deploy README check + meeting tasks must be relevant with concrete owners
 - `835b196` 2026-06-30 · Dan Jirotka — Dashboard: show non-GitHub members (Lucka, Jana) in team table
@@ -136,7 +138,6 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 - `ff6393a` 2026-06-30 · Dan Jirotka — Fix 30-06 meeting attendees: Dan, Ondrej, Jana (not Design Lab woman/Lucka); add 'ask who attended' rule
 - `1585e35` 2026-06-30 · Dan Jirotka — Memory: log 2028 seasonal operating schedule decision
 - `562d38c` 2026-06-30 · Dan Jirotka — Deep-pass 30-06 meeting: incorporate full transcript; standing meeting workflow
-- `b69c162` 2026-06-30 · Dan Jirotka — Assign 2026-06-30 meeting tasks to Lucka (finalization) and Jana (JVTP)
 <!-- AUTO:aktivita:end -->
 
 ---
@@ -164,5 +165,5 @@ Claude ti je sám nabídne, když se hodí. Vyžádat: *„zapoj grantového spe
 > [`schuzky/`](./schuzky/) — **needituj ho ručně**. Ostatní text uprav klidně přímo.
 
 <!-- AUTO:generated:start -->
-<sub>⟳ Nástěnka naposledy přegenerována 2026-07-01 · generuje <code>tools/generate-dashboard.mjs</code></sub>
+<sub>⟳ Nástěnka naposledy přegenerována 2026-07-02 · generuje <code>tools/generate-dashboard.mjs</code></sub>
 <!-- AUTO:generated:end -->

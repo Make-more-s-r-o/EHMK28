@@ -4,8 +4,8 @@
 > Limity a pravidla → `../ZAPIS-VYZVA.md`. Stav rozhodnutí → `../memory/PROJEKT-STAV.md`.
 
 ## Identifikace
-- **Název projektu (CZ):**
-- **Název projektu (AJ):**
+- **Název projektu (CZ):** Make & Design Lab
+- **Název projektu (AJ):** Make & Design Lab
 - **Žánr/y:** *(ideálně z preferovaných — viz ZAPIS-VYZVA.md)*
 - **Velikost projektu:** malý / velký *(úkol #1 — zatím nerozhodnuto)*
 - **Popis projektu jednou větou:**
