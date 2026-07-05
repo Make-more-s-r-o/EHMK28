@@ -16,13 +16,15 @@
 - **Popis projektu jednou větou:** Make & Design Lab je pilotní komunitní centrum tvorby v Českých Budějovicích, kde se v roce 2028 nad digitální výrobou, řemeslem a designem potkávají školy, veřejnost, designéři a firmy — a kde současně vzniká ověřený, trvale udržitelný model kreativní infrastruktury pro Jihočeský kraj.
 
 ## Hlavní realizátor projektu (žadatel)
-- **Název organizace:**
-- **IČO:** | **Web:**
-- **Sídlo / pobočka v Jihočeském kraji?** ano / ne *(pokud ne → nutný jihočeský partner)*
+- **Název organizace:** JVTP — Jihočeský vědeckotechnologický park a.s.
+- **IČO:** 28080581 | **Web:** jvtp.cz
+- **Sídlo:** U Zimního stadionu 1952/2, 370 76 České Budějovice | **Sídlo / pobočka v Jihočeském kraji?** ANO
+- **Kontakt:** Jana Moravcová, moravcova@jvtp.cz, +420 774 969 654
+- **Statutární zástupce:** doc. Ing. Vojtěch Stehel MBA PhD (ředitel)
 - **Představení žadatele:**
-  - profil žadatele:
-  - historie žadatele:
-  - nejvýznamnější projekty/aktivity:
+  - profil žadatele: *[DOPLNIT Jana — profil JVTP, zaměření na propojení výzkumu, vzdělávání a průmyslu v JčK]*
+  - historie žadatele: *[DOPLNIT Jana — rok vzniku, klíčové milníky]*
+  - nejvýznamnější projekty/aktivity: *[DOPLNIT Jana — reference JVTP]*
 
 ## Hlavní zahraniční partner *(POVINNÝ — bez něj nelze podat; potřebný Letter of Intent)*
 - **Název:** | **Tel:** | **Web:**
@@ -45,6 +47,18 @@
   - **Mentoring a reálná zadání:** vedení design sprintů a workshopů, praktická zadání pro komunitní soutěže a pro školní/veřejný program.
   - **Lokální kreativní ekonomika:** propojení centra s regionálními designéry a firmami, posílení místní kreativní scény a udržitelnosti po EHMK.
   - *[DOPLNIT po LoI: konkrétní aktivity, rozsah a termíny zapojení, jména osob.]*
+
+## Hlavní realizační partner (obsahový partner)
+- **Název organizace:** Make More s.r.o.
+- **IČO:** *[DOPLNIT]* | **Web:** makemore.cz
+- **Sídlo:** *[DOPLNIT]* | **Sídlo / pobočka v Jihočeském kraji?** *[ověřit]*
+- **Kontakt:** Ondřej Kašpárek, ondrej@makemore.cz
+- **Role v projektu:** Hlavní obsahový a realizační partner — vzdělávací programy, provoz maker dílen, komunita, zahraničí
+- **Kompetence a reference:** viz `01-popis-projektu.md`, sekce „Kompetence a reference realizačního partnera"
+  - FAB25 Czechia (2025) — 1 000+ účastníků, 55 zemí, hlavní organizátor
+  - FAB-MAKER (Erasmus+, 2025–2027) — koordinátor
+  - EPIC-X (EU/EISMEA) — člen konsorcia
+  - Fórum tvorby a inovací — legacy FAB25, platforma makerspace jako rozvoj města
 
 ## Další realizační partneři
 -

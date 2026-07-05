@@ -40,9 +40,37 @@ Záměrně pracujeme s širokým záběrem: neomezujeme se na jedno odvětví, p
 | 3. 2 komunitní soutěže/výzvy pro tvůrce | České Budějovice | červen + prosinec 2028 | ~300 návštěvníků |
 | 4. Ověřený provozní model a plán udržitelnosti centra | České Budějovice | Q4 2028 | N/A |
 
+## Místo realizace
+
+Preferované místo: **Výstaviště České Budějovice** — nevyužívané nebo sezónně nevyužité pavilony (konkrétní objekt v jednání s provozovatelem). Klíčová synergie: JVTP plánuje designovou výstavu ve stejném areálu a Maker Faire na podzim 2028 jako přehlídka výstupů účastníků. Cílem je prostor, který může fungovat i po roce 2028 bez nutnosti přesunu — silný argument pro udržitelnost.
+
+Jednání o pronájmu probíhají; cena pronájmu je vysoká, žádáme o slevu. Výsledek nebude znám před podáním žádosti.
+
+Záložní varianta: prostor v centru města (Šimonice / Žižkárna nebo obdobný), ověřován paralelně.
+
+*Pozn.: Stará pošta je dostupná až od 2029 a dle Anny Hořejší (kreativní ředitelka EHMK 2028) bude plně využita EHMK — nelze počítat jako variantu pro 2028.*
+
+---
+
+## Kompetence a reference realizačního partnera (Make More s.r.o.)
+
+Make More je česká organizace specializovaná na maker kulturu, vzdělávání v oblasti tvorby a digitálních technologií a budování kreativních komunit. Realizátor stojí za nejvýznamnějšími projekty maker scény v ČR a disponuje prokazatelnou kapacitou řídit mezinárodní projekty i velké kulturní akce.
+
+**Nejvýznamnější projekty:**
+
+- **FAB25 Czechia** (2025) — 25. světové setkání globální sítě FabLab, pořádané poprvé v 21leté historii eventu ve střední Evropě. Make More jako hlavní organizátor. **1 000+ účastníků z 55 zemí, 8 dnů, Praha + Brno.** Pod záštitou prezidenta Petra Pavla a předsedy vlády Petra Fialy. Spoluorganizátoři: Fab Foundation a MIT Center for Bits and Atoms. → [fab25.fabevent.org](https://fab25.fabevent.org)
+
+- **FAB-MAKER** (2025–2027, Erasmus+) — česko-německý přeshraniční projekt profesionalizace makerspaců, č. 2025-1-CZ01-KA210-ADU-000356531. Make More jako koordinátor; partner: Verbund Offener Werkstätten/VOW (zastřešující organizace 500+ německých open workshopů). Výstup: FAB-MAKER Handbook + závěrečná konference Maker Faire Praha 2027. → [fabmaker.eu](https://fabmaker.eu)
+
+- **EPIC-X** (EU/EISMEA) — konsorcium 12 evropských organizací podporující deeptech startupy vedené ženami z emerging/moderate innovator zemí (20 startupů, 1,2 mil. EUR). Make More přináší expertise v rapid prototypingu a propojování inovačních aktérů. → [epic-x.eu](https://epic-x.eu)
+
+- **Fórum tvorby a inovací** — česká platforma rozvíjená jako odkaz FAB25 Czechia. Konceptualizuje makerspace jako nástroj rozvoje města a regionu — přímé propojení s posláním Make & Design Lab. → [forumtvorbyainovaci.cz](https://forumtvorbyainovaci.cz)
+
+---
+
 ## Další obsahové informace
 - **Umělci / vystupující:** Maker influenceři (YouTube, online scéna) — vedení workshopů; designéři Jan Čtvrtník, Michal Trpák, David Síla — přednášky, ukázky procesu tvorby; Jiří Velev — architektura, vesmírná stanice; Adam Ur (kacadu.com) — 3D tisk a prototypování. Lektoři Make Edu.
 - **Vzdělávací vrstva / zapojení škol:** Ano. Dopolední programy pro ZŠ/SŠ třídy, 90 minut, tematické laby. Celkem 224 tříd (cca 5 000+ žáků).
 - **Dobrovolníci:** Ano. Asistenti na akcích, lektoři a opraváři (repair café) z místní komunity.
-- **Tvůrčí rezidenční pobyty:** Ano. Zvažujeme krátkodobé rezidence (1-2 týdny) zahraničních maker/designérů v Linzi - přednášky, workshopy.
+- **Tvůrčí rezidenční pobyty:** Ano. Zvažujeme krátkodobé rezidence (1-2 týdny) zahraničních maker/designérů — přednášky, workshopy.
 - **Vlastní opencall výzvy v rámci projektu:** Ano. 2 soutěže ročně (červen, prosinec) s reálným zadáním od firem nebo města.
