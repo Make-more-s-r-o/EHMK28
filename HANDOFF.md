@@ -6,6 +6,36 @@
 
 ---
 
+## Stav k 5. 7. 2026 (předává: Ondřej)
+
+> ⚠️ Ondřej odchází na dovolenou 5. 7. — dostupný je od cca 14. 7. **Deadline žádosti: 10. 7.**
+> Vede: Jana + Dan. Schůzka: **út 7. 7. 2026 od 15:00** (pozvánka od Lucky).
+
+### ✅ Co je hotové
+- **LoI Grand Garage (Linz):** e-mail s kindly reminder + přiložený LoI `.docx` odesláno na Jakoba. Jakob musí doplnit jen: company ID, email, podpis, datum + místo (Linz). Doplnit příjmení Jakoba před odesláním. **Kontakt po pondělí: Jana Moravcová** (je v CC).
+- **Žádost — texty (draft):** soubory `zadost/` jsou rozpracovány v GitHubu. Kompletní struktura 00–05. Klíčové části (popis projektu, kompetence MM, cílové skupiny, partneři, SMART cíle, projektový plán, průřezové hodnoty) jsou vyplněny. **Zbývá doplnit**: viz níže.
+- **Kompetence Make More:** FAB25 (1 000 lidí, 55 zemí), FAB-MAKER (Erasmus+), EPIC-X (EISMEA), Fórum tvorby a inovací — vše v `zadost/01-popis-projektu.md`.
+- **Místo realizace:** upřesněno — Výstaviště ČB jako preferovaná volba (jednání probíhají, záloha Šimonice/Žižkárna). Stará pošta není pro 2028 reálná.
+
+### 🔴 Co Dan musí dořešit — ROZPOČET
+1. **Tábory (čvc–srp) — chybí čísla:** V `strategie/rozpocet-pracovni-2028.md` jsou označeny jako "bez čísel". Udržitelnostní model po 2028 počítá s příměstskými tábory jako dalším příjmovým tokem — **Dan: doplň personál, materiál a cenu tábora.** Vstupné od škol (806 400 Kč/rok) je základ, tábory jsou přídavek.
+2. **Grant přes strop o 506k:** Vědomě na prahu. Dan ví co dělat (přesun nájmu do in-kind JVTP, levnější doprava, kofinance). **Vyřešit před 10. 7.**
+3. **Večerní program** — lektoři, materiál, cena večeru. Zatím bez čísel.
+
+### 🔴 Co Jana musí dořešit
+1. **LoI Kunstuniversität Linz / Creative Robotics** — Jana vede, potvrdit.
+2. **LoI Novák Design** (regionální partner) + upřesnit náklady na dopravu exponátů.
+3. **Profil JVTP** v `zadost/00-zakladni-info.md` — sekce "Představení žadatele" (profil, rok vzniku, reference). Je tam placeholder `[DOPLNIT Jana]`.
+4. **Realizační tým v žádosti** (`zadost/00-zakladni-info.md`) — kdo je obsahový garant a realizační garant za projekt? Doplnit jméno + kontakt.
+5. **Prostory** — výsledek callu o Šimonicích (2. 7., 14:00) a Žižkárně. Aktualizovat `zadost/01-popis-projektu.md` sekce Místo realizace, až bude konkrétnější.
+6. **Sazba režie** (20 vs. 25 %) — Jana ověří.
+
+### 🟡 Otevřené otázky (Ondřej zodpoví po návratu, ale jsou potřeba pro žádost)
+- **Q6 — Permakulturní obsah labů:** Jaké konkrétní moduly/workshopy mají permakulturní obsah? (Repair café a upcycling jsou v textech — ale chybí vazba na téma výzvy.) → **Jana/Dan: konzultujte s hodnotitelem nebo doplňte sami z logiky projektu.**
+- **Q7 — Realizační tým:** Kdo je jmenovitě obsahový garant a realizační garant? → Jana.
+
+---
+
 ## Stav k 29. 6. 2026 (předává: Dan)
 
 ### 📌 Vzkaz pro Ondřeje — ROZPOČET

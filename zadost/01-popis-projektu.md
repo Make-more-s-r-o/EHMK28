@@ -26,7 +26,7 @@ Záměrně pracujeme s širokým záběrem: neomezujeme se na jedno odvětví, p
 ### 2028 (realizace)
 - **cíl 1:** Do 12/2028 provozovat centrum min. 10 měsíců s min. 200 realizovanými školními programy (~5 000 návštěv žáků) a min. 40 veřejnými akcemi (~800 návštěv veřejnosti).
 - **cíl 2:** Do 12/2028 uspořádat min. 2 komunitní soutěže/výzvy (červen + prosinec) s min. 30 přihlášenými projekty a prezentací výstupů veřejnosti.
-- **cíl 3:** Do 12/2028 vyjednat podmínky trvalého provozu centra po EHMK — memorandum o pokračování s vlastníkem prostoru a min. 1 institucionálním partnerem.
+- **cíl 3:** Do 12/2028 vyjednat podmínky trvalého provozu centra po EHMK — memorandum o pokračování s vlastníkem prostoru a min. 1 institucionálním partnerem. Udržitelnostní model: JVTP drží prostor, Make More provozuje program komerčně — primární příjem školní vstupné (150 Kč/dítě, ~806 400 Kč/rok), doplněno příměstskými tábory a evening programem. Cílem je pokrýt provozní náklady z vlastních zdrojů bez závislosti na grantovém financování.
 
 ## Aktivity dle let
 - **2027 — přípravné aktivity:** Mapování komunity, budování sítě partnerů (2-3 setkání), příprava školního kurikula, 1. vlna propagační kampaně, studijní cesta k partnerovi v Linzi, stavebně-technická příprava prostoru v ČB.
