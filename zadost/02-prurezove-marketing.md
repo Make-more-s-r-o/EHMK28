@@ -4,6 +4,26 @@
 > dopad i soulad s cíli. Zapoj **grantovy-specialista**.
 
 ## Průřezové hodnoty a cíle ČB28 — praktická realizace
+
+### (Perma)kulturní přístup — jak se promítá do obsahu projektu
+
+Make & Design Lab nepracuje s permakulturou jako s metaforou — promítá se do struktury programu ve třech rovinách:
+
+**1. Péče o tvůrčí komunitu (princip provozování)**
+Centrum funguje jako sdílená infrastruktura: jedno vybavení, jeden prostor, mnoho uživatelů a tvůrců. Sdílení nástrojů, know-how a zázemí je permakulturní princip v praxi — stejný přístup ke zdrojům jako u sdílené zahrady. Místní iniciativy (spolky, zájmové skupiny, partnerské instituce) nejsou jen účastníci, ale spolutvůrci programu. STEAM neformální vzdělávání je pro nás nástrojem péče — o schopnosti a potenciál mladých lidí i dospělých v regionu.
+
+**2. Konkrétní laby s permakulturním obsahem**
+Program vychází z ověřeného konceptu (viz FabLab ZEVO Vráto, nerez. 2022–2024), kde byly definovány tematické laby. Pro Make & Design Lab plánujeme:
+
+- **GreenLab / Přírodní materiály** — workshopy s přírodními materiály (dřevo, hlína, přírodní vlákna), propojení s jihočeskými řemeslnými tradicemi; spolupráce s JČU, ENKI, Bio centrum AV ČR jako spolutvůrci obsahu
+- **SustainableLab / Digitální výroba on-demand** — "vyrobit přesně co potřebuješ, ne víc": 3D tisk, laser, CNC jako nástroj minimalizace odpadu; princip on-demand výroby místo sériové produkce
+- **Repair & Upcycle workshopy** — oprava a kreativní zpracování odpadového materiálu do nových objektů; v úzké spolupráci (nikoli v překryvu) s Kabinetem ČB, dlouholetým partnerem Make More v Maker Faire ČB a etablovaným Re-use centrem v regionu. Kabinet ČB se zaměřuje na komunální re-use; naše workshopy akcentují tvůrčí transformaci materiálu jako designový a vzdělávací proces.
+
+**3. Lokální materiály s lokálními partnery**
+Dramaturgicky usilujeme o to, aby workshopy vedené místními institucemi (JČU, AV ČR, VŠTE, ENKI a další) přirozeně obsadila témata lokality: jihočeská krajina, lokální suroviny, vztah k místu. Nemůžeme předjímat konkrétní program partnerů — ale permakulturní orientaci programu aktivně kurátorujeme.
+
+---
+
 - **Přístupnost:** Školní programy za symbolické vstupné (150 Kč/dítě), s možností hrazení dopravy z rozpočtu pro školy z periferií JčK. Veřejný program a repair café zdarma. Bezbariérový přízemní industriální prostor, variabilní výška pracovních stolů, informační materiály v jednoduché češtině a angličtině.
 - **Environmentální udržitelnost:** Koncept repair café (opravit místo vyhodit), upcycling workshopy (výroba z odpadových materiálů), digitální výroba on-demand (minimalizace materiálového odpadu), sdílení vybavení dílny (redukce spotřeby individuálních strojů), sezónní energeticky úsporný provoz.
 
