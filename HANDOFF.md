@@ -30,9 +30,11 @@
 5. **Prostory** — výsledek callu o Šimonicích (2. 7., 14:00) a Žižkárně. Aktualizovat `zadost/01-popis-projektu.md` sekce Místo realizace, až bude konkrétnější.
 6. **Sazba režie** (20 vs. 25 %) — Jana ověří.
 
-### 🟡 Otevřené otázky (Ondřej zodpoví po návratu, ale jsou potřeba pro žádost)
-- **Q6 — Permakulturní obsah labů:** Jaké konkrétní moduly/workshopy mají permakulturní obsah? (Repair café a upcycling jsou v textech — ale chybí vazba na téma výzvy.) → **Jana/Dan: konzultujte s hodnotitelem nebo doplňte sami z logiky projektu.**
-- **Q7 — Realizační tým:** Kdo je jmenovitě obsahový garant a realizační garant? → Jana.
+### 🟡 Rozhodnutí na Danovi + Janě
+
+**Q7 — Realizační tým** (`zadost/00-zakladni-info.md`, sekce Realizační tým):
+- **Obsahový garant:** Ondřej Kašpárek (nejblíže vizi, ale omezená kapacita) NEBO Patrik Seidel (Make Designers, víc kapacity). Ondřej je schopen být tváří projektu pro hodnotitele.
+- **Realizační garant:** Doporučení = Jana Moravcová za JVTP + Dan operativně za MM. Rozhodnutí na Janě + Danovi.
 
 ---
 

@@ -64,8 +64,17 @@
 -
 
 ## Realizační tým
-- **Obsahový garant/ka** (umělecký ředitel / dramaturg / kurátor): | tel: | mail:
-- **Realizační garant/ka** (projektový manažer/ka): | tel: | mail:
+
+> ⚠️ ROZHODNUTÍ NA DANOVI A JANĚ — Ondřej poskytl vodítko:
+
+- **Obsahový garant/ka** (umělecký ředitel / dramaturg / kurátor):
+  *Kandidáti: (A) Ondřej Kašpárek — nejblíže strategii a vizi, schopen být tváří; role ve firmě je však business developer, kapacita omezená. (B) Patrik Seidel (Make More, Make Designers) — bude mít více operativní kapacity. Jana + Dan rozhodnou.*
+  - A: Ondřej Kašpárek | ondrej@makemore.cz | [tel doplnit]
+  - B: Patrik Seidel | [email doplnit] | [tel doplnit]
+
+- **Realizační garant/ka** (projektový manažer/ka):
+  *Rozhodnutí na Janě + Danovi. Doporučení: Jana Moravcová (JVTP) jako formální realizační garant za žadatele + Dan (Make More) jako operativní vedoucí MM části.*
+  - Jana Moravcová | moravcova@jvtp.cz | +420 774 969 654
 
 ## Jak projekt rozvine vaši organizaci
 > Jak navazuje na dlouhodobé směřování žadatele.
