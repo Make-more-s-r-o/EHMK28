@@ -1,7 +1,31 @@
 # Úkoly — backlog projektu
 
-Stav k 2. 7. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývá ~8 dní. Hodnotící komise **21. 8.**
+Stav k 7. 7. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývají ~3 dny. Hodnotící komise **21. 8.**
 Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatní.
+
+---
+
+## 🔴 Nové ze schůzky 7. 7. (týdenní — finální sprint)
+
+> Zdroj: [`schuzky/2026-07-07-tydenni-schuzka-zapis.md`](schuzky/2026-07-07-tydenni-schuzka-zapis.md).
+> Účastníci: Dan, Lucka, Jana. **Kritická cesta:** ředitel Vojtěch (zpět čt 9. 7.) → potvrdí
+> partnerskou dohodu + finance → Jana předá rámce Danovi → Dan dopočítá rozpočet + AI draft →
+> Lucka finalizuje → **odeslat pá 10. 7. dopoledne** (Jana v pátek jen do ~15:30).
+> ⚠️ Čísla = NESCHVÁLENÝ DRAFT (Dan). **Nový rámec dotace 4 mil. / projekt 8 mil. = 50 %** —
+> pokud se potvrdí, řeší dřívější flag o překročení 50% stropu (viz KRITICKÝ COMPLIANCE FLAG níže).
+
+| # | Úkol | Vlastník | Termín | Stav |
+|---|---|---|---|---|
+| T1 | **Odchytit ředitele Vojtěcha ráno** — potvrdit partnerskou dohodu + finance (kolik lze dát Make More napřímo, výběrko), **předat Danovi finanční rámce** | Jana | čt 9. 7. | 🔴 blokuje rozpočet |
+| T2 | Požádat Vojtěcha, ať **zavolá na výstaviště** (prostor, podmínky, nájem ≤ ~25 tis./měs.) | Jana | čt 9. 7. | ⬜ |
+| T3 | Připravit **LOI od odboru kultury Jihočeského kraje** (předjednáno) | Jana | do 10. 7. | ⬜ |
+| T4 | Dopracovat **aktivity JVTP** v draftu + ladit Excel rozpočet za JVTP | Jana | 7.–8. 7. | 🟡 |
+| T5 | Sepsat **seznam otázek pro ředitele** pro doplnění rozpočtu | Dan | do čt 9. 7. ráno | ⬜ |
+| T6 | Po sumě od JVTP: dopočítat **rozpočet, harmonogram, počty dětí (3–5 tis.)**; **AI draft na paralelní verzi** (nepřepsat JVTP), pak validace | Dan | čt 9. → pá 10. 7. | 🔴 |
+| T7 | **Přeposlat Janě LOI Grand Garage**, jakmile dorazí | Dan | ASAP | ⬜ |
+| T8 | **Kontrola/finalizace** Danova AI draftu žádosti | Lucka | čt–pá 9.–10. 7. | ⬜ |
+| T9 | Specifikovat **marketingový balík ~400 tis.** — položky, KPI, rozdělení odpovědností (landing page pod JVTP, kampaně na školy) | Dan + Jana | do čt 9. 7. | ⬜ |
+| T10 | **Odeslání žádosti** e-mailem + XLSX + registrační formulář | Dan | **pá 10. 7. dopoledne** | ⬜ |
 
 ---
 

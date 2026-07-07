@@ -25,7 +25,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:dashboard:start -->
 | ⏳ Do uzávěrky | 🧩 Otevřená rozhodnutí | ✅ Úkoly | 📅 Poslední schůzka |
 |:-:|:-:|:-:|:-:|
-| **8 dní** | **4** | 6 ✅ · 6 🟡 · 29 ⬜ · 4 🔴 | 2026-07-02 |
+| **3 dny** | **4** | 6 ✅ · 7 🟡 · 36 ⬜ · 6 🔴 | 2026-07-07 |
 <!-- AUTO:dashboard:end -->
 
 ### 🔴 Co blokuje / čeká na rozhodnutí&nbsp;⟳
@@ -55,11 +55,11 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 30 | 2026-07-02 | V9 Ověřit režijní/nepřímé… |
-| ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 10 | 2026-07-02 | S2 LoI Grand Garage · V3 Zahraniční partner… · P1 Grand Garage Linz |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 31 | 2026-07-02 | V9 Ověřit režijní/nepřímé… |
+| ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 15 | 2026-07-05 | S2 LoI Grand Garage · V3 Zahraniční partner… · P1 Grand Garage Linz |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 | 👤 | **Lucka**<br><sub>Make more — grant. specialistka</sub> | 📝 bez GitHubu | — | — | — |
-| 👤 | **Jana Moravcová**<br><sub>JVTP — partner</sub> | 📝 bez GitHubu | — | — | S6 Žižkárnu · V3 Zahraniční partner… · V9 Ověřit režijní/nepřímé… · P3 Kunstuniversität Linz… |
+| 👤 | **Jana Moravcová**<br><sub>JVTP — partner</sub> | 📝 bez GitHubu | — | — | T4 aktivity JVTP · S6 Žižkárnu · V3 Zahraniční partner… · V9 Ověřit režijní/nepřímé… · P3 Kunstuniversität Linz… |
 <!-- AUTO:tym:end -->
 
 ---
@@ -82,6 +82,15 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 📅 Schůzky a zápisy&nbsp;⟳
 <!-- AUTO:schuzky:start -->
+### 2026-07-07 · Týdenní schůzka — finální sprint žádosti: rozpočet (rozdělení 2+2 mil.), fakturace a…
+- **Účastníci:** Dan (Make More), Lucka (Make More), Jana (JVTP) — **3 osoby** (potvrdil Dan 7. 7.)
+- 📄 Zápis: [2026-07-07-tydenni-schuzka-zapis.md](./schuzky/2026-07-07-tydenni-schuzka-zapis.md)
+
+<details><summary>Přepisy a porovnání (1)</summary>
+
+- [přepis Plaud AI](./schuzky/2026-07-07-tydenni-schuzka-prepis-plaud.md)
+</details>
+
 ### 2026-07-02 · Týdenní schůzka — Make & Design Lab: dopracování žádosti, Letters of Intent, fakturace a…
 - **Účastníci:** Dan, Ondřej, Lucka, Jana (JVTP) — **4 osoby** (potvrdil Dan 2. 7.)
 - 📄 Zápis: [2026-07-02-tydenni-schuzka-zapis.md](./schuzky/2026-07-02-tydenni-schuzka-zapis.md)
@@ -130,12 +139,13 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:ukoly:start -->
 | Sekce | ✅ | 🟡 | ⬜ | 🔴 |
 |---|:-:|:-:|:-:|:-:|
+| 🔴 Nové ze schůzky 7. 7. | 0 | 1 | 7 | 2 |
 | 🔴 Nové ze schůzky 2. 7. | 0 | 2 | 7 | 0 |
 | 🔴 Urgentní | 5 | 2 | 13 | 1 |
 | 🤝 Partneři | 1 | 2 | 2 | 1 |
 | ✍️ Obsah žádosti | 0 | 0 | 4 | 1 |
 | 📎 Přílohy a podání | 0 | 0 | 3 | 1 |
-| **Celkem** | **6** | **6** | **29** | **4** |
+| **Celkem** | **6** | **7** | **36** | **6** |
 
 ➡️ Detail, vlastníci a termíny → [UKOLY.md](./UKOLY.md)
 <!-- AUTO:ukoly:end -->
@@ -144,14 +154,14 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `9884243` 2026-07-05 · Ondřej Kašpárek — zadost + handoff: realizacni tym (Q7) — kandidati a rozhodnuti
+- `871f8f3` 2026-07-05 · Ondřej Kašpárek — zadost: permakulturni obsah (Q6) — tri roviny, konkretni laby
+- `75c4fa0` 2026-07-05 · Ondřej Kašpárek — zadost + handoff: udrzitelnost, taborovy prijem, predani pro Janu a Dana
+- `711a956` 2026-07-05 · Ondřej Kašpárek — zadost: doplnit kompetence MM, místo (Q3/Q4), JVTP data
+- `3ffb7aa` 2026-07-04 · Ondřej Kašpárek — Add Grand Garage follow-up email draft with LoI attached
+- `4e21341` 2026-07-02 · Dan Jirotka — Confirm 4 meeting participants, drop diarization artifacts
 - `9621a6a` 2026-07-02 · Dan Jirotka — Add filled application form (Claude draft, 2026-07-02 21:00)
 - `685c642` 2026-07-02 · Dan Jirotka — Add sprint plan, grant-scoring review and critical budget-cap flag
-- `18ff84e` 2026-07-02 · Dan Jirotka — Process 2026-07-02 weekly meeting: notes, tasks, project state
-- `4b9e0ff` 2026-07-02 · Ondřej Kašpárek — Update LoI and email: JVTP as formal applicant, Make More as implementation partner
-- `5a62bb3` 2026-07-02 · Ondřej Kašpárek — Add LoI draft for Grand Garage Linz (.docx + generator script)
-- `9b42bc5` 2026-07-02 · Ondřej Kašpárek — Add Grand Garage Linz email draft and LoI template
-- `a3ee2a7` 2026-07-02 · Dan Jirotka — Populate project description, plan, and budget tables in markdown files
-- `2f67ff1` 2026-07-02 · Dan Jirotka — Aktualizace názvu projektu: Make & Design Lab Co-Authored-By: Claude <claude@anthropic.com>
 <!-- AUTO:aktivita:end -->
 
 ---
@@ -179,5 +189,5 @@ Claude ti je sám nabídne, když se hodí. Vyžádat: *„zapoj grantového spe
 > [`schuzky/`](./schuzky/) — **needituj ho ručně**. Ostatní text uprav klidně přímo.
 
 <!-- AUTO:generated:start -->
-<sub>⟳ Nástěnka naposledy přegenerována 2026-07-02 · generuje <code>tools/generate-dashboard.mjs</code></sub>
+<sub>⟳ Nástěnka naposledy přegenerována 2026-07-07 · generuje <code>tools/generate-dashboard.mjs</code></sub>
 <!-- AUTO:generated:end -->

@@ -9,7 +9,21 @@
 > čísla níže jsou nástřely k diskusi — **nepoužívat v grantové žádosti bez explicitního
 > schválení.** Předání práce a další kroky viz `../HANDOFF.md`.
 
-**Poslední aktualizace:** 2. 7. 2026 (týdenní schůzka Make & Design Lab — viz `../schuzky/2026-07-02-tydenni-schuzka-zapis.md`)
+**Poslední aktualizace:** 7. 7. 2026 (týdenní schůzka — finální sprint; viz `../schuzky/2026-07-07-tydenni-schuzka-zapis.md`)
+
+## ▶ Kde pokračovat (po schůzce 7. 7. — finální sprint do 10. 7.)
+
+- **Kritická cesta:** ředitel JVTP **Vojtěch zpět čt 9. 7.** → potvrdí **partnerskou dohodu + finance**
+  (kolik lze dát Make More napřímo pod limit 750 tis.) → **Jana předá Danovi finanční rámce** →
+  Dan dopočítá rozpočet + napíše AI draft na **paralelní verzi** (nepřepsat JVTP) → **Lucka finalizuje**
+  → **odeslat pá 10. 7. dopoledne** (Jana v pátek jen do ~15:30; uzávěrka 10. 7. 23:59 CET).
+- **Rozpočtový rámec ~2 + 2 mil.** (Make More odborná složka + technologie / JVTP prostor, chod,
+  administrativa, kofinancování, marketing); **dotace 4 mil. / projekt 8 mil. = 50 %** — pokud se
+  potvrdí, **řeší dřívější flag o překročení 50% stropu.** ⚠️ Čísla NESCHVÁLENÝ DRAFT (Dan).
+- **Otevřené blokery:** partnerská dohoda (čeká na Vojtěcha), majetek/vlastnictví vybavení, prostor
+  (výstaviště — nájem ≤ ~25 tis./měs., Vojtěch má spojku), LOI (Grand Garage a Kunstuniversität
+  zatím nepřišly; Jana chystá LOI od odboru kultury JčK jako pojistku).
+- **Úkoly:** viz `../UKOLY.md` sekce „Nové ze schůzky 7. 7." (T1–T10).
 
 ## ▶ Kde pokračovat (po schůzce 2. 7.)
 
@@ -83,6 +97,20 @@
 - JVTP je „dlouhodobý velmi prověřený partner."
 
 ## Log rozhodnutí
+- 7. 7. 2026 — **Týdenní schůzka — finální sprint** (Dan, Lucka, Jana; ~27 min). Zápis:
+  `../schuzky/2026-07-07-tydenni-schuzka-zapis.md`, přepis Plaud `…-prepis-plaud.md` (file_id
+  `30b5f0d5a82c8be3cea4312f403043ff`). Závěry: **rozdělení rozpočtu ~2 + 2 mil.** (Make More odborný
+  program + technologie / JVTP prostor, chod, administrativa, kofinancování, marketing; dotace 4 mil.,
+  projekt ~8 mil. = **50 %**, řeší dřívější strop); **limit 750 tis. Kč** = bez výběrka (nová směrnice
+  JVTP), nad to rozdělit na logické celky přes více IČ (pozor dělení zakázky, právně ošetřit) —
+  **partnerskou dohodu musí potvrdit ředitel Vojtěch (zpět čt 9. 7.)**; **marketing ~400 tis. společně**,
+  landing page pod JVTP (ne nový web), + ~100 tis. kampaně na školy, doplňkově Smart Accelerator,
+  specifikovat KPI; **počet dětí 3 000 vs. 5 000** dle rozpočtu (otevření 2× vs. 4× týdně); **nájem
+  strop ~25 tis./měs.**; nový nápad **LOI od odboru kultury JčK** (Jana předjednáno); **harmonogram:**
+  podklady do čt 9. 7. večer → **odeslat pá 10. 7. dopoledne** (Jana v pátek do ~15:30). Dan píše
+  žádost s AI na paralelní verzi, Lucka finalizuje. ⚠️ Mluvčí: S1=Dan, S2=Jana (Lucka přítomna,
+  diarizace nerozlišila); AI summary halucinovalo termíny (uzávěrka „1. 10.", pátek „11. 7." — obojí
+  špatně, správně 10. 7.). Čísla = NESCHVÁLENÝ DRAFT (Dan).
 - 2. 7. 2026 — **Vyplněn formulář žádosti + tým (2 agenti) prošel obsah a plán.** Do XLSX
   `Rozpracovany_Formular…xlsx` (Downloads) vyplněn list PODROBNÝ POPIS (názvy, žánr [návrh],
   popis 1 větou, anotace, SMART cíle 2027/2028, aktivity, výstupy, obsahové info, průřezové
