@@ -32,6 +32,37 @@ Záměrně pracujeme s širokým záběrem: neomezujeme se na jedno odvětví, p
 - **2027 — přípravné aktivity:** Mapování komunity, budování sítě partnerů (2-3 setkání), příprava školního kurikula, 1. vlna propagační kampaně, studijní cesta k partnerovi v Linzi, stavebně-technická příprava prostoru v ČB.
 - **2028 — programové aktivity:** Dopolední školní programy (Po-Čt, 2 třídy/den, 28 týdnů), odpolední/večerní komunitní programy (repair café, otevřená dílna, přednášky), 2 komunitní soutěže (červen, prosinec), stálá výstava Design Lab (JVTP), design sprinty se startupy.
 
+### Klíčové aktivity Make More — podrobně
+> Dvě nosné aktivity za realizačního partnera (Make More). Čísla se doplní z rozpočtu.
+
+**A) Školní program v dílně — vlajková aktivita**
+Dopolední programy pro třídy ZŠ a SŠ přímo v **provozní maker dílně**. Děti nepracují „o
+technologiích", ale mají **ruce na strojích**: 3D tisk, laserové řezání, základní CNC, elektronika
+a pájení, práce se dřevem, digitální design. Každá třída projde **~90minutovým programem** v jednom
+z **tematických labů** (digitální výroba / řemeslo / design / technologie), vedeným týmem **1 mistr
++ 2 lektoři**, s výstupem „take-home" — dítě si odnáší vlastní výrobek. Kurikulum (min. 5 modulů)
+vzniká v přípravném roce 2027 a pilotně se ověřuje; navazuje na EHMK „Kreativní mysl 0–6" a osnovy
+ZŠ/SŠ. Provoz běží v sezónách (jaro únor–květen, podzim září–listopad, ~28 výukových týdnů),
+2 třídy/den. **Dopravu tříd z okrajových částí kraje hradí projekt**, aby dílnu dosáhly i školy mimo
+ČB. Dosah: **[počet tříd / dětí — dle rozpočtu]**. Proč jedinečné: v JčK obdoba science centra /
+otevřené maker dílny chybí; školní třídy jsou **stabilní, opakující se klientela** = jádro
+dlouhodobé udržitelnosti provozu i po roce 2028.
+
+**B) Návštěva a zapojení zahraničního partnera (Linz)**
+Zahraniční partner z Lince — **Grand Garage** (jedna z největších otevřených maker dílen ve střední
+Evropě, Tabakfabrik Linz), příp. **Kunstuniversität Linz / Creative Robotics** — vstupuje ve dvou
+fázích:
+- **2027 — mentoring a příprava:** **studijní návštěva realizačního týmu v Linci (podzim 2027)**;
+  přenos ověřeného provozně-komunitního modelu otevřené dílny — správa sdíleného vybavení,
+  bezpečnostní režim, členský a lektorský model, dramaturgie komunitních formátů; konzultace
+  kurikula a technického vybavení. Šetří roky vlastního hledání a snižuje riziko pilotu.
+- **2028 — host v ČB:** **workshop / přednáška / panel** zahraničního makera nebo designéra během
+  provozní sezóny — mezinárodní rozměr a prestiž pro EHMK, přímé napojení na evropskou maker
+  a design scénu.
+Partnerství je zároveň **odrazovým můstkem pro společné žádosti do EU fondů** (Creative Europe,
+Interreg Rakousko–ČR) — boduje se v kritériu rozpočtu. Výstup: přenesené know-how, **min. 1
+mezinárodní host** v programu 2028, základ pro pokračující spolupráci.
+
 ## Přehled hlavních výstupů
 | Výstup | Místo konání | Termín | Předpokládaná návštěvnost |
 |---|---|---|---|
