@@ -48,10 +48,35 @@ Tři obálky: **aktivity 1,3 mil. · koordinátor 0,5 mil. · marketing + rezerv
 - ⚠️ Počet dětí táhne **jen program (personál+materiál) a kapacita sezóny** — vybavení a doprava jsou
   fixní a počet dětí nezvyšují. Chceš víc dětí → přidej peníze na program (víc tříd/týdnů), ne na vybavení.
 
-### Harmonogram 2028 (provoz)
-- **leden** příprava sezóny (nábor tříd) · **únor–květen** jarní školní program (~17 týd) ·
-  **červen** ukázky + 1. soutěž · **čvc–srp** tábory (podmíněné, viz D) · **září–listopad** podzimní
-  program (~11 týd) · **prosinec** 2. soutěž, útlum. Vybavení a koordinace běží celoročně.
+## Harmonogram — měsíční, per aktivita (pro list „PROJEKTOVÝ PLÁN")
+
+> ● = aktivita běží v daném měsíci. Rozjezd 2027 **od jara** (po Projektové posilovně ~2–5/2027).
+> Podmíněné aktivity (tábory, večerní program) zde nejsou (viz D). Vlastník = navrhovaná odpovědnost.
+
+### 2027 — příprava
+| Aktivita | Vlastník | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|---|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Koordinace / projektové vedení | Dan / koordinátor | | | | ● | ● | ● | ● | ● | ● | ● | ● | ● |
+| Mapování komunity + networking | Ondřej | | | | ● | ● | ● | ● | | | | | |
+| Příprava kurikula + pilotní workshopy | Ondřej / Make Edu | | | | | | ● | ● | ● | ● | ● | | |
+| Komunikace — identita, web, registrace tříd | MM | | | | | | ● | ● | ● | ● | ● | ● | ● |
+| Studijní návštěva zahr. partnera (Linz) | Ondřej / MM | | | | | | | | | | ● | | |
+| Příprava a úprava prostoru (MM + JVTP) | Dan + Jana | | | | | | | | | | | ● | ● |
+
+### 2028 — realizace
+| Aktivita | Vlastník | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|---|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Koordinace / vedení provozu | Dan / koordinátor | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● |
+| Příprava prostoru (dokončení) | Dan + Jana | ● | ● | | | | | | | | | | |
+| Vybavení dílny — instalace + pronájem | Dan / MM | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● |
+| Program a provoz dílny (školní) | Dan / MM | | ● | ● | ● | ● | | | | ● | ● | ● | |
+| Doprava tříd z regionu | MM | | ● | ● | ● | ● | | | | ● | ● | ● | |
+| Komunitní soutěže (2×) | Ondřej / Dan | | | | | | ● | | | | | | ● |
+| Zahraniční spolupráce (host v ČB) | Ondřej / MM | | | | ● | | | | | | | | |
+| Propagace vlastních aktivit | MM | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● |
+
+> **Provoz školního programu:** jaro únor–květen (~17 týd) + podzim září–listopad (~11 týd) = ~28
+> výukových týdnů. Léto (čvc–srp) = mimo školní program (případné tábory jsou podmíněné, viz D).
 
 ---
 
