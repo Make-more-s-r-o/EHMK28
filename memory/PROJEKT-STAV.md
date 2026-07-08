@@ -9,7 +9,7 @@
 > čísla níže jsou nástřely k diskusi — **nepoužívat v grantové žádosti bez explicitního
 > schválení.** Předání práce a další kroky viz `../HANDOFF.md`.
 
-**Poslední aktualizace:** 7. 7. 2026 (týdenní schůzka — finální sprint; viz `../schuzky/2026-07-07-tydenni-schuzka-zapis.md`)
+**Poslední aktualizace:** 8. 7. 2026 (MM rozpočet a aktivity schváleny; viz `../strategie/mm-aktivity-2028.md`)
 
 ## ▶ Kde pokračovat (po schůzce 7. 7. — finální sprint do 10. 7.)
 
@@ -97,6 +97,17 @@
 - JVTP je „dlouhodobý velmi prověřený partner."
 
 ## Log rozhodnutí
+- 8. 7. 2026 — **MM rozpočet a aktivity SCHVÁLENY (Dan).** Kompletní podklad:
+  `../strategie/mm-aktivity-2028.md` („Make & Design Lab — Aktivity Make More"). MM podíl grantu
+  **2 mil. Kč za oba roky** (2027 = 320 tis., 2028 = 1 680 tis.), obálky **aktivity 1,3 / koordinátor
+  0,5 / marketing+rezerva 0,2 mil.** Program a provoz dílny 650 tis. → **~135 tříd / ~2 500 dětí**
+  (konzervativně, dosah dle poptávky mapované 2027); vstupné **100 Kč** → potenciální příjem ~250 tis.
+  na rozšiřující aktivity (tábory, víkendovky, gaming…). **Prostor, nájem a marketing celého projektu
+  = JVTP** (mimo MM 2 mil.); JVTP ~2 mil. doplní Jana → ~4 mil / ~8 mil = **50 %** (řeší dřívější strop).
+  Přidána aktivita **prezentace na Maker Faire ČB 2028** (září/říjen). MM garanti: **obsahový i realizační
+  = Ondřej Kašpárek**; finance vlastní **Daniel Jirotka**. Do formuláře (DRAFT-3) připraveny **2 verze**
+  doplnění MM (V1 in-place se zvýrazněním, V2 návrhy ve sloupcích D/E) — u Dana v Downloads (osobní
+  kontakty → mimo veřejné repo). ⚠️ Celkové % dosedne po JVTP čísle (Vojtěch čt 9. 7.).
 - 7. 7. 2026 — **Týdenní schůzka — finální sprint** (Dan, Lucka, Jana; ~27 min). Zápis:
   `../schuzky/2026-07-07-tydenni-schuzka-zapis.md`, přepis Plaud `…-prepis-plaud.md` (file_id
   `30b5f0d5a82c8be3cea4312f403043ff`). Závěry: **rozdělení rozpočtu ~2 + 2 mil.** (Make More odborný
