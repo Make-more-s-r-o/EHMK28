@@ -20,6 +20,39 @@ Tři obálky: **aktivity 1,3 mil. · koordinátor 0,5 mil. · marketing + rezerv
 
 ---
 
+## Klíčové aktivity Make More — podrobný popis
+> Dvě nosné aktivity za realizačního partnera. Rozpočet a měsíční harmonogram viz níže.
+
+**A) Školní program v dílně — vlajková aktivita**
+Dopolední programy pro třídy ZŠ a SŠ přímo v **provozní maker dílně**. Děti nepracují „o
+technologiích", ale mají **ruce na strojích**: 3D tisk, laserové řezání, základní CNC, elektronika
+a pájení, práce se dřevem, digitální design. Každá třída projde **~90minutovým programem** v jednom
+z **tematických labů** (digitální výroba / řemeslo / design / technologie), vedeným týmem **1 mistr
++ 2 lektoři**, s výstupem „take-home" — dítě si odnáší vlastní výrobek. Kurikulum (min. 5 modulů)
+vzniká v přípravném roce 2027 a pilotně se ověřuje; navazuje na EHMK „Kreativní mysl 0–6" a osnovy
+ZŠ/SŠ. Provoz běží v sezónách (jaro únor–květen, podzim září–listopad, ~28 výukových týdnů),
+2 třídy/den. **Dopravu tříd z okrajových částí kraje hradí projekt**, aby dílnu dosáhly i školy mimo
+ČB. Dosah: **~135 tříd / ~2 500 dětí** (dle rozpočtu, viz níže). Proč jedinečné: v JčK obdoba
+science centra / otevřené maker dílny chybí; školní třídy jsou **stabilní, opakující se klientela**
+= jádro dlouhodobé udržitelnosti provozu i po roce 2028.
+
+**B) Návštěva a zapojení zahraničního partnera (Linz)**
+Zahraniční partner z Lince — **Grand Garage** (jedna z největších otevřených maker dílen ve střední
+Evropě, Tabakfabrik Linz), příp. **Kunstuniversität Linz / Creative Robotics** — vstupuje ve dvou
+fázích:
+- **2027 — mentoring a příprava:** **studijní návštěva realizačního týmu v Linci (podzim 2027)**;
+  přenos ověřeného provozně-komunitního modelu otevřené dílny — správa sdíleného vybavení,
+  bezpečnostní režim, členský a lektorský model, dramaturgie komunitních formátů; konzultace
+  kurikula a technického vybavení. Šetří roky vlastního hledání a snižuje riziko pilotu.
+- **2028 — host v ČB:** **workshop / přednáška / panel** zahraničního makera nebo designéra během
+  provozní sezóny — mezinárodní rozměr a prestiž pro EHMK, přímé napojení na evropskou maker
+  a design scénu.
+Partnerství je zároveň **odrazovým můstkem pro společné žádosti do EU fondů** (Creative Europe,
+Interreg Rakousko–ČR) — boduje se v kritériu rozpočtu. Výstup: přenesené know-how, **min. 1
+mezinárodní host** v programu 2028, základ pro pokračující spolupráci.
+
+---
+
 ## Rozpočet MM — celkem 2 000 000 Kč (2027 + 2028)
 
 | Obálka | Položka | 2027 | 2028 | Σ (Kč) |
