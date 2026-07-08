@@ -1,5 +1,9 @@
 # Aktivity Make More — podklad pro žádost
 
+> ⛔ **ARCHIV — NEPOUŽÍVAT (překonáno 8. 7. 2026).** Drží starý model (MM 3,6 mil., provoz 10,2 měs).
+> **Aktuální MM scope + rozpočet (rámec 2 mil.) je v [`mm-aktivity-2028.md`](mm-aktivity-2028.md).**
+> Ponecháno jen pro historii.
+
 > Pracovní dokument. Připravil Ondřej 29. 6. 2026 jako vstup pro schůzku s Janou (30. 6., 14:00).
 > **Čísla jsou hrubé odhady — ke schválení Danem a k sladění s JVTP.**
 > Uznatelné náklady z dotace: honoráře OSVČ, pronájmy, materiál do 80k/kus, marketing, cestovné.

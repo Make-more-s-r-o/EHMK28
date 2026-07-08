@@ -25,7 +25,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:dashboard:start -->
 | ⏳ Do uzávěrky | 🧩 Otevřená rozhodnutí | ✅ Úkoly | 📅 Poslední schůzka |
 |:-:|:-:|:-:|:-:|
-| **3 dny** | **4** | 6 ✅ · 7 🟡 · 36 ⬜ · 6 🔴 | 2026-07-07 |
+| **2 dny** | **4** | 6 ✅ · 7 🟡 · 36 ⬜ · 6 🔴 | 2026-07-07 |
 <!-- AUTO:dashboard:end -->
 
 ### 🔴 Co blokuje / čeká na rozhodnutí&nbsp;⟳
@@ -55,7 +55,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 31 | 2026-07-02 | V9 Ověřit režijní/nepřímé… |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 32 | 2026-07-07 | V9 Ověřit režijní/nepřímé… |
 | ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 15 | 2026-07-05 | S2 LoI Grand Garage · V3 Zahraniční partner… · P1 Grand Garage Linz |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 | 👤 | **Lucka**<br><sub>Make more — grant. specialistka</sub> | 📝 bez GitHubu | — | — | — |
@@ -154,6 +154,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `e578ab8` 2026-07-07 · Dan Jirotka — Process 2026-07-07 weekly meeting: notes, tasks, project state
 - `9884243` 2026-07-05 · Ondřej Kašpárek — zadost + handoff: realizacni tym (Q7) — kandidati a rozhodnuti
 - `871f8f3` 2026-07-05 · Ondřej Kašpárek — zadost: permakulturni obsah (Q6) — tri roviny, konkretni laby
 - `75c4fa0` 2026-07-05 · Ondřej Kašpárek — zadost + handoff: udrzitelnost, taborovy prijem, predani pro Janu a Dana
@@ -161,7 +162,6 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 - `3ffb7aa` 2026-07-04 · Ondřej Kašpárek — Add Grand Garage follow-up email draft with LoI attached
 - `4e21341` 2026-07-02 · Dan Jirotka — Confirm 4 meeting participants, drop diarization artifacts
 - `9621a6a` 2026-07-02 · Dan Jirotka — Add filled application form (Claude draft, 2026-07-02 21:00)
-- `685c642` 2026-07-02 · Dan Jirotka — Add sprint plan, grant-scoring review and critical budget-cap flag
 <!-- AUTO:aktivita:end -->
 
 ---
@@ -189,5 +189,5 @@ Claude ti je sám nabídne, když se hodí. Vyžádat: *„zapoj grantového spe
 > [`schuzky/`](./schuzky/) — **needituj ho ručně**. Ostatní text uprav klidně přímo.
 
 <!-- AUTO:generated:start -->
-<sub>⟳ Nástěnka naposledy přegenerována 2026-07-07 · generuje <code>tools/generate-dashboard.mjs</code></sub>
+<sub>⟳ Nástěnka naposledy přegenerována 2026-07-08 · generuje <code>tools/generate-dashboard.mjs</code></sub>
 <!-- AUTO:generated:end -->

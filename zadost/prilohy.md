@@ -5,7 +5,7 @@
 | # | Příloha | Kdo zajistí | Stav | Pozn. |
 |---|---|---|---|---|
 | 1 | **Formulář projektu** — vyplněné všechny listy (= naše `zadost/` přepsané do XLSX) | tým | 🟡 | Draft: `zadost/Make-Design-Lab_formular_Claude-draft_2026-07-02_21-00.xlsx` (obsah + plán vyplněn; **finance a kontakty/tým prázdné** — dořeší Dan). Prázdný vzor: `podklady/8916-…-formular.xlsx` |
-| 2 | **Letter of Intent** ≥1 zahraničního partnera | vedouci-projektu | 🔴 | tvrdá podmínka, řešit hned |
+| 2 | **Letter of Intent** ≥1 zahraničního partnera | Ondřej / Jana | 🟡 | **Grand Garage: draft odeslán 8. 7.** (JVTP ↔ Grand Garage = TGW Future Wings GmbH; JVTP strana vyplněna vč. signatáře Vojtěch Stehel). Čeká na doplnění GG (rakouské IČO, tel., e-mail, podpis, datum/místo Linz). Pojistka: Kunstuniversität Linz (Jana), LOI odbor kultury JčK (Jana). |
 | 3 | **Zakládací listina / stanovy** žadatele + **výpis skutečných majitelů** | Dan | ⬜ | |
 | 4 | **Plná moc** statutárního zástupce | Dan | ⬜ | jen je-li relevantní |
 | 5 | **Odeslaný registrační formulář** | Dan | ⬜ | výzva neuvádí kanál/odkaz — dohledat na budejovice2028.eu/open-call |
