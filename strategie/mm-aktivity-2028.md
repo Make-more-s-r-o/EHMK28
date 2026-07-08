@@ -27,14 +27,25 @@ Tři obálky: **aktivity 1,3 mil. · koordinátor 0,5 mil. · marketing + rezerv
 Dopolední programy pro třídy ZŠ a SŠ přímo v **provozní maker dílně**. Děti nepracují „o
 technologiích", ale mají **ruce na strojích**: 3D tisk, laserové řezání, základní CNC, elektronika
 a pájení, práce se dřevem, digitální design. Každá třída projde **~90minutovým programem** v jednom
-z **tematických labů** (digitální výroba / řemeslo / design / technologie), vedeným týmem **1 mistr
-+ 2 lektoři**, s výstupem „take-home" — dítě si odnáší vlastní výrobek. Kurikulum (min. 5 modulů)
-vzniká v přípravném roce 2027 a pilotně se ověřuje; navazuje na EHMK „Kreativní mysl 0–6" a osnovy
-ZŠ/SŠ. Provoz běží v sezónách (jaro únor–květen, podzim září–listopad, ~28 výukových týdnů),
-2 třídy/den. **Dopravu tříd z okrajových částí kraje hradí projekt**, aby dílnu dosáhly i školy mimo
-ČB. Dosah: **~135 tříd / ~2 500 dětí** (dle rozpočtu, viz níže). Proč jedinečné: v JčK obdoba
-science centra / otevřené maker dílny chybí; školní třídy jsou **stabilní, opakující se klientela**
-= jádro dlouhodobé udržitelnosti provozu i po roce 2028.
+z **tematických labů** (digitální výroba / řemeslo / design / technologie) s výstupem „take-home".
+Kurikulum navazuje na EHMK „Kreativní mysl 0–6" a osnovy ZŠ/SŠ.
+
+**Klíčové parametry:**
+| Parametr | Hodnota |
+|---|---|
+| Formát | ~90 min, tematické laby, výstup „take-home" |
+| Tým na třídu | 1 mistr + 2 lektoři (IČO) |
+| Provoz | 2 třídy/den; sezóny únor–květen + září–listopad (~28 výukových týdnů) |
+| Doprava | hrazená z projektu (třídy z okrajových částí kraje) |
+| **Orientační dosah** | **~135 tříd · ~2 500 dětí / rok** *(orientační rámec, ne závazek — viz níže)* |
+
+**Cílová skupina a rozsah — obecně, dle poptávky:** žáci a studenti ZŠ/SŠ z Jihočeského kraje.
+Konkrétní objem a zaměření **nefixujeme dopředu** — v **přípravném roce 2027 zmapujeme reálnou
+poptávku** (školy, regiony, témata) a **program ušijeme na míru absorpční kapacitě kraje**. Čísla
+výše jsou proto orientační rámec podle rozpočtu, ne pevný slib.
+
+Proč jedinečné: v JčK obdoba science centra / otevřené maker dílny chybí; školní třídy jsou
+**stabilní, opakující se klientela** = jádro dlouhodobé udržitelnosti provozu i po roce 2028.
 
 **B) Návštěva a zapojení zahraničního partnera (Linz)**
 Zahraniční partner z Lince — **Grand Garage** (jedna z největších otevřených maker dílen ve střední
