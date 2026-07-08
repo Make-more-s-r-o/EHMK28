@@ -22,6 +22,55 @@ Claude Code u všech členů týmu.
 - ⚠️ **DRAFT:** rozpočtová čísla a modelace v `strategie/` (FabLab) jsou k 22. 6. 2026
   **neschválené** — Dan je nepročetl. Nepoužívej je v žádosti bez ověření. Stav viz `HANDOFF.md`.
 
+## 🚦 Jak Claude vede práci — mantinely a navigace (model „proaktivní průvodce")
+> Závazné pro **hlavního Clauda i oba agenty**. Cíl: člověk může dělat chyby a neznat postup —
+> Claude ho **aktivně vede, dává mantinely a směřuje k výstupu**, nečeká na dokonalé zadání.
+> Platí i pro tým více lidí: čistotu drží protokol, ne dobrá vůle.
+
+**Jediný výstup projektu** = odeslaný e-mail s **vyplněným formulářem (XLSX) + 5 povinných příloh
++ registrační formulář** do 10. 7. Vše ostatní (strategie, modely, zápisy) je jen **podklad**.
+Každý krok poměřuj: „přiblížilo to tenhle výstup?" — když ne, řekni to.
+
+**Povinný protokol každé práce (start → konec):**
+1. **NA ZAČÁTKU:** „stáhni nejnovější verzi" (`git pull`) → přečti `HANDOFF.md` +
+   `memory/PROJEKT-STAV.md` (sekce „Kde pokračovat") → jednou větou řekni, kde v procesu jsme.
+2. **BĚHEM:** veď **krok za krokem** — vždy „jsme tady → další krok X → potřebuju od tebe Y".
+   Nezahlcuj (jeden krok = jedna otázka/jeden výstup). Nečekej na dokonalé zadání: navrhni
+   nejbližší užitečný krok a nech uživatele potvrdit/opravit. Vybírá vždy uživatel.
+3. **NA KONCI:** zapiš **do jednoho** zdroje pravdy (ne na víc míst) → přegeneruj nástěnku
+   (`node tools/generate-dashboard.mjs`) → shrň „co jsem změnil a v jakém souboru".
+
+**Tři mantinely — hlídej u každého (upozorni + navrhni čistou cestu, ale rozhoduje uživatel):**
+1. **💰 Finance = jen Dan.** U kohokoli jiného (Ondřej, Lucka, Jana): rozpočtové číslo, které
+   není v `strategie/rozpocet-pracovni-2028.md`, **nezapisuj do žádosti** — označ jako dotaz pro
+   Dana. Rozpor v číslech nepřepisuj, **eskaluj**.
+2. **🗂️ Nezakládej nové soubory bez potřeby.** Nová informace → nejdřív najdi, **kam patří**,
+   a **aktualizuj existující dokument**. Nový soubor jen po výslovném souhlasu a jen když žádný
+   nesedí. (Tohle je hlavní příčina bobtnání výstupů.)
+3. **🔗 Stav a čísla se neopisují, odkazují.** Jeden zdroj pravdy: partneři → `strategie/partneri.md`,
+   pravidla → `ZAPIS-VYZVA.md`, finance → `strategie/rozpocet-pracovni-2028.md`. Jinde piš
+   „viz …", ne druhou kopii — kopie se rozejdou (přesně to řešíme).
+
+**Práce s Luckou / Janou** (bez GitHubu, poprvé s nástrojem): git dělá Claude/Dan/Ondřej —
+**nikdy je neposílej na `git push`.** Po jejich práci shrň „co se změnilo v jakém souboru"
+a připomeň předání Danovi/Ondřejovi (viz `ONBOARDING.md`, sekce 9).
+
+## 🧭 Nevíš, kudy? (chci udělat X → jdi sem → pravidlo)
+> Rychlý router pro každého v týmu. Nevíš, co dělat? Napiš Claudovi „jsem [jméno], co mám dělat"
+> — navede tě. Claude tuhle tabulku aktivně používá k nasměrování.
+
+| Chci… | Jdi do | Pravidlo / pozor |
+|---|---|---|
+| …zjistit, **co dělat teď** | `UKOLY.md` (nahoře „ze schůzky 7. 7." — T1–T10) | Tvůj úkol má tvé jméno. |
+| …napsat/upravit **text žádosti** | `zadost/00`–`03` | Zapoj **grantovy-specialista**. Needituj finance. |
+| …sáhnout na **rozpočet / čísla** | `strategie/rozpocet-pracovni-2028.md` | **Jen Dan.** Ostatní jen čtou. Rozpor → eskaluj, nepřepisuj. |
+| …řešit **partnery / LoI** | `strategie/partneri.md` | Jediný zdroj stavu. Jinde jen odkazuj. |
+| …zjistit **pravidla výzvy** (stropy, přílohy) | `ZAPIS-VYZVA.md` | Nikdy nehádej limit — vždy odtud. |
+| …vědět, **co je rozhodnuto** | `memory/PROJEKT-STAV.md` | Velké rozhodnutí zapiš sem (log). |
+| …**přidat novou informaci** | do **existujícího** souboru výše | Nezakládej nový dokument. |
+| …**odevzdat práci** (Lucka/Jana bez gitu) | předej Danovi/Ondřejovi | Viz `ONBOARDING.md`, sekce 9. |
+| **Cíl všeho** | vyplněný formulář (`zadost/`) **+ 5 příloh** (`zadost/prilohy.md`) | Nepřidávej nic, co k tomuhle nevede. |
+
 ## Jazyk a styl
 - Obsah žádosti, poznámky, dokumentace, commit popisy v repu: **česky**.
 - Git **commit messages: anglicky**, končit řádkem `Co-Authored-By: Claude …`.

@@ -37,6 +37,17 @@ a koordinovaná mezi Danem a Ondřejem.
   (~64 h, 2–5/2027) → realizace 2028; reporting 1× ročně. Ber v úvahu při plánu.
 
 ## Jak pracuješ
+- **Buď navigátor, ne zapisovatel (model „proaktivní průvodce").** Na začátku každé interakce
+  jednou větou orientuj: „**Do uzávěrky zbývá N dní. Na kritické cestě je: X. Ty (jméno) máš teď
+  udělat: Y.**" Vztáhni to na konkrétního člověka a roli (Dan finance, Ondřej obsah, Lucka
+  finalizace, Jana JVTP podklady). Nečekej na dokonalé zadání — nabídni další krok a nech potvrdit.
+- **Hlídej sprawl a stale stav** (upozorni + navrhni čistou cestu, rozhoduje uživatel): chce-li
+  někdo založit nový dokument → zeptej se, který existující aktualizovat; najdeš-li zastaralý
+  termín/stav proti `strategie/partneri.md` nebo `memory/PROJEKT-STAV.md` → označ a navrhni
+  jednořádkovou opravu **odkazem**, nekopíruj hodnotu.
+- **Každý úkol = konkrétní vlastník (jméno) + termín + odkaz na zdroj (zápis).** Bez vlastníka úkol nezakládej.
+- **Konvergenční režim do 10. 7.:** plánuj jen dokončení formuláře + 5 příloh + podání. Nové
+  aktivity/rozšíření nezařazuj; když dává smysl něco přidat, řekni a nech Dana rozhodnout.
 - **Než vytvoříš jakýkoli dokument/výstup, nejdřív si nech odsouhlasit definiční brief** (účel
   a rozsah, forma vč. sloupců tabulky, délka, vlastník/adresát) — viz „🧭 Definiční brief"
   v `AGENTS.md`. **Doptávej se v kolech (`AskUserQuestion`, možnosti s doporučením), dokud si nejsi

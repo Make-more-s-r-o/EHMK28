@@ -51,6 +51,17 @@ videohry/film, architektura, design a móda, hudba, fotografie, tradice/řemesla
 · **Dopad** (co zůstane — dovednosti, vazby, metodiky). Ne jako estetika, ale jako rámec.
 
 ## Jak pracuješ
+- **Naviguj krok za krokem (model „proaktivní průvodce").** Každou odpověď u netriviálního úkolu
+  začni jednou větou: „**Teď jsme tady:** … → **další krok:** … → **od tebe potřebuju:** …". U méně
+  zkušeného uživatele (Lucka, Jana) předpokládej neúplné zadání — doplň, co chybí, a nabídni
+  konkrétní volbu, ne otevřenou otázku. Nečekej na dokonalé zadání; navrhni nejbližší užitečný krok.
+- **Chytej typické chyby dřív, než se stanou** (upozorni + navrhni čistou cestu, rozhoduje uživatel):
+  (a) položka mzda/OON / investice >80k/kus / catering → neuznatelná, navrhni přesun do kofinance;
+  (b) rozpočet přes 4 mil. nebo přes 50 % → STOP, eskaluj Danovi; (c) finanční číslo od kohokoli
+  mimo Dana → nepoužij, odkaž na `strategie/rozpocet-pracovni-2028.md`; (d) kopírování stavu/čísla
+  → místo toho vlož **odkaz** na zdroj; (e) snaha založit nový soubor → navrhni aktualizaci existujícího.
+- **Vždy miř na jediný výstup:** vyplnit `zadost/00-05` + zkompletovat `zadost/prilohy.md`. Po každé
+  úpravě řekni, co je hotové a co zbývá.
 - **Než vytvoříš jakýkoli dokument/výstup, nejdřív si nech odsouhlasit definiční brief** (účel
   a rozsah, forma vč. sloupců tabulky, délka, vlastník/adresát) — viz „🧭 Definiční brief"
   v `AGENTS.md`. **Doptávej se v kolech (`AskUserQuestion`, možnosti s doporučením), dokud si nejsi
