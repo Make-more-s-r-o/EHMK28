@@ -1,4 +1,4 @@
-# Make & Design Lab — Aktivity Make More (realizační partner)
+# FINAL — MM zapojení a aktivity
 
 > **Účel:** jasně vymezit, **co Make More jako realizační partner doručí**, s rozpočtem,
 > dosahem a harmonogramem — a **co v tom NENÍ** (řeší JVTP nebo je mimo projekt).
@@ -13,7 +13,7 @@
 ## Make More jako partner projektu
 
 Make More je **realizační partner** projektu Make & Design Lab. **Grant MM ≈ 2 mil. Kč za oba roky.**
-Tři obálky: **aktivity 1,3 mil. · koordinátor 0,5 mil. · marketing + rezerva 0,2 mil.**
+Tři obálky: **aktivity 1,35 mil. · koordinátor 0,5 mil. · marketing + rezerva 0,15 mil.**
 - **Neřešíme prostor** — komunikaci i náklady na prostor/nájem drží **JVTP**.
 - **Neřešíme marketing celého projektu** — drží **JVTP**; Make More propaguje **jen vlastní aktivity**.
 - Těžiště MM = **odborný program a provoz dílny**, komunita a zahraniční spolupráce.
@@ -37,7 +37,7 @@ Kurikulum navazuje na EHMK „Kreativní mysl 0–6" a osnovy ZŠ/SŠ.
 | Tým na třídu | 1 mistr + 2 lektoři (IČO) |
 | Provoz | 2 třídy/den; sezóny únor–květen + září–listopad (~28 výukových týdnů) |
 | Doprava | hrazená z projektu (třídy z okrajových částí kraje) |
-| **Orientační dosah** | **~135 tříd · ~2 500 dětí / rok** *(orientační rámec, ne závazek — viz níže)* |
+| **Orientační dosah** | **~105 tříd · ~2 500 dětských návštěv · ~2 000 unikátních dětí / rok** *(orientační rámec, ne závazek — viz níže)* |
 
 **Cílová skupina a rozsah — obecně, dle poptávky:** žáci a studenti ZŠ/SŠ z Jihočeského kraje.
 Konkrétní objem a zaměření **nefixujeme dopředu** — v **přípravném roce 2027 zmapujeme reálnou
@@ -74,27 +74,33 @@ projektu navenek. Produkce v rámci propagace / rezervy — případný stánek/
 
 | Obálka | Položka | 2027 | 2028 | Σ (Kč) |
 |---|---|--:|--:|--:|
-| **Aktivity** (1,3 mil.) | Vybavení dílny — pronájem technologií (3D, laser, CNC, PC, AV), grant část | — | 450 000 | 450 000 |
-| | **Program: personál + materiál** → ~135 tříd / ~2 500 dětí | — | 650 000 | 650 000 |
+| **Aktivity** (1,35 mil.) | Vybavení dílny — pronájem technologií (3D, laser, CNC, PC, AV), grant část | — | 450 000 | 450 000 |
+| | **Program: personál + materiál** → ~105 tříd / ~2 500 návštěv / ~2 000 unikátních dětí | — | 650 000 | 650 000 |
 | | Nářadí + drobný mobiliář (rozjezd dílny) | — | 80 000 | 80 000 |
 | | Doprava tříd z regionu (veřejná varianta) | — | 40 000 | 40 000 |
 | | Komunitní soutěže 2× (červen + prosinec) | — | 50 000 | 50 000 |
-| | Zahraniční spolupráce (studijní cesta Linz) | 30 000 | — | 30 000 |
-| | *Σ aktivity* | *30 000* | *1 270 000* | ***1 300 000*** |
+| | Zahraniční spolupráce (Linz: studijní cesta 2027 + host/workshop 2028) | 40 000 | 40 000 | 80 000 |
+| | *Σ aktivity* | *40 000* | *1 310 000* | ***1 350 000*** |
 | **Koordinátor** (0,5 mil.) | Projektový koordinátor (IČO, 2 roky) | 200 000 | 300 000 | **500 000** |
-| **Marketing + rezerva** (0,2 mil.) | Propagace vlastních aktivit (identita 2027 + provoz 2028) | 90 000 | 50 000 | 140 000 |
-| | Adhoc rezerva | — | 60 000 | 60 000 |
-| | *Σ* | *90 000* | *110 000* | ***200 000*** |
+| **Marketing + rezerva** (0,15 mil.) | Propagace vlastních aktivit (identita 2027 + provoz 2028) | 80 000 | 40 000 | 120 000 |
+| | Adhoc rezerva | — | 30 000 | 30 000 |
+| | *Σ* | *80 000* | *70 000* | ***150 000*** |
 | **CELKEM** | | **320 000** | **1 680 000** | **2 000 000** |
 
 - **2027 = 320 tis.** → pod capem přípravy 800 tis. ✓ · **2028 = 1 680 tis.** · **Σ = 2 mil.** ✓
 - Stropy: MM 2 + JVTP ~2 = 4 mil. / projekt ~8 mil. = **50 %** ✓ (řeší dřívější flag; JVTP číslo čeká na Vojtěcha).
 
 ### Program a provoz dílny — jednotková ekonomika (jak vzniká počet dětí)
-- Tým **1 mistr (500 Kč/h) + 2 lektoři (2× 250)** = 1 000 Kč/h × 6 h = 6 000 Kč/den; 2 třídy/den.
-- **Jednotka: 1 třída (24 dětí) = 4 800 Kč** (personál 3 000 + materiál 75 Kč × 24 = 1 800) = **200 Kč / dětská návštěva**.
-- **Program 650 000 Kč → ~135 tříd → ~3 250 návštěv ≈ ~2 500 unikátních dětí** (÷1,3).
-- Frekvence: ~135 tříd / 28 výukových týdnů ≈ **~5 tříd/týden** (≈ 2–3 dny provozu/týd, 2 třídy/den).
+- **Formát:** 1 třída = cca 24 dětí; samotný program cca 90 min. Rozpočtově počítáme **3 hodiny týmu
+  na třídu** (příprava stanovišť a materiálu, bezpečnostní instruktáž, program, úklid/reset dílny,
+  evidence výstupů a krátká koordinace s učitelem).
+- **Personál na třídu:** mistr **550 Kč/h × 3 h = 1 650 Kč**; 2 lektoři **2 × 350 Kč/h × 3 h = 2 100 Kč**.
+  Personál celkem = **3 750 Kč / třída**.
+- **Materiál na třídu:** **100 Kč × 24 dětí = 2 400 Kč** (spotřební materiál a take-home výstup).
+- **Jednotka: 1 třída (24 dětí) = 6 150 Kč** (personál 3 750 + materiál 2 400) = **cca 256 Kč / dětská návštěva**.
+- **Program 650 000 Kč → ~105 tříd → ~2 500 dětských návštěv ≈ ~2 000 unikátních dětí** (konzervativně,
+  protože část dětí se může zapojit opakovaně v návazných workshopech, soutěžích nebo prezentacích).
+- Frekvence: ~105 tříd / 28 výukových týdnů ≈ **~4 třídy/týden** (≈ 2 dny provozu/týd, 2 třídy/den).
 - ⚠️ Počet dětí táhne **jen program (personál+materiál) a kapacita sezóny** — vybavení a doprava jsou
   fixní a počet dětí nezvyšují. Chceš víc dětí → přidej peníze na program (víc tříd/týdnů), ne na vybavení.
 
@@ -152,7 +158,7 @@ projektu navenek. Produkce v rámci propagace / rezervy — případný stánek/
 > potvrzený vlastní příjem (viz níže) nebo navýšení rozpočtu.
 
 **Potenciální vlastní příjem (k potvrzení):** vstupné **100 Kč / návštěva** →
-**≈ 250 tis. Kč/rok** (~2 500 platících dětí × 100 Kč). Musí se **potvrdit** (cena, poměr platících).
+**≈ 250 tis. Kč/rok** (~2 500 platících návštěv × 100 Kč). Musí se **potvrdit** (cena, poměr platících).
 Tyto peníze by šly **právě na rozšiřující aktivity níže**, na které teď v grantu není keš.
 
 **Rozšiřující aktivity (podmíněné, bez krytí v grantu):**

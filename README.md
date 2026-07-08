@@ -55,7 +55,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 <!-- AUTO:tym:start -->
 | | Člověk | Přístup | Commitů | Poslední | Dělá teď (🟡) |
 |:-:|---|:-:|:-:|:-:|---|
-| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 41 | 2026-07-08 | V9 Ověřit režijní/nepřímé… |
+| ![](https://github.com/makerfaireczech.png?size=32) | **Dan Jirotka**<br><sub><a href="https://github.com/makerfaireczech">@makerfaireczech</a></sub> | 🔑 Admin | 42 | 2026-07-08 | V9 Ověřit režijní/nepřímé… |
 | ![](https://github.com/ondrej-kasparek-mm.png?size=32) | **Ondřej Kašpárek**<br><sub><a href="https://github.com/ondrej-kasparek-mm">@ondrej-kasparek-mm</a></sub> | ✍️ Write | 15 | 2026-07-05 | S2 LoI Grand Garage · V3 Zahraniční partner… · P1 Grand Garage Linz |
 | ![](https://github.com/stratilabs.png?size=32) | <a href="https://github.com/stratilabs">@stratilabs</a> | 👁️ Read | — | — | — |
 | 👤 | **Lucka**<br><sub>Make more — grant. specialistka</sub> | 📝 bez GitHubu | — | — | — |
@@ -154,6 +154,7 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 
 ## 🕓 Poslední aktivita&nbsp;⟳
 <!-- AUTO:aktivita:start -->
+- `6b413cc` 2026-07-08 · Dan Jirotka — Log MM budget+activities approval (2M, 2026-07-08) to project state
 - `ed51951` 2026-07-08 · Dan Jirotka — Add Maker Faire CB 2028 presentation as MM activity (Sep/Oct, date TBD)
 - `7bcd0a0` 2026-07-08 · Dan Jirotka — Approve MM activities doc; title it, fix entrance income to 250k
 - `b1f8563` 2026-07-08 · Dan Jirotka — Expand section D: extension activities wishlist + potential entrance-fee income
@@ -161,7 +162,6 @@ s gitem (generuje [`tools/generate-dashboard.mjs`](./tools/generate-dashboard.mj
 - `88a6aa4` 2026-07-08 · Dan Jirotka — Consolidate MM activities into single sendable doc
 - `546bf58` 2026-07-08 · Dan Jirotka — Elaborate two flagship MM activities in project description
 - `6f0a407` 2026-07-08 · Dan Jirotka — Add monthly per-activity schedule (Gantt) to MM activities doc
-- `2c4bb51` 2026-07-08 · Dan Jirotka — Add MM activities+budget draft (2M, both years); update LoI status
 <!-- AUTO:aktivita:end -->
 
 ---

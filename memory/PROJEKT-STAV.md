@@ -9,7 +9,7 @@
 > čísla níže jsou nástřely k diskusi — **nepoužívat v grantové žádosti bez explicitního
 > schválení.** Předání práce a další kroky viz `../HANDOFF.md`.
 
-**Poslední aktualizace:** 8. 7. 2026 (MM rozpočet a aktivity schváleny; viz `../strategie/mm-aktivity-2028.md`)
+**Poslední aktualizace:** 8. 7. 2026 (MM rozpočet a aktivity schváleny; viz `../strategie/final-mm-zapojeni-a-aktivity.md`)
 
 ## ▶ Kde pokračovat (po schůzce 7. 7. — finální sprint do 10. 7.)
 
@@ -98,12 +98,14 @@
 
 ## Log rozhodnutí
 - 8. 7. 2026 — **MM rozpočet a aktivity SCHVÁLENY (Dan).** Kompletní podklad:
-  `../strategie/mm-aktivity-2028.md` („Make & Design Lab — Aktivity Make More"). MM podíl grantu
-  **2 mil. Kč za oba roky** (2027 = 320 tis., 2028 = 1 680 tis.), obálky **aktivity 1,3 / koordinátor
-  0,5 / marketing+rezerva 0,2 mil.** Program a provoz dílny 650 tis. → **~135 tříd / ~2 500 dětí**
-  (konzervativně, dosah dle poptávky mapované 2027); vstupné **100 Kč** → potenciální příjem ~250 tis.
-  na rozšiřující aktivity (tábory, víkendovky, gaming…). **Prostor, nájem a marketing celého projektu
-  = JVTP** (mimo MM 2 mil.); JVTP ~2 mil. doplní Jana → ~4 mil / ~8 mil = **50 %** (řeší dřívější strop).
+  `../strategie/final-mm-zapojeni-a-aktivity.md` („FINAL — MM zapojení a aktivity"). MM podíl grantu
+  **2 mil. Kč za oba roky** (2027 = 320 tis., 2028 = 1 680 tis.), obálky **aktivity 1,35 / koordinátor
+  0,5 / marketing+rezerva 0,15 mil.** Program a provoz dílny 650 tis. → **~105 tříd / ~2 500 dětských
+  návštěv / ~2 000 unikátních dětí** (konzervativně, dosah dle poptávky mapované 2027); vstupné
+  **100 Kč / návštěva** → potenciální příjem ~250 tis. na rozšiřující aktivity (tábory, víkendovky,
+  gaming…). **Linz 80 tis.** (40 tis. studijní cesta 2027 + 40 tis. host/workshop 2028). **Prostor,
+  nájem a marketing celého projektu = JVTP** (mimo MM 2 mil.); JVTP ~2 mil. doplní Jana → ~4 mil /
+  ~8 mil = **50 %** (řeší dřívější strop).
   Přidána aktivita **prezentace na Maker Faire ČB 2028** (září/říjen). MM garanti: **obsahový i realizační
   = Ondřej Kašpárek**; finance vlastní **Daniel Jirotka**. Do formuláře (DRAFT-3) připraveny **2 verze**
   doplnění MM (V1 in-place se zvýrazněním, V2 návrhy ve sloupcích D/E) — u Dana v Downloads (osobní
