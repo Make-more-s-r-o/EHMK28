@@ -1,14 +1,14 @@
-# Aktivity Make More — co doručíme jako partner (scope + rozpočet + harmonogram)
+# Make & Design Lab — Aktivity Make More (realizační partner)
 
-> **Účel:** jasně vymezit, **co Make More jako realizační partner doručí**, s orientačním
-> rozpočtem, dosahem a harmonogramem — a **co v tom NENÍ** (řeší JVTP nebo je mimo projekt).
+> **Účel:** jasně vymezit, **co Make More jako realizační partner doručí**, s rozpočtem,
+> dosahem a harmonogramem — a **co v tom NENÍ** (řeší JVTP nebo je mimo projekt).
 > Podklad pro doplnění MM částí do formuláře a pro dělbu MM ↔ JVTP.
 
-> [!CAUTION]
-> **Finance vlastní Dan. Čísla = NESCHVÁLENÝ DRAFT.** Jednotkové ceny odvozené z
-> `rozpocet-pracovni-2028.md`. **Rámec: MM grant max 2 mil. Kč za OBA roky (2027 + 2028).**
-> **JVTP náklady sem NEPATŘÍ. Kofinanc zatím neřešíme.** Rozhodnutí 2+2 (dotace 4 mil. /
-> projekt 8 mil. = 50 %) ze 7. 7. čeká na finální sumu JVTP (čt 9. 7.).
+> [!NOTE]
+> **MM aktivity a jejich rozpočtový rámec (2 mil. Kč za oba roky 2027+2028) SCHVÁLIL Dan (8. 7. 2026).**
+> Jednotkové ceny z `rozpocet-pracovni-2028.md`. **JVTP náklady sem NEPATŘÍ.** Kofinanc (mimo
+> vstupné) zatím neřešíme. Finální sladění s dílem JVTP a stropy (2+2: dotace 4 mil. / projekt
+> 8 mil. = 50 %) po sumě od ředitele JVTP (čt 9. 7.).
 
 ## Make More jako partner projektu
 
@@ -145,9 +145,8 @@ mezinárodní host** v programu 2028, základ pro pokračující spolupráci.
 > potvrzený vlastní příjem (viz níže) nebo navýšení rozpočtu.
 
 **Potenciální vlastní příjem (k potvrzení):** vstupné **100 Kč / návštěva** →
-**≈ 250–325 tis. Kč/rok** (250 tis. při ~2 500 platících dětech, ~325 tis. při ~3 250 návštěvách).
-Musí se **potvrdit** (cena, poměr platících, per návštěva vs per dítě). Tyto peníze by šly **právě
-na rozšiřující aktivity níže**, na které teď v grantu není keš.
+**≈ 250 tis. Kč/rok** (~2 500 platících dětí × 100 Kč). Musí se **potvrdit** (cena, poměr platících).
+Tyto peníze by šly **právě na rozšiřující aktivity níže**, na které teď v grantu není keš.
 
 **Rozšiřující aktivity (podmíněné, bez krytí v grantu):**
 - **Příměstské tábory (čvc–srp)** — letní program, samostatný personál/materiál + vlastní příjem.
