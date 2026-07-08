@@ -139,13 +139,24 @@ mezinárodní host** v programu 2028, základ pro pokračující spolupráci.
 
 ---
 
-## D) Podmíněné / otevřené (bez čísel — čeká na rozhodnutí)
+## D) Rozšiřující aktivity — co bychom rádi dělali, ale teď na to není keš
 
-- **Příměstské tábory (čvc–srp)** — samostatný personál, materiál a příjem; **zatím nerozpočtováno.**
-  Buď dopočítat (Dan), nebo z formuláře vyškrtnout jako slib bez krytí.
-- **Večerní / komunitní program** (repair café, maker evening) — z velké části z vlastních zdrojů
-  komunity + koordinace koordinátora; rozsah a případný extra rozpočet k rozhodnutí.
-- **Tvůrčí rezidence** zahr. makerů/designérů (1–2 týdny) — zvažováno, závisí na partnerovi.
+> Aktivity nad rámec grantových 2 mil. Rozjely by se, **kdyby přišel další zdroj** — zejména
+> potvrzený vlastní příjem (viz níže) nebo navýšení rozpočtu.
+
+**Potenciální vlastní příjem (k potvrzení):** vstupné **100 Kč / návštěva** →
+**≈ 250–325 tis. Kč/rok** (250 tis. při ~2 500 platících dětech, ~325 tis. při ~3 250 návštěvách).
+Musí se **potvrdit** (cena, poměr platících, per návštěva vs per dítě). Tyto peníze by šly **právě
+na rozšiřující aktivity níže**, na které teď v grantu není keš.
+
+**Rozšiřující aktivity (podmíněné, bez krytí v grantu):**
+- **Příměstské tábory (čvc–srp)** — letní program, samostatný personál/materiál + vlastní příjem.
+- **Večerní / komunitní program** — repair café, maker evening, přednášky (nad rámec základní kurace).
+- **Víkendové akce** — mini Maker Faire, open day, festivaly výstupů.
+- **Rozšíření provozu na 4 dny/týden** — víc odbavených dětí (víc personálu i materiálu).
+- **Tvůrčí rezidence** zahr. makerů/designérů (1–2 týdny) — workshop + výstup.
+- **Gaming / herní tvorba** — linka reagující na chybějící scénu v JčK.
+- **Mobilní dílna / výjezdy** do vzdálenějších škol, které do ČB nedojedou.
 
 ---
 
