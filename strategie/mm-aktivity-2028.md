@@ -62,6 +62,12 @@ Partnerství je zároveň **odrazovým můstkem pro společné žádosti do EU f
 Interreg Rakousko–ČR) — boduje se v kritériu rozpočtu. Výstup: přenesené know-how, **min. 1
 mezinárodní host** v programu 2028, základ pro pokračující spolupráci.
 
+**C) Prezentace na Maker Faire České Budějovice 2028**
+Přehlídka výstupů dílny a komunity na **Maker Faire České Budějovice 2028** (**září / říjen 2028,
+přesný termín TBD**) — veřejná prezentace prototypů, projektů dětí a tvůrců, propojení s celostátní
+sítí Maker Faire (Make more je jejím provozovatelem). Vrchol podzimní sezóny a viditelný výstup
+projektu navenek. Produkce v rámci propagace / rezervy — případný stánek/produkci upřesnit.
+
 ---
 
 ## Rozpočet MM — celkem 2 000 000 Kč (2027 + 2028)
@@ -118,6 +124,7 @@ mezinárodní host** v programu 2028, základ pro pokračující spolupráci.
 | Komunitní soutěže (2×) | Ondřej / Dan | | | | | | ● | | | | | | ● |
 | Zahraniční spolupráce (host v ČB) | Ondřej / MM | | | | ● | | | | | | | | |
 | Propagace vlastních aktivit | MM | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● |
+| Prezentace na Maker Faire ČB 2028 (termín TBD) | Ondřej / MM | | | | | | | | | ● | ● | | |
 
 > **Provoz školního programu:** jaro únor–květen (~17 týd) + podzim září–listopad (~11 týd) = ~28
 > výukových týdnů. Léto (čvc–srp) = mimo školní program (případné tábory jsou podmíněné, viz D).
