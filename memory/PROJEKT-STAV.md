@@ -3,55 +3,32 @@
 > Sdílená paměť týmu. Sem zapisujte rozhodnutí a aktuální stav, ať to oba vidí. Aktualizujte
 > po každém větším kroku. (Detaily podmínek = `../ZAPIS-VYZVA.md`, úkoly = `../UKOLY.md`.)
 
-> [!CAUTION]
-> **ROZPOČTOVÁ ČÍSLA A MODELACE = NESCHVÁLENÝ DRAFT.** Dan je k 22. 6. 2026 nepročetl ani
-> neschválil. Vše v `../strategie/rozpocet-*.md`, `../strategie/one-pager-jvtp.md` a rozpočtová
-> čísla níže jsou nástřely k diskusi — **nepoužívat v grantové žádosti bez explicitního
-> schválení.** Předání práce a další kroky viz `../HANDOFF.md`.
+> [!NOTE]
+> **MM rozpočet a aktivity SCHVÁLENY Danem (8. 7. 2026)** — jediný MM zdroj
+> `../strategie/final-mm-zapojeni-a-aktivity.md`, finance `../strategie/rozpocet-pracovni-2028.md`.
+> Zbývá **finální díl JVTP** (číslo od Vojtěcha) → pak celkové % dosedne na 50 %. Historické
+> modelace jsou v `../strategie/archiv/`. Předání a další kroky viz `../HANDOFF.md`.
 
-**Poslední aktualizace:** 8. 7. 2026 (MM rozpočet a aktivity schváleny; viz `../strategie/final-mm-zapojeni-a-aktivity.md`)
+**Poslední aktualizace:** 9. 7. 2026 (repo-úklid + archiv; MM díl schválen, den před uzávěrkou)
 
-## ▶ Kde pokračovat (po schůzce 7. 7. — finální sprint do 10. 7.)
+## ▶ Kde pokračovat (stav k 9. 7. — den před uzávěrkou)
 
-- **Kritická cesta:** ředitel JVTP **Vojtěch zpět čt 9. 7.** → potvrdí **partnerskou dohodu + finance**
-  (kolik lze dát Make More napřímo pod limit 750 tis.) → **Jana předá Danovi finanční rámce** →
-  Dan dopočítá rozpočet + napíše AI draft na **paralelní verzi** (nepřepsat JVTP) → **Lucka finalizuje**
-  → **odeslat pá 10. 7. dopoledne** (Jana v pátek jen do ~15:30; uzávěrka 10. 7. 23:59 CET).
-- **Rozpočtový rámec ~2 + 2 mil.** (Make More odborná složka + technologie / JVTP prostor, chod,
-  administrativa, kofinancování, marketing); **dotace 4 mil. / projekt 8 mil. = 50 %** — pokud se
-  potvrdí, **řeší dřívější flag o překročení 50% stropu.** ⚠️ Čísla NESCHVÁLENÝ DRAFT (Dan).
-- **Otevřené blokery:** partnerská dohoda (čeká na Vojtěcha), majetek/vlastnictví vybavení, prostor
-  (výstaviště — nájem ≤ ~25 tis./měs., Vojtěch má spojku), LOI (Grand Garage a Kunstuniversität
-  zatím nepřišly; Jana chystá LOI od odboru kultury JčK jako pojistku).
-- **Úkoly:** viz `../UKOLY.md` sekce „Nové ze schůzky 7. 7." (T1–T10).
+- **MM díl SCHVÁLEN (Dan, 8. 7.):** rozpočet 2 mil. + aktivity + harmonogram → `../strategie/final-mm-zapojeni-a-aktivity.md`.
+  Program 650 tis. → **~105 tříd / ~2 500 návštěv ≈ ~2 000 unik. dětí** (mistr 550/h, lektoři 350/h,
+  3 h/třída, materiál 100 Kč); vstupné 100 Kč → příjem ~250 tis. na rozšiřující aktivity.
+- **Formulář:** finální XLSX u Dana (`Downloads/FinalVerze…`), MM texty i finance sladěné. Zbývá
+  **projektový plán**, **JVTP části**, oprava mailu realizačního garanta (Jana), rozhodnutí
+  **flat-rate jako cofinance** (≤ 20 % podpory).
+- **Do podání (pá 10. 7. dopoledne, uzávěrka 23:59 CET):** JVTP číslo od Vojtěcha → dopočítat celkové
+  % (cíl 4/8 = **50 %**) → dokončit formulář → **4 přílohy e-mailem** na `opencall@budejovice2028.cz`
+  (formulář XLSX, LoI, stanovy+výpis majitelů JVTP, plná moc) + **registrační Google formulář** (Jana za JVTP).
+- **Otevřené blokery:** **LoI podpis** (Grand Garage, `jakob.aigner@grandgarage.eu`), **přílohy JVTP**
+  (stanovy, výpis majitelů, plná moc), partnerská dohoda, prostor (výstaviště ≤ ~25 tis./měs.).
+- **Po podání — zakonzervování:** snapshot odeslaného + `git tag`, archiv verzí, learnings; repo → private
+  (plán schválen 9. 7.).
 
-## ▶ Kde pokračovat (po schůzce 2. 7.)
-
-- **Dan dnes odpoledne:** naplnit koncept žádosti přes AI z podkladů (kopie formuláře, na Drive), doplnit pole zahr./regionálního partnera, poslat záměr Martině.
-- **LoI trojice:** Grand Garage (Ondřej, do pá 3. 7. — před retreatem; draft už v `../komunikace/`), Kunstuniversität Linz / Creative Robotics (Jana), Novák Design (Jana, regionální design partner).
-- **Jana:** režie 20 vs. 25 %, prostory (Šimonice call 2. 7. 14:00, Žižkárna), partnerská dohoda přes Vojtu, část JVTP do žádosti (út–st 7.–8. 7.).
-- **Registrace podána** — projekt registrován, předběžně „z těch lepších“ (Martina); **komise 21. 8.**
-- **Dostupnost příští týden:** Ondřej retreat (nedostupný), Lucka omezeně, 6. 7. svátek. **Schůzka út 7. 7. 15:00 online** (pozvánka Lucka).
-
-## ▶ Kde pokračovat (finální sprint do 10. 7. — po schůzce 30. 6.)
-
-- **🔴 Rozpočet pod 3,5 mil. Kč** — agregát aktivit/vybavení je nyní ~4,5 mil., nad limitem. Určit škrty + optimalizace (zápůjčka/pronájem vybavení Design Labu místo nákupu). Vlastní **Dan**.
-- **🔴 Letter of Intent zahr. partnera do 5. 7.** — kontakty navázány (Grand Garage Linz + Kunstuniversität Linz); Ars Electronica se neoslovuje. Doplnit do rozpočtu práci partnera 2028.
-- **Ondřej dostupný jen tento týden, od 6. 7. omezen** → na finalizaci zapojit kolegyni **Lucii**.
-- **Vyjasnit:** fin. toky a partnerská smlouva (lead vs realizátor, fakturace; kontakt Anička); režijní/nepřímé náklady a spolufinancování (kontakt Petr Pežinka).
-- **Prostor:** schůzka s Výstavištěm (týden od 29. 6.); alternativy Žižkárna aj.
-
-## ▶ Kde pokračovat (původní)
-- **HOŘÍ — One Pager pro JVTP (handout ke schůzce s ředitelem JVTP).** Termín **23. 6. dopo**.
-  Kostra: `../strategie/one-pager-jvtp.md`. Chybí: vložit doporučený rozpočet (3 mil. blok
-  z `../strategie/rozpocet-3M-co-odbavime.md`, sekce 7 dokumentu) do sekce 6 + Ondřejův text
-  (sekce 1–3, 5). Viz úkoly A–C v `../UKOLY.md`.
-- **Rozhodnout sestavu FabLabu:** doporučeno **ŠKOLNÍ ROK** (294k/měs, 10,2 měs, ~5 100 dětí)
-  vs STŘEDNÍ. Pak lze pustit iteraci 3 modelace. Otevřené: mix večerů, vlastní výnos
-  100–200/dítě, **in-kind příslib nájmu + vybavení od JVTP** (bez něj se pilot zkrátí).
-- **Trvá blocker:** zahraniční partner + Letter of Intent (síť JVTP nestačí). Termín 10. 7.
-- **Plaud login** drží jen v rámci session — v nové session případně znovu „Log me into Plaud".
-  Transkripty děláme lokálně (mlx-whisper) a porovnáváme s Plaud (viz user memory).
+> **Archiv postupu:** starší „Kde pokračovat" (po schůzkách 7. 7. / 2. 7. / 30. 6. / původní) je
+> shrnutý v „Log rozhodnutí" níže; překonané rozpočtové modelace v `../strategie/archiv/`.
 
 ## Základní fakta
 - **Výzva:** (Perma)kulturní Open Call 2026, 2. výzva — EHMK České Budějovice 2028.
@@ -185,7 +162,7 @@
   (handout ke schůzce). Reference provozu: HW Lab Praha. ⚠️ Zahraniční partner + LoI stále
   nevyřešen (síť JVTP nestačí).
 - 22. 6. 2026 — **Rozpočtová/kapacitní modelace FabLabu** (2 ultracode iterace, Opus):
-  `../strategie/rozpocet-model-fablab.md` (plný model) + `../strategie/rozpocet-3M-co-odbavime.md`
+  `../strategie/archiv/rozpocet-model-fablab.md` (plný model) + `../strategie/archiv/rozpocet-3M-co-odbavime.md`
   (strop 3 mil. cash). Doporučená sestava **ŠKOLNÍ ROK**: ~294k/měs → 10,2 měs provozu,
   ~5 100 unikátních dětí, 530 oprav. ⚠️ Celoročnost závisí na **in-kind nájmu + vybavení od
   JVTP** (bez písemného příslibu se pilot zkrátí na ~7–8 měs). K rozhodnutí: sestava, mix

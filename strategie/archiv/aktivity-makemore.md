@@ -1,7 +1,7 @@
 # Aktivity Make More — podklad pro žádost
 
 > ⛔ **ARCHIV — NEPOUŽÍVAT (překonáno 8. 7. 2026).** Drží starý model (MM 3,6 mil., provoz 10,2 měs).
-> **Aktuální MM scope + rozpočet (rámec 2 mil.) je v [`final-mm-zapojeni-a-aktivity.md`](final-mm-zapojeni-a-aktivity.md).**
+> **Aktuální MM scope + rozpočet (rámec 2 mil.) je v [`final-mm-zapojeni-a-aktivity.md`](../final-mm-zapojeni-a-aktivity.md).**
 > Ponecháno jen pro historii.
 
 > Pracovní dokument. Připravil Ondřej 29. 6. 2026 jako vstup pro schůzku s Janou (30. 6., 14:00).

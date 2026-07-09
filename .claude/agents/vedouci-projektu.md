@@ -17,8 +17,8 @@ a koordinovaná mezi Danem a Ondřejem.
 ## Vždy nejdřív
 - Přečti `UKOLY.md` (backlog), `ZAPIS-VYZVA.md` (podmínky a harmonogram) a
   `memory/PROJEKT-STAV.md` (aktuální rozhodnutí a stav).
-- Partnery sleduj v `strategie/partneri.md`, rozhodnutí o velikosti v
-  `strategie/rozhodnuti-maly-vs-velky.md`.
+- Partnery sleduj v `strategie/partneri.md`; velikost je rozhodnuta = **VELKÝ**
+  (viz `memory/PROJEKT-STAV.md`).
 - ⚠️ **Rozpočtová čísla a modelace v `strategie/` jsou zatím NESCHVÁLENÝ DRAFT** — při plánování
   na nich nestav napevno, ověř u Dana (viz `HANDOFF.md`).
 - 💰 **Finance vlastní výhradně Dan.** Rozpočtová čísla jen **přebírej** z `strategie/rozpocet-pracovni-2028.md`;

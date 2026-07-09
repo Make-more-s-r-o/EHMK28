@@ -6,6 +6,19 @@
 
 ---
 
+## Stav k 9. 7. 2026 (předává: Dan) — den před uzávěrkou
+
+- **✅ MM díl schválen** (rozpočet 2 mil., aktivity, harmonogram) → `strategie/final-mm-zapojeni-a-aktivity.md`;
+  finance i texty MM sladěné ve formuláři (`Downloads/FinalVerze…`).
+- **Repo srovnané:** překonané modelace přesunuty do `strategie/archiv/`; PROJEKT-STAV i nástěnka aktuální.
+- **Zbývá do podání (pá 10. 7. dopoledne):** projektový plán v XLSX, JVTP části, oprava mailu realizačního
+  garanta (Jana), rozhodnutí flat-rate cofinance; **LoI podpis** (Grand Garage), **přílohy JVTP** (stanovy,
+  výpis majitelů, plná moc), **registrační Google formulář** (Jana za JVTP). Podání = e-mail na
+  `opencall@budejovice2028.cz` + registrační formulář.
+- **Po podání:** zakonzervování dle schváleného plánu (snapshot + `git tag`, archiv verzí, learnings, repo → private).
+
+---
+
 ## Stav k 5. 7. 2026 (předává: Ondřej)
 
 > ⚠️ Ondřej odchází na dovolenou 5. 7. — dostupný je od cca 14. 7. **Deadline žádosti: 10. 7.**
@@ -43,7 +56,7 @@
 ### 📌 Vzkaz pro Ondřeje — ROZPOČET
 Postavil jsem **rozpočtový rozpis 2027–2028** → `strategie/rozpocet-pracovni-2028.md`. Podle
 nového pravidla v `AGENTS.md` je to **jediný zdroj finančních čísel — finance vlastní jen Dan.**
-- **Tvůj `strategie/aktivity-makemore.md` prosím sjednoť s těmito čísly** (školní blok tam máš jinak:
+- **Tvůj `strategie/archiv/aktivity-makemore.md` prosím sjednoť s těmito čísly** (školní blok tam máš jinak:
   8 tříd/týden, 28 týdnů, materiál 75 Kč/dítě, vstupné 150, nájem 20k, doprava). **Needefinuj vlastní
   finanční čísla** — přebírej je odtud; když něco chybí, napiš mně.
 - **Já neměním tvoje soubory**, ty neměň `rozpocet-pracovni-2028.md`. Děláme odděleně.
@@ -88,10 +101,10 @@ Týká se to **hlavně rozpočtových čísel**. Prosím:
 
 ### Co je hotové (ale NESCHVÁLENÉ)
 - `schuzky/2026-06-22-*` — zápis schůzky + dva přepisy (lokální mlx-whisper + Plaud) + porovnání.
-- `strategie/rozpocet-model-fablab.md` — plný kapacitní/nákladový model FabLabu (2 ultracode iterace).
-- `strategie/rozpocet-3M-co-odbavime.md` — model na **3 mil. cash**; doporučená sestava **ŠKOLNÍ ROK**
+- `strategie/archiv/rozpocet-model-fablab.md` — plný kapacitní/nákladový model FabLabu (2 ultracode iterace).
+- `strategie/archiv/rozpocet-3M-co-odbavime.md` — model na **3 mil. cash**; doporučená sestava **ŠKOLNÍ ROK**
   (~294k/měs, 10,2 měs, ~5 100 unik. dětí, 530 oprav). Vše DRAFT.
-- `strategie/one-pager-jvtp.md` — **kostra** One Pageru pro JVTP; rozpočet (sekce 6) je placeholder.
+- `strategie/archiv/one-pager-jvtp.md` — **kostra** One Pageru pro JVTP; rozpočet (sekce 6) je placeholder.
 
 ### Co je rozpracované
 - **Živá nástěnka README + generátor** (`tools/generate-dashboard.mjs`, `.github/workflows/dashboard.yml`)

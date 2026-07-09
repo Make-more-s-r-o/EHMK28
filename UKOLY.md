@@ -1,5 +1,10 @@
 # Úkoly — backlog projektu
 
+> **⏱️ Stav k 9. 7. (den před uzávěrkou):** MM díl schválen a sladěný ve formuláři; repo srovnané
+> (překonané do `strategie/archiv/`). **Zbývá:** dokončit formulář (projektový plán, JVTP části),
+> **LoI podpis**, **přílohy JVTP** (stanovy/výpis/plná moc), **registrační formulář** → **podání pá 10. 7.**
+> **Aktuální stav vždy:** `memory/PROJEKT-STAV.md`. Sekce níže jsou z větší části **historické** (backlog sprintu).
+
 Stav k 7. 7. 2026. **Uzávěrka 10. 7. 2026, 23:59 CET** → zbývají ~3 dny. Hodnotící komise **21. 8.**
 Legenda stavu: ⬜ čeká · 🟡 dělá se · ✅ hotovo · 🔴 blokuje ostatní.
 
