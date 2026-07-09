@@ -6,6 +6,15 @@
 
 ---
 
+## ✅ PODÁNO — 10. 7. 2026
+
+Žádost **odeslána** (e-mail `opencall@budejovice2028.cz` + registrační Google formulář za JVTP).
+Rozpočet **8 mil. / podpora 4 mil. = 50 %**. Master = `FinalVerze … -2.xlsx`. Formulář už neměnit.
+**Další milník: hodnotící komise 21. 8. 2026.** Zakonzervování: snapshot `podani-2026-07-10/`,
+learnings `RETRO.md`, repo → private. Historie přípravy níže.
+
+---
+
 ## Stav k 9. 7. 2026 (předává: Dan) — den před uzávěrkou
 
 - **✅ MM díl schválen** (rozpočet 2 mil., aktivity, harmonogram) → `strategie/final-mm-zapojeni-a-aktivity.md`;

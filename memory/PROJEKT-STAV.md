@@ -4,28 +4,21 @@
 > po každém větším kroku. (Detaily podmínek = `../ZAPIS-VYZVA.md`, úkoly = `../UKOLY.md`.)
 
 > [!NOTE]
-> **MM rozpočet a aktivity SCHVÁLENY Danem (8. 7. 2026)** — jediný MM zdroj
-> `../strategie/final-mm-zapojeni-a-aktivity.md`, finance `../strategie/rozpocet-pracovni-2028.md`.
-> Zbývá **finální díl JVTP** (číslo od Vojtěcha) → pak celkové % dosedne na 50 %. Historické
-> modelace jsou v `../strategie/archiv/`. Předání a další kroky viz `../HANDOFF.md`.
+> **✅ ŽÁDOST PODÁNA (10. 7. 2026).** Grant (Perma)kulturní Open Call 2026 odeslán.
+> Finální formulář: celkový rozpočet **8 mil. / podpora 4 mil. = 50 %**. MM díl (2 mil.) schválen —
+> `../strategie/final-mm-zapojeni-a-aktivity.md`. **Další milník: hodnotící komise 21. 8. 2026.**
+> Přesně odeslaná verze → snapshot `../podani-2026-07-10/` (soubory doplní Dan po přepnutí repa na private).
 
-**Poslední aktualizace:** 9. 7. 2026 (repo-úklid + archiv; MM díl schválen, den před uzávěrkou)
+**Poslední aktualizace:** 10. 7. 2026 (PODÁNO — zakonzervování projektu)
 
-## ▶ Kde pokračovat (stav k 9. 7. — den před uzávěrkou)
+## ▶ Kde pokračovat (po podání — 10. 7. 2026)
 
-- **MM díl SCHVÁLEN (Dan, 8. 7.):** rozpočet 2 mil. + aktivity + harmonogram → `../strategie/final-mm-zapojeni-a-aktivity.md`.
-  Program 650 tis. → **~105 tříd / ~2 500 návštěv ≈ ~2 000 unik. dětí** (mistr 550/h, lektoři 350/h,
-  3 h/třída, materiál 100 Kč); vstupné 100 Kč → příjem ~250 tis. na rozšiřující aktivity.
-- **Formulář:** finální XLSX u Dana (`Downloads/FinalVerze…`), MM texty i finance sladěné. Zbývá
-  **projektový plán**, **JVTP části**, oprava mailu realizačního garanta (Jana), rozhodnutí
-  **flat-rate jako cofinance** (≤ 20 % podpory).
-- **Do podání (pá 10. 7. dopoledne, uzávěrka 23:59 CET):** JVTP číslo od Vojtěcha → dopočítat celkové
-  % (cíl 4/8 = **50 %**) → dokončit formulář → **4 přílohy e-mailem** na `opencall@budejovice2028.cz`
-  (formulář XLSX, LoI, stanovy+výpis majitelů JVTP, plná moc) + **registrační Google formulář** (Jana za JVTP).
-- **Otevřené blokery:** **LoI podpis** (Grand Garage, `jakob.aigner@grandgarage.eu`), **přílohy JVTP**
-  (stanovy, výpis majitelů, plná moc), partnerská dohoda, prostor (výstaviště ≤ ~25 tis./měs.).
-- **Po podání — zakonzervování:** snapshot odeslaného + `git tag`, archiv verzí, learnings; repo → private
-  (plán schválen 9. 7.).
+- **✅ Podáno.** Formulář už neměnit. Přesně odeslaná verze = master `FinalVerze … -2.xlsx`
+  → snapshot `../podani-2026-07-10/`.
+- **Další milník: komise 21. 8. 2026.** Do té doby držet stav, neměnit podklady.
+- **Když projde:** memorandum → smlouva na přípravu 2027 → **Projektová posilovna (~2–5/2027)** →
+  realizace 2028; reporting 1× ročně.
+- **Zakonzervování (10. 7.):** archiv verzí ✓, learnings → `../RETRO.md`, repo → **private** (org admin).
 
 > **Archiv postupu:** starší „Kde pokračovat" (po schůzkách 7. 7. / 2. 7. / 30. 6. / původní) je
 > shrnutý v „Log rozhodnutí" níže; překonané rozpočtové modelace v `../strategie/archiv/`.
@@ -74,6 +67,11 @@
 - JVTP je „dlouhodobý velmi prověřený partner."
 
 ## Log rozhodnutí
+- 10. 7. 2026 — **✅ ŽÁDOST PODÁNA.** Grant (Perma)kulturní Open Call 2026 odeslán e-mailem na
+  `opencall@budejovice2028.cz` + registrační Google formulář (za JVTP). Finální formulář: rozpočet
+  **8 mil. / podpora 4 mil. = 50 %** (JVTP díl doplněn → dřívější flag o stropu vyřešen). Master =
+  `FinalVerze … -2.xlsx`. Následuje **zakonzervování** (snapshot `../podani-2026-07-10/`, archiv
+  verzí, learnings `../RETRO.md`, repo → private). Další milník: **hodnotící komise 21. 8. 2026**.
 - 8. 7. 2026 — **MM rozpočet a aktivity SCHVÁLENY (Dan).** Kompletní podklad:
   `../strategie/final-mm-zapojeni-a-aktivity.md` („FINAL — MM zapojení a aktivity"). MM podíl grantu
   **2 mil. Kč za oba roky** (2027 = 320 tis., 2028 = 1 680 tis.), obálky **aktivity 1,35 / koordinátor
